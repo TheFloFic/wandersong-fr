@@ -2,7 +2,10 @@
 Après plus d'un an de travail, la fan-traduction française de Wandersong est fini et désormais disponible à tous ! Cette traduction a été réalisée entièrement seul, soyez donc indulgent en cas d'erreur, j'essaierais de mettre à jour régulièrement le patch pour corriger les soucis rencontrés.
 
 Cette traduction n'est pour le moment disponible que sur Windows, je ne m'y connais hélas pas assez en Linux & MAC. Si des personnes sont volontaires pour m'aider à ce sujet, n'hésitez pas à me contacter ! 
+
 Le patch a été prévu pour la version Steam du jeu, si le besoin se fait savoir, j'essaierais d'également le rendre compatible avec la version GoG. Le patch n'est pas compatible avec la version Itch.io.
+
+Ce patch n'est également pas compatible avec les versions consoles (beaucoup trop contraignant techniquement)
 
 # Comment ça marche ?
 - Premièrement, télécharger la dernière release [Lien à venir]
@@ -41,3 +44,11 @@ Steam permet de vérifier l'intégrité des fichiers du jeu, en cas de différen
 * Dans "Fichiers installés", cliquer sur "Vérifier l'intégrité des fichiers du jeu"
 * Steam va retélécharger les fichiers modifiés
 * Votre jeu est de nouveau en Anglais
+
+# Contenu manquant
+Si vous êtes bien curieux, vous remarquerez peut-être que certains dialogues ne sont pas encore traduits. Le premier objectif était de traduire l'essentiel du jeu, ce qu'un joueur lambda rencontrera. Par la suite il reste :
+* Dialogues alternatifs
+* Dialogues secrets
+* Commentaire de développeur
+
+L'idée est bien sûre de tout traduire, tout sera fait au fur et à mesure, et le patch sera mis à jour en conséquence !
