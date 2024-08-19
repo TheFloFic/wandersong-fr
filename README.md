@@ -8,7 +8,7 @@ Le patch a été prévu pour la version Steam du jeu, si le besoin se fait savoi
 Ce patch n'est également pas compatible avec les versions consoles (beaucoup trop contraignant techniquement)
 
 # Comment ça marche ?
-- Premièrement, télécharger la dernière release [Lien à venir]
+- Premièrement, télécharger la dernière release : [https://github.com/TheFloFic/wandersong-fr/releases/download/Beta/Beta.zip](https://github.com/TheFloFic/wandersong-fr/releases/download/Beta/Beta.zip)
 - Déposer le répertoire "PatchFR" dans le répertoire ".\steamapps\common\Wandersong\PC"
   - Allez sur Steam, clic droit sur le jeu, puis Propriétés
   - Dans "Fichiers installés" cliquer sur "Parcourir..."
