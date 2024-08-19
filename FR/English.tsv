@@ -399,7 +399,7 @@
 9432	objMiriam	{shake}SOUPIR.{/shake}	
 9433	objMiriam	Est-ce que| {wiggle}t'es{/wiggle}| d'ici?
 9434	objBard	Ouais!	
-9435	objMiriam	Est-ce que| {wiggle}tu{/wiggle}| connais le chant du Régent?	
+9435	objMiriam	Est-ce que| {wiggle}tu{/wiggle}| connais l'Hymne du Régent?	
 9436	objBard	Quoi?	
 9437	objMiriam	{shake}Laisse tomber{/shake}	
 9438	objMiriam	Je te jure,| cette ville...	
@@ -413,8 +413,8 @@
 9447	objMiriam	Mais t'inquiète	
 9448	objMiriam	Je suis sur le coup	
 9449	objMiriam	Enfin, je devrais l'être...	
-9450	objMiriam	{shake .5}SI QUELQU'UN POUVAIT ME DONNER CE |{shake 1}F|I|C|H|U||{shake .5} CHANT DU RÉGENT!!!	
-9451	objBard	C'est quoi un chant du Régent??	
+9450	objMiriam	{shake .5}SI QUELQU'UN POUVAIT ME DONNER CE |{shake 1}F|I|C|H|U||{shake .5} HYMNE DU RÉGENT!!!	
+9451	objBard	C'est quoi un Hymne du Régent??	
 9452	objMiriam	J'ai pas le temps de t'expliquer	
 9453	objMiriam	Non	
 9454	objMiriam	Laisse-moi tranquille	
@@ -1461,7 +1461,7 @@
 1087	objViola	...	
 1088	objViola	Tu as joué avec brio,| Ash.	
 1089	objClara	|||Merci.	
-1090	objBard	C'était vraiment le chant du Régent??	
+1090	objBard	C'était vraiment l'Hymne du Régent??	
 1091	objClara	Euh.|| Ouais.	
 1092	objClara	...Est-ce que ça répond à ta question...?	
 1093	objBard	{quake}{shake}MIRIAM NE VA JAMAIS ME CROIRE!!!	
@@ -1697,7 +1697,7 @@
 			
 1332	objCalliope	!	
 1333	objCalliope	Qu'est-ce que tu fais ici?	
-1334	objBard	Est-ce que vous connaissez le chant du Régent?	
+1334	objBard	Est-ce que vous connaissez l'Hymne du Régent?	
 1335	objCalliope	...|Régent|.|.|.?	
 1336	objCalliope	{quake}{shake}NYA{/shake}| ha ha ha!| C'est marrant que tu demandes ça maintenant!	
 1337	objCalliope	Ça m'embête de te dire ça,| mais...	
@@ -1713,7 +1713,7 @@
 1347	objCalliope	{wiggle}Ça{/wiggle}| risque pas d'arriver.	
 1349	objCalliope	Mais ok, pourquoi pas.	
 1350	objCalliope	Je peux prédire à peu près tout et n'importe quoi.	
-1351	objCalliope	Qu'est-ce que tu cherches?| Le chant du Régent?	
+1351	objCalliope	Qu'est-ce que tu cherches?| L'Hymne du Régent?	
 1352	objBard	Ouais!	
 1353	objCalliope	{wiggle}Hmmmm...{/wiggle}	
 1354	objCalliope	{shake}TROUVÉ!	
@@ -2265,7 +2265,7 @@
 1903	objCaptain	Har!|| Je sais.	
 1904	objBard	C'est trop cool que vous soyez un pirate!	
 1905	objCaptain	Merrrci.	
-1906	objBard	Est-ce que vous savez quelque chose à propos du chant du Régent?	
+1906	objBard	Est-ce que vous savez quelque chose à propos de l'Hymne du Régent?	
 1907	objCaptain	Désolé,| moussaillon.|| J'en sais rien.	
 1908	objBard	Est-ce que vous avez vu le concert où j'ai chanté hier soir?	
 1909	objCaptain	Eh oui,| moussaillon.|| C'était vraiment excellent.	
@@ -2276,7 +2276,7 @@
 1914	objCaptain	Elle, c'est le Lady Arabica.	
 1915	objBard	Oh là là.	
 1916	objBard	Je m'en remets pas à quel point vous êtes cool...	
-1917	objBard	Bon,| je suis censé chercher le chant du Régent,	
+1917	objBard	Bon,| je suis censé chercher l'Hymne du Régent,	
 1918	objBard	Bon,| je suis censé rencontrer un Régent,	
 1919	objBard	Alors je pense que je vais vous laisser tranquille.	
 1920	objCaptain	Trrrès bien,| moussaillon.	
@@ -3384,7 +3384,7 @@
 3880	objMiriam	On aurait dit que ça avait mal tourné.	
 3881	objMiriam	Du coup je suis venue|, euh...	
 3884	objMiriam	Comment t'as fais pour arriver ici?	
-3885	objMiriam	Tu connaissais le chant du Régent...?	
+3885	objMiriam	Tu connaissais l'Hymne du Régent...?	
 3886	objMiriam	Est-ce que|| ça va?	
 3887	objBard	Non!	
 3888	objBard	Je suis pas le héros,| Miriam...	
@@ -5305,9 +5305,9 @@
 5870	objHero	Pour ta gouverne,	
 5871	objHero	J'ai sauvée la ville d'une {wiggle}attaque de monstres géants.{/wiggle}	
 5872	objHero	{shake}ET...{/shake}	
-5873	objHero	J'ai besoin que le Roi m'apprenne le chant du Régent!	
+5873	objHero	J'ai besoin que le Roi m'apprenne l'Hymne du Régent!	
 5874	objHero	Des trucs importants pour sauver le monde,| vous voyez?	
-5875	objMiriam	||{size .7}Le Roi|| {shake .5}connait le chant du Régent???	
+5875	objMiriam	||{size .7}Le Roi|| {shake .5}connait l'Hymne du Régent???	
 5876	objBard	{}{shake}{quake}ON EN A AUSSI BESOIN!	
 5877	objHero	{}Vraiment?	
 5878	objHero	{wiggle}OHHhhh...{/wiggle}| ouais,| c'est logique quand j'y pense...	
@@ -5366,7 +5366,7 @@
 5932	objMiriam	{wiggle}On{/wiggle}| peut direct aller voir le Roi...	
 5933	objMiriam	remettre ton message ridicule,	
 5934	objMiriam	et prendre de l'avance sur la {wiggle}VRAIE{/wiggle} quête.	
-5935	objMiriam	La Fin du monde?| Le chant du Régent?| Tu te souviens?	
+5935	objMiriam	La Fin du monde?| L'Hymne du Régent?| Tu te souviens?	
 5937	objMiriam	C'est un bon plan|, non?	
 			
 5938	objHero	Hey!|| Fais gaffe!	
@@ -6232,7 +6232,7 @@
 6839	objMiriam	On peut toujours parler à ta super pote,| Le Héros!	
 6840	objBard	{quake}{shake}NOOON!!||{/shake} Certainement pas ça non plus!!!	
 6841	objMiriam	C'est tes deux ||seuls choix!	
-6842	objMiriam	|Je| pense qu'on devrait se focaliser sur le chant du Régent.	
+6842	objMiriam	|Je| pense qu'on devrait se focaliser sur l'Hymne du Régent.	
 6843	objMiriam	Mais tu fais ce que tu veux!	
 			
 6844	objBard	Est-ce que vous savez quelque chose à propos de l'artiste qui loge ici?	
@@ -6351,7 +6351,7 @@
 6949	objLoreman	Quand j'étais au lycée,| tout le monde m'appelait "Nate le Grand".	
 6950	objLoreman	Les grains de café sont approvisionnés par les pirates!	
 6951	objLoreman	Une personne très forte est passé par ici récemment.	
-6952	objLoreman	Elle était à la recherche du chant du Régent!	
+6952	objLoreman	Elle était à la recherche de l'Hymne du Régent!	
 6953	objLoreman	Mais elle ne l'a pas trouvée...	
 6954	objLoreman	Eh bien,|| merci de m'avoir écouté.	
 6955	objLoreman	J'ai toujours plus d'histoire si tu veux m'écouter.	
@@ -7104,8 +7104,8 @@
 8109	objMatriarch	J'vais prendre ça pour un oui!	
 8110	objMatriarch	Langtree possède un esprit protecteur qu'on appelle Régent	
 8111	objMatriarch	Il pourrait nous dire qu'est-ce qui se passe avec ces fantômes	
-8112	objMatriarch	Pour lui rendre visite, tu dois juste apprendre son chant.	
-8113	objBard	Est-ce que {wiggle}vous{/wiggle} connaissez le chant?	
+8112	objMatriarch	Pour lui rendre visite, tu dois juste apprendre son hymne.	
+8113	objBard	Est-ce que {wiggle}vous{/wiggle} connaissez l'hymne?	
 8114	objMatriarch	Bah,|| ouais...	
 8115	objBard	Vous pouvez me le chanter?	
 8116	objMatriarch	...	
@@ -7123,13 +7123,13 @@
 8129	objBard	C'est pas grave!!	
 8130	objBard	Mais...|| est-ce qu'il y a quelqu'un qui ||pourrait|| le chanter pour moi?	
 8131	objMatriarch	Ouais|, une autre.	
-8132	objMatriarch	Il y a |{wiggle}une{/wiggle}| autre personne qui connaît le chant...	
+8132	objMatriarch	Il y a |{wiggle}une{/wiggle}| autre personne qui connaît l'hymne...	
 8133	objMatriarch	Une super bonne chanteuse en plus.	
 8134	objBard	Qui???	
 8135	objMatriarch	Ruby.	
 8136	objBard	La vieille dame ronchonne?	
 8137	objMatriarch	Ouaip.	
-8138	objBard	{speed .25}Et c'est{/speed} la |SEULE| autre personne qui connaît le chant?	
+8138	objBard	{speed .25}Et c'est{/speed} la |SEULE| autre personne qui connaît l'hymne?	
 8139	objMatriarch	Pour sûr	
 8140	objMatriarch	Ruby joue les durs|| mais je jure qu'elle a un coeur tendre au fond...	
 8141	objMatriarch	Demande gentiment.
@@ -7242,11 +7242,11 @@
 8245	objMermaid3	Et vos|| {quake}{shake}demandes!{/shake}	
 8246	objMermaid2	On pouvait plus,| genre,| vivre nos vies...	
 8247	objBard	Mais le truc que j'ai besoin est| {shake}super important!{/shake}	
-8248	objBard	J'essaie d'apprendre le chant du Régent pour sauver le monde!	
+8248	objBard	J'essaie d'apprendre l'Hymne du Régent pour sauver le monde!	
 8249	objMermaid1	...|||Hmmm...	
 8250	objMermaid2	...J'imagine que| {wiggle}ça va|{/wiggle} comme demande...	
 8251	objMermaid3	{shake}MAIS{/shake}	
-8252	objMermaid3	Si on t'apprend le chant...	
+8252	objMermaid3	Si on t'apprend l'Hymne...	
 8253	objMermaid3	Tu dois |{shake}PROMETTRE{/shake}| de garder ce coin secret|, compris?	
 8254	objMermaid3	On peut plus se permettre d'avoir des humains dans nos pattes à tout-va.	
 8255	objBard	Vous êtes|| {wiggle}sûres...?	
@@ -7933,7 +7933,7 @@
 8941	objMiriam	J'avais vraiment envie de voir la ville,| moi aussi...	
 8942	objMiriam	Je me suis jamais retrouvée face à autant de sorcières...	
 8943	objMiriam	D'une manière ou d'une autre,| on doit rencontrer la Reine.	
-8944	objMiriam	Elle a le chant du Régent, pas vrai?	
+8944	objMiriam	Elle a l'Hymne du Régent, pas vrai?	
 8946	objBard	T'en fais pas,| Miriam!	
 8947	objBard	J'ai...|| {wiggle}un plan!{/wiggle}	
 8948	objMiriam	Vraiment?|| Pour rencontrer la Reine?	
@@ -8284,7 +8284,7 @@
 9278	objBard	Est-ce que le point de nexus est ici?	
 9279	objMiriam	Non.	
 9280	objMiriam	Faut encore qu'on trouve...||| devine.	
-9281	objBard	Le chant du Régent?	
+9281	objBard	L'Hymne du Régent?	
 9282	objMiriam	Cette fois j'ai vraiment aucune idée de qui pourrait le connaître.	
 9283	objMiriam	Le point de nexus se trouve sur une île déserte.	
 9284	objMiriam	Il y a des gens sur cette île,| cela dit.	
@@ -8331,11 +8331,11 @@
 			
 9417	objBard	Elle est mignonne cette ville!	
 9418	objMiriam	||Je suppose...|| si t'as jamais vu de ville avant.	
-9419	objMiriam	N'oublie pas qu'on est là pour apprendre le chant du Régent.	
+9419	objMiriam	N'oublie pas qu'on est là pour apprendre l'Hymne du Régent.	
 9420	objMiriam	Je vais patiemment attendre là...	
 9421	objMiriam	Au cas où quelqu'un d'utile passerait dans le coin.	
 9422	objMiriam	Ça risque de prendre un moment.	
-9423	objMiriam	Trouver les chants des Régents...	
+9423	objMiriam	Trouver les Hymnes des Régents...	
 9424	objMiriam	Est {wiggle}de loin{/wiggle} la pire partie de cette histoire de sauvetage du monde.	
 9425	objMiriam	Je déteste devoir|| parler aux gens...	
 9426	objBard	Ça me dérange pas!	
@@ -8350,10 +8350,10 @@
 9396	objMiriam	{shake}À ORGANISER DES CONCERTS!!{/shake}	
 9397	objMiriam	Quand je t'ai |spécifiquement| dit de ne pas le faire!!!	
 9398	objMiriam	Ou peut-être que t'as oublié la {quake}{shake}fin{/shake} du monde??
-9399	objBard	J'ai trouvé le Chant du Régent!	
+9399	objBard	J'ai trouvé l'Hymne du Régent!	
 9400	objMiriam	Oh.||| Pour de vrai?	
 9401	objBard	Ouais!|| Qu'est-ce que je fais maintenant?	
-9402	objMiriam	Va trouver les Cristaux Respirants et chante le chant!	
+9402	objMiriam	Va trouver les Cristaux Respirants et chante l'Hymne!	
 9403	objMiriam	Ils sont dans la grotte qu'on a traversée hier.	
 9404	objMiriam	T'as qu'à suivre les cristaux tout en bas.	
 9405	objBard	Tu viens pas?	
@@ -8489,7 +8489,7 @@
 9506	objMiriam	Euh.|| Ouais!	
 9507	objMiriam	{size 1.8}Tu te tiens tout pile sur le point de nexus!	
 9508	objBard	||Oh!	
-9509	objBard	Alors on a juste besoin du chant du Régent!	
+9509	objBard	Alors on a juste besoin de l'Hymne du Régent!	
 9510	objMiriam	Pas la peine, j'ai déjà trouvée!	
 9511	objMiriam	{size 1}J'ai fait |{wiggle}un paquet{/wiggle}| de trucs pendant que t'étais occupé à être inutile.	
 9512	objBard	Oh.	
@@ -8510,17 +8510,17 @@
 9529	objBard	Désolé	
 9530	objMiriam	Bon.| Pendant que t'étais occupé à te morfondre...	
 9532	objMiriam	Moi |{wiggle}pendant ce temps-là,{/wiggle}| j'ai fait un paquet de trucs.	
-9533	objMiriam	J'ai trouvée le chant du Régent!	
+9533	objMiriam	J'ai trouvée l'Hymne du Régent!	
 9534	objMiriam	Du coup on peut directement aller voir le Régent de cet endroit.	
 9535	objBard	...Il y a un Régent ici...?	
 9536	objMiriam	Euh.|| Ouais!	
 9537	objMiriam	{size 1.8}Tu te tiens tout pile sur le point de nexus!	
 9538	objBard	||Oh!	
-9539	objMiriam	{size 1}Et devine quoi.| Le Chant du Régent?	
+9539	objMiriam	{size 1}Et devine quoi.| L'Hymne du Régent?	
 9540	objMiriam	C'est| la berceuse que ta mère avait l'habitude de chanter.	
-9541	objBard	Je le connais déjà ce chant!	
+9541	objBard	Je le connais déjà cet Hymne!	
 9542	objMiriam	Ouais,| je sais,| quel retournement de situation.	
-9544	objBard	Alors j'ai juste besoin de chanter ça...	
+9544	objBard	Alors j'ai juste besoin de le chanter...	
 9545	objMiriam	C'est ce que je dis.	
 9546	objMiriam	Dès que t'es prêt.	
 			
@@ -9151,7 +9151,7 @@
 10236	objMiriam	N'oublie pas...	
 10237	objMiriam	On est |aussi| des fugitifs.|| Tu te souviens?	
 10238	objMiriam	On doit faire profil bas.	
-10239	objMiriam	On récupère le chant du Régent,|| et on se tire	
+10239	objMiriam	On récupère l'Hymne du Régent,|| et on se tire	
 10240	objMiriam	{shake .5}Avant{/shake}|| que l'invasion ne débute...	
 10241	objMiriam	Et {shake .5}|sans|| attirer l'attention sur nous!!!{/shake}	
 10242	objMiriam	Je pense qu'on en a eu |{wiggle}assez{/wiggle}| de se faire attaquer	
@@ -9361,11 +9361,11 @@
 10460	objMiriam	T'as déjà rencontré la Reine,| c'est ça?	
 10461	objBard	Oui.	
 10462	objMiriam	{shake}ET BAH SUPER{/shake}	
-10463	objMiriam	Donc t'as le chant du Régent?	
+10463	objMiriam	Donc t'as l'Hymne du Régent?	
 10464	objBard	...||Ouais...	
 10465	objMiriam	Qu'est-ce qu'il y a	
 10466	objMiriam	C'est quoi le problème	
-10467	objBard	La guerre n'a pas cessé,| Miriam!	
+10467	objBard	La guerre a toujours lieu,| Miriam!	
 10469	objBard	Même après tout ce chemin parcouru...	
 10470	objBard	On a rien pu changer...	
 10471	objMiriam	{shake}*Soupir*	
@@ -9406,7 +9406,7 @@
 10506	objMiriam	Pour faire simple.	
 10507	objMiriam	Ma grand-mère l'expliquerait sans doute mieux que moi.	
 10508	objMiriam	Quoi qu'il en soit,| ça nous est pas utile pour le moment.	
-10509	objMiriam	Le chant du Régent, tout ça tout ça.	
+10509	objMiriam	L'Hymne du Régent, tout ça tout ça.	
 			
 10510	objMiriam	Hey...	
 10511	objMiriam	T'as remarqué...| à quel point c'est...|| calme...?	
@@ -10750,7 +10750,7 @@
 			
 11707	objBard	{shake}OH ||NOOON!!!	
 11708	objBard	{}J'ai totalement oublié...	
-11709	objBard	De demander pour le chant du Régent!!!	
+11709	objBard	De demander pour l'Hymne du Régent!!!	
 			
 11710	objPurnima	Fant-homme!!!	
 11711	objPurnima	Je suis vraiment désolée...	
@@ -10759,11 +10759,11 @@
 11714	objPurnima	Je pense sincèrement qu'Hala avait raison.	
 11715	objPurnima	Et s'il y a |quoi que ce soit| que je puisse faire pour aider...	
 11716	objPurnima	Demande-moi.	
-11717	objBard	Est-ce que tu peux m'apprendre le chant du Régent?	
-11718	objPurnima	Le chant du Régent...?	
+11717	objBard	Est-ce que tu peux m'apprendre l'Hymne du Régent?	
+11718	objPurnima	L'Hymne du Régent...?	
 11719	objPurnima	Je peux,|| si ça t'aide...	
 11720	objPurnima	Et...	
-11721	objPurnima	T'avais besoin du chant du Régent, pas vrai?	
+11721	objPurnima	T'avais besoin de l'Hymne du Régent, pas vrai?	
 11722	objPurnima	Je peux |au moins| t'apprendre ça.	
 11723	objPurnima	Si ça t'aide...	
 11724	objBard	Oui!!!	
@@ -10884,7 +10884,7 @@
 11846	objQueen	{whisper}Hmm.	
 11847	objBard	{}Euh,|| et j'essaie de sauver le monde...	
 11848	objQueen	{whisper}Hmm.	
-11849	objBard	{}Donc j'ai besoin d'apprendre le chant du Régent...	
+11849	objBard	{}Donc j'ai besoin d'apprendre l'Hymne du Régent...	
 11850	objQueen	{whisper}Hmm.	
 11851	objBard	{}Est-ce que...|| vous pouvez me l'enseigner?	
 11852	objQueen	{whisper}Non...	
@@ -11118,7 +11118,7 @@
 			
 12100	objBard	Salut, Ruby!	
 12101	objBard	...	
-12102	objBard	Je voudrais apprendre le chant du Régent...	
+12102	objBard	Je voudrais apprendre l'Hymne du Régent...	
 12103	objBard	Est-ce que tu sais quoi que ce soit à ce sujet?	
 12104	objRuby	{speed .15}{wiggle}{shake}Non.{/shake}	
 12105	objRuby	{speed 1}Et| j'en ai plus qu'assez	
@@ -11128,17 +11128,17 @@
 12109	objMatriarch	{}Ruby!	
 12110	objBard	!	
 12111	objMatriarch	C'est pas correct ce genre d'attitude	
-12112	objMatriarch	Tu te souviens |vraiment|| pas du chant du Régent?	
+12112	objMatriarch	Tu te souviens |vraiment|| pas de l'Hymne du Régent?	
 12113	objRuby	{speed .7}{wiggle}{shake}Non.{/shake}	
 12114	objMatriarch	{}{shake}VRAIMENT???{/shake}	
-12115	objMatriarch	Ce chant que tu chantais| {shake .5}TOUT LE TEMPS?{/shake}	
+12115	objMatriarch	Cet Hymne que tu chantais| {shake .5}TOUT LE TEMPS?{/shake}	
 12118	objMatriarch	Tu sais...|| À l'époque?|| Avec Ron?	
 12119	objMatriarch	Et aux rassemblements autour du vieux grand arbre?	
-12120	objMatriarch	Le chant dont |{shake .5}TU{/shake}| étais chargée de chanter?	
+12120	objMatriarch	L'Hymne dont |{shake .5}TU{/shake}| étais chargée de chanter?	
 12121	objMatriarch	{shake .5}TOUS{/shake}| les ans?	
 12122	objMatriarch	Tu t'souviens |{shake .5}VRAIMENT{/shake}| pas de celui-là?	
 12123	objRuby	{speed .5}{wiggle}...	
-12124	objRuby	Ah oui...|| ce| chant.	
+12124	objRuby	Ah oui...|| cet| Hymne.	
 12125	objRuby	{speed 1}Je |m'en souviens|| peut-être.	
 12126	objBard	{}!	
 12127	objBard	Tu peux le chanter??	
@@ -11150,7 +11150,7 @@
 12133	objBard	{}Merci, Ruby!	
 12134	objBard	Je savais que t'étais pas {shake}VRAI|MENT{/shake} une peste!	
 12135	objRuby	{wiggle}{shake}...{/shake}	
-12136	objRuby	{wiggle}{speed .7}J'ai chantée le chant pour toi.	
+12136	objRuby	{wiggle}{speed .7}J'ai chantée l'Hymne pour toi.	
 12137	objRuby	Vous pouvez sortir maintenant.	
 12138	objMatriarch	{}Toujours un plaisir,| Ruby.	
 12140	objMatriarch	Gamin,| soon as ya leave this house...	
@@ -12296,7 +12296,7 @@
 13432	objMiriam	On dirait que c'est à moi de nous sortir de ce pétrin!	
 13433	objBard	Qu'est-ce que tu vas faire?	
 13434	objMiriam	Je suis une sorcière.|| Avec de super pouvoirs magiques.	
-13435	objMiriam	Je vais les utiliser.	
+13435	objMiriam	Je vais m'en servir.	
 13436	objBard	Est-ce que ça va pas le blesser?	
 13437	objMiriam	Euh, {wiggle}sûrement!{/wiggle}	
 13438	objMiriam	C'est comme ça que ça marche!	
