@@ -283,7 +283,7 @@
 7745	objMask	Ça te fait sentir |bien,| t'sais?	
 7746	objMask	Il y a des millions de milliards de milliards de soleils comme le nôtre.	
 7747	objMask	Mais le nôtre nous est spécial,| car il nous a donné la vie.	
-7748	objMask	Et il en donne encore plus chaque jours.	
+7748	objMask	Et il en donne encore plus chaque jour.	
 7749	objMask	Il donne encore et encore et encore...	
 7750	objMask	On est tellement chanceux de l'avoir.	
 7751	objMask	Nous les humains on est pas comme le soleil.	
@@ -292,7 +292,7 @@
 7756	objMask	Je pense que le soleil est là pour nous rappeler que tout n'est pas si mal.	
 7757	objMask	Et il est toujours là,| à nous le rappeler.	
 7758	objMask	Même quand on ne le voit pas à travers les nuages.	
-7759	objMask	J'ai trouvé un endroit parfait pour profiter le soleil...	
+7759	objMask	J'ai trouvé un endroit parfait pour profiter du soleil...	
 7760	objMask	Un endroit en hauteur dans le désert,| loin d'ici...	
 7761	objMask	Si tu le trouves...|| eh bien,| je ne devrais rien dire.	
 7762	objMask	C'est mieux que tu découvres par toi même.	
@@ -500,7 +500,7 @@
 268	objQueen	{whisper}C'est également notre fardeau...	
 			
 273	objQueen	{whisper}Je ne peux même pas concevoir un tel agissement...	
-274	objQueen	Nous attaquer durant une tel désastre...	
+274	objQueen	Nous attaquer durant un tel désastre...	
 275	objQueen	Barbares...	
 276	objKing	{}Non,|| nous sommes venus car nous savions que |{wiggle}vous{/wiggle}| viendriez.	
 277	objKing	Nous avons beaucoup de soucis en ce moment.	
@@ -858,7 +858,7 @@
 492	objBard	Hmm,	
 493	objBard	Miriam!	
 494	objAnanya	{size .6}C'eeee|st trooo|fftudfdkjgmls	
-495	objBard	{}Du coup Miriam la licorne,| est partie à la recherde de sa corne...	
+495	objBard	{}Du coup Miriam la licorne,| est partie à la recherche de sa corne...	
 496	objAnanya	{size .3}touhjfhacmgnjganfadhfd......	
 497	objBard	{}Et...	
 498	objBard	...	
@@ -1177,7 +1177,7 @@
 808	objMiriam	Tu sais,| juste une fois j'aimerais avoir un train d'avance.	
 809	objBard	Désolé Miriam	
 810	objMiriam	Pas grave	
-811	objMiriam	T'as qu'à|| continuer de faire ce que tu fais,| je suppose.	
+811	objMiriam	T'as qu'à|| continuer de faire ce que tu fais,| j'imagine.	
 812	objMiriam	J'aurais qu'à me balader tel la comparse malchanceuse que je suis.
 			
 814	objBadriyah	Oh mais.	
@@ -1642,7 +1642,7 @@
 1267	objBard	Donc...	
 1268	objBard	Est-ce que ça veut dire que je suis un héros maintenant?	
 1272	objCalliope	Euh...| hm.	
-1273	objCalliope	Je suppose que oui.	
+1273	objCalliope	J'imagine que oui.	
 1274	objCalliope	Je vais faire une autre prédiction...	
 1275	objCalliope	Sur {wiggle}toi{/wiggle}|, cette fois.	
 1276	objCalliope	{size .8}Voyons si t'es vraiment le héros tant attendu...	
@@ -1753,7 +1753,7 @@
 1389	objHala	J'ai besoin de parler à maman.	
 1390	objCandra	{}Oh bon sang,| Hal.	
 1391	objCandra	Elle est morte d'inquiétude!	
-1392	objCandra	On l'est tous.	
+1392	objCandra	On l'est toutes.	
 1393	objCandra	Qu'est-ce qui t'es arrivée?	
 1394	objHala	Je suis morte,| Can.	
 1395	objCandra	Je le sais |{wiggle}ça!{}	
@@ -1827,7 +1827,7 @@
 1470	objCandra	Et c'est ce qui a évolué en magie.	
 1471	objCandra	Ça a l'air fou...	
 1472	objCandra	Mais ça fonctionne,| donc j'imagine que c'est vrai.	
-1473	objCandra	J'aurais aimé pouvoir t'amener  au palace moi-même.	
+1473	objCandra	J'aurais aimé pouvoir t'amener au palace moi-même.	
 1474	objCandra	Mais tu dois jeter le sort toi-même pour y accéder...	
 1475	objCandra	Écris-le sur ta carte pour ne pas oublier.	
 1476	objCandra	...	
@@ -2560,7 +2560,7 @@
 2191	objClara	Je pense...	
 2192	objClara	Qu'elle voudrait que je joue avec toi.	
 2193	objClara	...	
-2194	objClara	Et je suppose,| qu'en sa mémoire...| c'est le moins que je puisse faire.	
+2194	objClara	Et j'imagine,| qu'en sa mémoire...| c'est le moins que je puisse faire.	
 2195	objBard	C'est super!!!	
 2196	objClara	S'il te plait, n'en fais pas tout un plat.	
 2197	objClara	Ça| me rend nerveux tout ça.	
@@ -2725,7 +2725,7 @@
 3157	objDeva	Qu'est-ce que t'en penses?	
 3158	objBard	C'est plutôt grand!	
 3159	objDeva	Tu te sens un peu dépassé?	
-3160	objDeva	J'imagien,| que vu qu'on peut voler...	
+3160	objDeva	J'imagine,| que vu qu'on peut voler...	
 3161	objDeva	Et marcher sur les murs et tout...	
 3162	objDeva	Ça nous semble pas si grand à nous...	
 3163	objDeva	Mais ça doit être choquant si t'as pas de magie...	
@@ -3039,7 +3039,7 @@
 3491	objHero	J'aurais presque espérée que ce soit pas aussi simple...	
 3492	objBard	Eyala m'a raconté...	
 3493	objBard	Ce qui s'est passé entre vous.	
-3494	objBard	Elle ne t'as pas mentie.||| Pas vrai?	
+3494	objBard	Elle ne t'as pas menti.||| Pas vrai?	
 3495	objBard	Elle croyait en nous!	
 3496	objBard	Si t'avais ne serait-ce qu'attendu...	
 3497	objBard	On aurait pu sauver le Roi des Rêves.	
@@ -3237,7 +3237,7 @@
 3740	objAngel	Ce n'était même pas censé être possible!	
 3741	objAngel	Mais vous avez |RENDU| ça possible!	
 3742	objAngel	Vous avez changés les règles à jamais...	
-3743	objAngel	Vous avez donné de l'espoir| à tout l'existence!	
+3743	objAngel	Vous avez donné de l'espoir| à toute l'existence!	
 3744	objAngel	Et c'est juste| si spécial...	
 			
 3746	objEduard	{size 1.2}Bienvenue à Mohabumi!	
@@ -3675,7 +3675,7 @@
 4163	objBard	Je vais e|ssay|er!	
 4164	objFernando	Whooaaa!!!	
 4165	objFernando	Ça a l'air pas mal compliqué!	
-4166	objFernando	Heh...|| mais je peux gérer..	
+4166	objFernando	Heh...|| mais je peux gérer.	
 4169	objFernando	Sérieux?	
 4170	objFernando	O|K| alors,| amigo.	
 4171	objFernando	Est-ce que ça sonne comme un bouquet final...?	
@@ -3816,7 +3816,7 @@
 4302	objFrancine	Quand j'étais petite, Ruby chantait à l'Arbre du Sommeil	
 4303	objFrancine	C'était apparemment un rituel pour communier avec le Régent...	
 4304	objFrancine	Mais il ne nous a jamais répondu.	
-4305	objFrancine	Je sais que Ruby peut paraître un peu dure parfois..	
+4305	objFrancine	Je sais que Ruby peut paraître un peu dure parfois.	
 4306	objFrancine	Mais son coeur est bon...|| juste vieux,| et mis à l'épreuve.	
 4307	objFrancine	Maintenant que Ron est de retour, Ruby a l'air|| plus heureuse.	
 4308	objFrancine	Personnellement,| je le trouve toujours un peu effrayant en fantôme...	
@@ -5133,10 +5133,10 @@
 5658	objHero	Je pensais qu'elle t'avait dit la même chose!	
 5659	objHero	Je comprenais pas pourquoi t'insistais...	
 5660	objHero	J'imagine que ça fait sens maintenant.	
-5661	objHero	Elle t'as juste||| mentie.	
+5661	objHero	Elle t'as juste||| menti.	
 5662	objBard	Non...	
 5663	objBard	Elle nous a dit|| des choses différentes.	
-5664	objBard	Peut-être que c'est à |{wiggle}toi{/wiggle} qu'elle a mentie!	
+5664	objBard	Peut-être que c'est à |{wiggle}toi{/wiggle} qu'elle a menti!	
 5665	objBard	Ou à nous deux!	
 5666	objHero	||Elle ne me mentirait pas!	
 5667	objHero	Je suis|| le Héros!	
@@ -5544,7 +5544,7 @@
 6124	objHiro	Hey salut.|| Je suis un héros en devenir, comme tu peux sûrement le voir.	
 6125	objHiro	Mes parents m'ont dit que faire le héros ça n'avait aucun avenir,	
 6126	objHiro	Mais je dois poursuivre mes rêves!	
-6127	objHiro	Donc,|| fais-moi signe si t'entends parler,| genre,|| de quêtes.	
+6127	objHiro	Donc,|| tiens-moi au courant si t'entends parler,| genre,|| de quêtes.	
 6128	objBard	Hmmmm...	
 6129	objBard	Des quêtes héroïques,| hein?	
 6130	objBard	Je ne suis au courant d'absolument aucune!	
@@ -6240,7 +6240,7 @@
 6846	objLena	Son arrivée en ville est récente.	
 6847	objLena	Ça joue de la musique dans sa chambre non-stop.	
 6848	objLena	Cela dit,| les voisins se plaignent pas.	
-6849	objLena	Je suppose qu'ils aiment bien.	
+6849	objLena	On dirait qu'ils aiment bien.	
 6850	objLena	Si je me souviens bien,	
 6851	objLena	J'ai cru entendre une histoire de visite pour des funérailles.	
 6852	objLena	Genre,|| au cimetière à l'entrée de la ville.	
@@ -6276,7 +6276,7 @@
 6880	objLena	La manière dont tout le monde en parlait,| je pensais que t'étais une sorte de célébrité.	
 6881	objLena	C'est vraiment cool d'avoir pris de ton temps pour chanter pour moi.	
 6882	objLena	Ta voix est aussi intéressante que ce qu'on raconte.	
-6883	objLena	Je suppose que je me sens un peu mieux maintenant que j'ai pu l'entendre.	
+6883	objLena	J'imagine que je me sens un peu mieux maintenant que j'ai pu l'entendre.	
 			
 6884	objLenny	C'est quoi le but?	
 6885	objLenny	Pourquoi se donner la peine?	
@@ -6286,7 +6286,7 @@
 6888	objLenny	Mais tu sais jamais quand un bon jour est proche.	
 6889	objLenny	Merci de m'avoir montré ça avec ta musique.	
 6890	objLenny	Je veux pas être triste pour toujours.	
-6891	objLenny	Mais je suppose que moi seul ai le pouvoir de changer ça.	
+6891	objLenny	Mais j'imagine que moi seul ai le pouvoir de changer ça.	
 6892	objLenny	Je vais profiter de chaque jour du mieux possible.	
 			
 6893	objLighter	T'as l'air fatigué,| l'ami.	
@@ -7047,8 +7047,8 @@
 8031	objBard	Non!	
 8032	objBard	Ouais!	
 8033	objMatriarch	C'est à gauche en sortant du village, en haut de la colline.	
-8034	objMatriarch	Chante le chant là où il y a l'arbre!	
-8035	objMatriarch	Va là-bas et chante le chant!	
+8034	objMatriarch	Chante l'Hymne là où il y a l'arbre!	
+8035	objMatriarch	Va là-bas et chante l'Hymne!	
 8036	objMatriarch	Je vais rester ici et m'assurer que mes gens sont en sécurité	
 8037	objMatriarch	{size .7}Qu'est-ce que je peux faire d'autres si je sais pas chanter...	
 8038	objMatriarch	{shake .5}FI|CHUS|| {shake}FANTÔMES!!!{/shake}	
@@ -7752,7 +7752,7 @@
 8759	objMiriam	...	
 8760	objMiriam	Je vais continuer à danser pendant un moment.	
 8761	objMiriam	Plus de blabla.	
-8762	objMiriam	Rien que de la dance.	
+8762	objMiriam	Rien que de la danse.	
 8763	objMiriam	Rien que moi.	
 8764	objMiriam	Ok?	
 8765	objBard	Ok!	
@@ -7849,7 +7849,7 @@
 8855	objMiriam	Tu peux faire de la magie en chantant,| hein?	
 8856	objBard	Ouais je peux!	
 8857	objBard	Ils ont dit que la magie c'est de la "musique avancée"!	
-8858	objBard	Euuh,| je suppose!	
+8858	objBard	Euuh,| on dirait!	
 8859	objBard	C'est comme ça que je suis arrivé ici...	
 8860	objBard	Il semblerait que |la musique...	
 8861	objBard	Soit une sorte de magie!	
@@ -8195,8 +8195,8 @@
 9195	objMiriam	Allez vas-y.	
 			
 9196	objMiriam	C'est quasi sûr que le point de nexus se trouve sur cette île.	
-9197	objMiriam	Cependant on peut pas faire grand chose sans le chant.	
-9198	objMiriam	Fais moi savoir si tu veux retourner dans le navire.	
+9197	objMiriam	Cependant on peut pas faire grand chose sans l'Hymne.	
+9198	objMiriam	Fais-moi signe si tu veux retourner dans le navire.	
 9199	objMiriam	Hey! T'es prêt à partir d'ici?	
 9200	objBard	Nar!	
 9201	objBard	Yar!	
@@ -8207,7 +8207,7 @@
 9205	objMiriam	J'imagine que le truc avec les sirènes s'est pas déroulé comme prévu, hein?	
 9206	objMiriam	...	
 9207	objMiriam	Tomber amoureux...||| quelle bêtise.	
-9208	objMiriam	Bon,| au moins t'as eu le chant...| pas vrai?	
+9208	objMiriam	Bon,| au moins t'as eu l'Hymne...| pas vrai?	
 			
 9209	objMiriam	Prêt à te rendre à la Cascade Perdue?	
 9210	objBard	Nah.	
@@ -8311,7 +8311,7 @@
 9305	objMiriam	{size .6}Je me suis jamais retrouvée aussi loin de chez moi.	
 9306	objBard	T'as le mal du pays?	
 9307	objMiriam	{shake .5}Ugh{}	
-9308	objMiriam	Je suppose,| si c'est ce que c'est.	
+9308	objMiriam	J'imagine,| si c'est ce que c'est.	
 9309	objMiriam	J'espère juste que ma grand-mère va bien et tout.	
 9315	objMiriam	C'est pas grave, va t'éclater avec tes nouveaux potes pirates.	
 9316	objMiriam	Je voudrais prendre| du temps pour moi.	
@@ -8476,7 +8476,7 @@
 9494	objMiriam	C'est| même pas comme ça.	
 9495	objMiriam	C'est juste un ami.|| Ok??	
 9496	objMiriam	||J'arrive pas à croire qu'on soit en train d'en parler...	
-9497	objMiriam	Bon dépêche-toi de chanter le chant.	
+9497	objMiriam	Bon dépêche-toi de chanter l'Hymne.	
 			
 9498	objMiriam	Eh bien regardez qui voilà!!!	
 9499	objMiriam	T'as enfin fini de te morfondre?	
@@ -8587,7 +8587,7 @@
 9605	objMiriam	Je préfère mon plan.	
 9606	objMiriam	Mais| j'imagine...	
 9607	objMiriam	Qu'on fera plutôt le tien.	
-9608	objMiriam	Eh bah,| fais-moi savoir,	
+9608	objMiriam	Eh bah,| fais-moi signe,	
 9609	objMiriam	Si jamais tu veux entendre des rumeurs de la ville...	
 9610	objMiriam	Ou quoi que ce soit d'autre...	
 9611	objMiriam	Donc, on cherche des gens tristes et sans aucun but, hein?
@@ -9013,7 +9013,7 @@
 10093	objMiriam	Vraiment?	
 10094	objMiriam	Et tu te sens pas blessé?|| Du tout?	
 10095	objBard	Bah...	
-10096	objBard	Je suppose...|| que ça m'a blessé.	
+10096	objBard	J'imagine...|| que ça m'a blessé.	
 10097	objBard	Un peu.	
 10098	objBard	Mais,|| plus que ça,	
 10099	objBard	Je suis vraiment content que tu sois revenue!	
@@ -9166,7 +9166,7 @@
 10250	objMiriam	Tu te sens mieux?	
 10251	objBard	Ouais!||| Juste un peu secoué...	
 10252	objMiriam	Super.	
-10253	objMiriam	Bon.|| C'est l'heure du chant!	
+10253	objMiriam	Bon.|| C'est l'heure de l'Hymne!	
 10254	objMiriam	...	
 10255	objMiriam	J'imagine|| que je vais le jouer sur mon piccolo...	
 10256	objMiriam	Vu que c'est moi qui le connait| cette fois...	
@@ -9185,18 +9185,18 @@
 10269	objAngel	{angel}Attendez attendez attendez!	
 10270	objMiriam	{}Qu'est-ce que |{wiggle}tu{}| veux?	
 10271	objAngel	{angel}Il y a eu une petite erreur...	
-10272	objAngel	Ce chant ne va pas fonctionner	
+10272	objAngel	Cet Hymne ne va pas fonctionner	
 10273	objMiriam	{}{shake}{quake}GAAHHH!!!{/shake}	
 10274	objMiriam	{shake .5}Pourquoi est-ce que je peux |rien| faire de bien...{/shake}	
 10275	objAngel	{angel}Non non non!|| Je veux dire...	
-10276	objAngel	C'est pas le chant complet	
+10276	objAngel	C'est pas l'Hymne complet	
 10277	objAngel	Le Roi de Rulle n'en connait qu'une moitié	
 10278	objAngel	L'autre moitié est à Chaandesh	
 10279	objAngel	Vous devrez parler à la Reine là-bas	
 10280	objMiriam	{}Oh.	
 10282	objBard	Est-ce que le héros sait ça...?	
 10283	objAngel	{angel}On vient tout juste de s'en rendre compte	
-10284	objAngel	Il se passe quelque chose de bizarre dans le monde des esprits...	
+10284	objAngel	Il se passe quelque chose d'étrange dans le monde des esprits...	
 10285	objAngel	Elle voulait pas que je vous le dise	
 10286	objAngel	Mais|| je fais ce que je veux	
 10287	objAngel	T'as toujours mon soutien,| p'tit b	
@@ -9371,8 +9371,8 @@
 10471	objMiriam	{shake}*Soupir*	
 10472	objMiriam	{}Combien de fois je vais devoir te le dire...	
 10473	objMiriam	{shake}C'EST LA FIN DU MONDE!!!	
-10474	objMiriam	{/shake}Guerre ou pas guerre,|| ça a aucune importance!!	
-10475	objMiriam	On a le chant,| donc on a ce qu'on est venus chercher.	
+10474	objMiriam	{/shake}Guerre ou pas guerre,|| ça n'a aucune importance!!	
+10475	objMiriam	On a l'Hymne,| donc on a ce qu'on est venus chercher.	
 10476	objMiriam	On peut rencontrer le Régent!	
 10478	objMiriam	Grimpe sur mon balai et on y|| {shake}VA!{/shake}	
 10479	objMiriam	Avant l'invasion!	
@@ -10629,7 +10629,7 @@
 11594	objPing	Donc.|| Je vais garder un oeil sur vous...	
 11596	objPing	On est cernés de tous les côtés par d'horribles esprits maléfiques.	
 11597	objPing	{size .7}(Et apparemment|| de voyageurs douteux...){/size}	
-11598	objPing	Alors entrer et sortir de cette ville c'est|| un cauchemars...	
+11598	objPing	Alors entrer et sortir de cette ville c'est|| un cauchemar...	
 11599	objPing	On attend patiemment la venue de l'armée de Chaandesh...	
 11600	objPing	On est tous paisibles ici.	
 11601	objPing	On a pas besoin de voyageurs turbulents qui viennent causer du grabuge,	
@@ -12041,7 +12041,7 @@
 13158	objTanya	Je veux dire,| personne ne l'a jamais vu...	
 13159	objTanya	Peut-être qu'il est |{wiggle}défiguré{/wiggle}|, t'sais?	
 			
-13160	objTelescopenote	Il y a une note sur la porte..	
+13160	objTelescopenote	Il y a une note sur la porte...	
 			
 13161	objTelescopenote	PARTIE AU RESTO.	
 			
@@ -12197,7 +12197,7 @@
 13318	objMiriam	{size .7}Un peu flippant, à vrai dire	
 13319	objMiriam	{size 1}Même mamie Saphy pourrait pas soigner ça.	
 13320	objTroll	{size 1.2}Alors il va rester comme ça?	
-13331	objTroll	{size 1.2}On a l'habitude de se faire attaquer par des humains..	
+13331	objTroll	{size 1.2}On a l'habitude de se faire attaquer par des humains...	
 13332	objMiriam	{size .7}(Tu nous as attaqués en premier)	
 13333	objTroll	{size 1.2}{quake}Mais jamais comme ça!	
 13334	objBard	{size 1}Hey...	
@@ -12504,7 +12504,7 @@
 13641	objVivian	Ouais je le vois |{wiggle}bien{/wiggle}| ça!!!	
 13642	objSandra	Qu'est-ce qu'on fait?	
 13643	objSandra	Est-ce qu'ils vont bien?	
-13644	objVivian	Non|, ils ont l'air vraiment mort!	
+13644	objVivian	Non|, ils ont l'air vraiment morts!	
 13645	objSandra	{shake .3}J'ai pas envie de vérifier...	
 13646	-4	{shake}{size 1.2}GAH!!!	
 13647	objVivian	{}C'est vivant!	
@@ -12523,7 +12523,7 @@
 13660	objVivian	Qu'est-ce que vous faites par ici?	
 13661	objMiriam	{shake .8}C'est pas vos affaires!!!	
 13662	objMiriam	On vole!!!{/shake}	
-13663	objSandra	{size .7}Viv,| je crois qu'ils sont en lune de miel secrète!	
+13663	objSandra	{size .7}Viv,| je crois qu'ils sont secrètement en lune de miel!	
 13664	objMiriam	{}{shake}NON!!!{}	
 13665	objVivian	{size .7}Oh bon sang,| mais si t'as trop raison!!!	
 13666	objSandra	{}On est vraiment désolées d'avoir gâché votre vol romantique!!!	
@@ -12899,7 +12899,7 @@
 14040	objWindfairy	Donner naissance à...||| des monstres.	
 14041	objHero	{}Eh bien,| ça ferait sens	
 14042	objWindfairy	{windfairy}C'est tellement dégueux.	
-14043	objWindfairy	Son état empire de jours en jours..	
+14043	objWindfairy	Son état empire de jours en jours.	
 14044	objWindfairy	C'est plus comme avant par ici.	
 14045	objHero	{}{shake .5}Aaaaargh,| tais-toi!!!{/shake}	
 14046	objHero	Je suis là pour m'occuper de la Reine des Vents.	
@@ -13078,7 +13078,7 @@
 14224	objBard	|Tu...	
 14225	objBard	Tu avais |{quake}{shake}PROMIS!!!{/shake}	
 14226	objHero	Ouais, bah.	
-14227	objHero	J'ai mentie.	
+14227	objHero	J'ai menti.	
 14228	objBard	Mais|| {shake}POURQUOI?{/shake}	
 14229	objBard	Le Roi des Coeurs était pas mauvais!	
 14230	objBard	Il| avait pas à mourir!	
@@ -13228,7 +13228,7 @@
 14381	objYonni	Les gens de Mohabumi ont la meilleure mode au monde!	
 14382	objYonni	Demande à n'importe qui!|| On est célèbres pour ça.	
 14383	objYonni	Tu veux avoir l'air fabuleux,| toi aussi?	
-14384	objYonni	Ton petite chapeau avec sa plume c'est la |définition| du mot "mignon"!	
+14384	objYonni	Ton petit chapeau avec sa plume c'est la |définition| du mot "mignon"!	
 14385	objYonni	Où est-ce que tu l'as eu?	
 14386	objBard	Oh!|| Merci!	
 14387	objBard	C'est moi qui l'ai fait,| à vrai dire!	
@@ -14287,9 +14287,9 @@
 1000080	-	Village Boisé
 1000081	-	Xiatian	
 1000082	-	Château de Rulle	
-1000083	-	A Travers la Frontière	
+1000083	-	À Travers la Frontière	
 1000084	-	La Brigade des Sorts	
-1000085	-	Bateau sur la Rive
+1000085	-	Bateau-Mouche
 1000086	-	Mohabumi	
 1000087	-	Château de Chaandesh	
 1000088	-	Eclipse	
@@ -14343,8 +14343,8 @@
 1000134	-	Intéragir/Confirmer	
 1000135	-	Passer/Retour	
 1000136	-	Dancer	
-1000137	-	Ajuster le Chant/Dance vers le Bas	
-1000138	-	Ajuster le Chant/Dance vers le Haut	
+1000137	-	Ajuster le Chant/Danse vers le Bas	
+1000138	-	Ajuster le Chant/Danse vers le Haut	
 1000139	-	Chant 1	
 1000140	-	Chant 2	
 1000141	-	Chant 3	
