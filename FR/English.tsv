@@ -478,7 +478,7 @@
 15	objMiles	Eh bien,| content que tu me le demandes!	
 16	objMiles	Je suis Gamin Bonheur,| le nouveau jouet sensationnel!	
 17	objMiles	La dernière et meilleure création de Mr. Baron...	
-18	objMiles	Produite dans l'usine aux sourires,| l'Usine du Bonheur!	
+18	objMiles	Produite dans l'usine aux sourires,| l'Usine à Bonheur!	
 19	objMiles	Si t'as un Gamin Bonheur,| t'auras un ami||| tout comme moi!	
 20	objMiles	Tu ne sais pas ce qu'est le bonheur| tant que tu ne connais pas Gamin Bonheur!	
 21	objMiles	Achète {shake .5}|TON|{/shake} bonheur dès aujourd'hui,| dans nos magasins participants!	
@@ -2940,7 +2940,7 @@
 3364	objDreamfairy	{background #ba1149}{color #ffdb78}Mi|a||bituellement quelques années.	
 3365	objBard	{}Quoi!!!	
 3366	objBard	Je dois attendre quelques ANNÉES??	
-3367	objDreamfairy	{background #ba1149}{color #ffdb78}Miaou a dit MIA|BITUELLEMENT.	
+3367	objDreamfairy	{background #ba1149}{color #ffdb78}Miaou_a_dit MIA|BITUELLEMENT.	
 3368	objDreamfairy	Cette dernière sieste...	
 3369	objDreamfairy	Dure depuis au moins quelques {wiggle}siècles!{/wiggle}	
 3370	objBard	{}{shake}J'AI PAS QUELQUES SIÈCLES DEVANT MOI!!!{/shake}	
@@ -5065,7 +5065,7 @@
 5543	objHero	J'ai bu la potion,|| et...	
 5544	objHero	Je vais chercher un moyen de sortir d'ici.	
 5545	objBard	Euh!...	
-5546	objHero	{shake}C'EST COMPLÈTEMENT EFFONDRÉ!!!	
+5546	objHero	{shake}C'EST COMPLÈTEMENT BOUCHÉ!!!	
 5547	objHero	{shake}ON EST |PIÉGÉS!!!	
 5548	objHero	ET J'AI PLUS MON ÉPÉE!!!	
 5550	objHero	{shake}TOI!!!	
@@ -8856,15 +8856,15 @@
 9898	objMiriam	On dirait que ça remonte à une éternité...	
 			
 9899	objMiriam	Cet endroit a complètement été saccagé.	
-9900	objMiriam	I was here once,| looking for the Overseer song...	
-9901	objBard	This is where we first met,| Miriam!	
-9902	objMiriam	Huh?|| Really?	
-9905	objBard	I was on my way to Langtree!	
-9906	objBard	And you were kinda rude to me...	
+9900	objMiriam	J'étais venue là une fois,| à la recherche de l'Hymne du Régent...	
+9901	objBard	C'est là où on s'est rencontrés pour la première fois,| Miriam!	
+9902	objMiriam	Hein?|| Vraiment?	
+9905	objBard	J'étais en route vers Langtree!	
+9906	objBard	Et t'étais un peu désagréable envers moi...	
 9907	objMiriam	Oh.	
-9908	objMiriam	Well,| that sounds like me.	
-9910	objMiriam	But everyone I asked was panicking about ghosts.	
-9911	objMiriam	And then you found it,| I guess.	
+9908	objMiriam	Bah,| c'est tout moi ça.	
+9910	objMiriam	Mais tout le monde était en train de paniquer à cause des fantômes.	
+9911	objMiriam	Et puis tu l'as trouvé,| j'imagine.	
 			
 9912	objBard	Comment c'était de revoir Saphy?	
 9913	objMiriam	C'était sympa.	
@@ -9747,7 +9747,7 @@
 10742	objMom	{}{wiggle .3}T'essaies d'arrêter l'usine,| chaton?	
 10743	objMom	Hoo!| Qu'est-ce que penserait ton père...	
 10744	objMom	{}{wiggle .3}On se sent facilement seul ici,| tu sais.	
-10745	objMom	Ton amie est un peu désagreable,	
+10745	objMom	Ton amie est un peu désagréable,	
 10746	objMom	Mais ça la rend tellement mignonne!| Hoo hoo!	
 10747	objMom	Ça me manque les jours où nous étions une famille...	
 10748	objMom	{}{wiggle .3}Je suis heureuse de t'avoir à la maison après tout ce temps...	
@@ -11762,7 +11762,7 @@
 12880	objStrongman	|||Travailler tous les jours à l'usine...	
 12881	objStrongman	Parfois ||je m'en lasse un peu.	
 12882	objStrongman	{shake}{quake}HUOOOOOO!{/shake}	
-12883	objStrongman	Je dois rester l'affût pendant que l'usine est fermée!	
+12883	objStrongman	Je dois rester à l'affût pendant que l'usine est fermée!	
 12884	objStrongman	J'ai le sentiment que de nouveaux travaux sont en route!	
 12885	objStrongman	Si le Baron était assez fort pour bâtir une super usine,	
 12886	objStrongman	Alors peut-être que| {shake .3}c'est |MON| tour!{/shake}	
@@ -14153,7 +14153,7 @@
 1000271	-	TROIS	
 1000272	-	Le Voyage#du Lady Arabica	
 1000273	-	QUATRE	
-1000274	-	La Marche de#l'Usine du Bonheur	
+1000274	-	La Marche de#l'Usine à Bonheur	
 1000275	-	CINQ	
 1000276	-	La Guerre entre#Deux Royaumes	
 1000277	-	SIX	
@@ -14244,7 +14244,7 @@
 1000186	-	ACTE DEUX#La Prestation au Crazy Raven	
 1000187	-	ACTE TROIS#Le Voyage du Lady Arabica	
 1000188	-	ENTRACTE	
-1000189	-	ACTE QUATRE#La Marche de l'Usine du Bonheur	
+1000189	-	ACTE QUATRE#La Marche de l'Usine à Bonheur	
 1000190	-	ACTE CINQ#La Guerre entre Deux Royaumes	
 1000191	-	ACTE SIX#La Bête du Mont Ichor
 1000192	-	ACTE SEPT#Le Chant dans la Tempête
