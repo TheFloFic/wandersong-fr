@@ -8,8 +8,15 @@ echo %full_path% | findstr /I /C:"%sub_path%" >nul
 
 if %ERRORLEVEL%==0 (
 
+if exist old\ (
+move "old\*.*" ".."
+move "old\lang\*.*" "..\lang"
+rmdir /S /Q old
+)
+
 rem Cr‚ation d'un r‚pertoire old pour contenir les fichiers modifi‚s
 mkdir old
+
 
 rem Applications des patchs pour data.win & wandersong.exe
 .\tools\xdelta-3.1.0-x86_64.exe -v -d -s "..\data.win" ".\FR\data.win.fr" "..\data.win.patch"
