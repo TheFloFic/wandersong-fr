@@ -8,15 +8,16 @@ Le patch a été prévu pour la version Steam du jeu, si le besoin se fait savoi
 Ce patch n'est également pas compatible avec les versions consoles (beaucoup trop contraignant techniquement)
 
 # Comment ça marche ?
-- Premièrement, télécharger la dernière release : [https://github.com/TheFloFic/wandersong-fr/releases/download/Beta/Beta.zip](https://github.com/TheFloFic/wandersong-fr/releases/download/Beta/Beta.zip)
+- Premièrement, télécharger la dernière release : [https://github.com/TheFloFic/wandersong-fr/releases/download/V1.0.0/WandersongFR_V1.0.zip](https://github.com/TheFloFic/wandersong-fr/releases/download/V1.0.0/WandersongFR_V1.0.zip)
 - Déposer le répertoire "PatchFR" dans le répertoire ".\steamapps\common\Wandersong\PC"
   - Allez sur Steam, clic droit sur le jeu, puis Propriétés
   - Dans "Fichiers installés" cliquer sur "Parcourir..."
   - Vous arrivez dans le répertoire "Wandersong"
   - Coller le répertoire "PatchFR" dans le répertoire "PC"
 - Lancer le fichier "Patcher le jeu.bat"
+  - Ça fonctionne également même si vous avez déjà installé une ancienne version du patch
 
-Et voilà, votre jeu est désormais patché ! Vos anciens fichiers ont été placés dans le répertoire "old"
+Et voilà, votre jeu est désormais patché ! Vos anciens fichiers ont été placés dans le répertoire "old" (ne supprimez pas ce répertoire)
 
 # Problèmes
 ## "Le patch ne se trouve pas dans le bon répertoire"
@@ -37,7 +38,8 @@ Il y a 2 méthodes possibles :
 ## Remplacer les fichiers
 Le patch a automatiquement réalisé des backups de vos anciens fichiers, présents dans le répertoire "PatchFR\old".
 
-Vous pouvez déplacer le contenu de ce répertoire dans le répertoire "PC" et vous retrouverez votre jeu non-patché, en Anglais.
+L'outil "Dépatcher le jeu.bat" vous permet d'automatiquement dépatcher votre jeu et le rendre dans son état d'origine.
+
 ## Re-télécharger le contenu
 Steam permet de vérifier l'intégrité des fichiers du jeu, en cas de différence, il va retélécharger les fichiers modifiés :
 * Aller sur Steam, clic droit sur le jeu, puis Propriétés
