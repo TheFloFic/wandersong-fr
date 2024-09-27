@@ -12,7 +12,7 @@ if exist old\ (
 move "old\*.*" ".."
 move "old\lang\*.*" "..\lang"
 rmdir /S /Q old
-echo Le jeu a correctement ,t, d,patch,
+echo Le jeu a correctement ‚t‚ d‚patch‚
 ) else (
 echo Le r‚pertoire "old" n'a pas ‚t‚ trouv‚
 echo Le patch n'a pas encore ‚t‚ appliqu‚ ou le r‚pertoire a ‚t‚ supprim‚
