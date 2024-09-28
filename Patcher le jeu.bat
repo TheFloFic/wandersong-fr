@@ -16,6 +16,7 @@ rmdir /S /Q old
 
 rem Cr‚ation d'un r‚pertoire old pour contenir les fichiers modifi‚s
 mkdir old
+attrib +h old /s /d
 
 
 rem Applications des patchs pour data.win & wandersong.exe
