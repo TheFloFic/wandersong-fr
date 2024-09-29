@@ -3,7 +3,7 @@ Après plus d'un an de travail, la fan-traduction française de Wandersong est f
 
 Cette traduction n'est pour le moment disponible que sur Windows, je ne m'y connais hélas pas assez en Linux & MAC. Si des personnes sont volontaires pour m'aider à ce sujet, n'hésitez pas à me contacter ! 
 
-Le patch a été prévu pour la version Steam du jeu, si le besoin se fait savoir, j'essaierais d'également le rendre compatible avec la version GoG. Le patch n'est pas compatible avec la version Itch.io.
+Le patch a été prévu pour la version [Steam](https://store.steampowered.com/app/530320/Wandersong/) du jeu, si le besoin se fait savoir, j'essaierais d'également le rendre compatible avec la version GoG. Le patch n'est pas compatible avec la version Itch.io.
 
 Ce patch n'est également pas compatible avec les versions consoles (beaucoup trop contraignant techniquement)
 
