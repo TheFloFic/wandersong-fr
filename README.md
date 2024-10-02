@@ -14,6 +14,7 @@ Ce patch n'est également pas compatible avec les versions consoles (beaucoup tr
   - Dans "Fichiers installés" cliquer sur "Parcourir..."
   - Vous arrivez dans le répertoire "Wandersong"
   - Coller le répertoire "PatchFR" dans le répertoire "PC"
+- *Dans le cas où vous avez une ancienne version du patch, vous pouvez l'écraser par la nouvelle*
 - Lancer le fichier "Patcher le jeu.bat"
   - Ça fonctionne également même si vous avez déjà installé une ancienne version du patch
 
