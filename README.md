@@ -55,3 +55,6 @@ Si vous êtes bien curieux, vous remarquerez peut-être que certains dialogues n
 * Commentaire de développeur
 
 L'idée est bien sûre de tout traduire, tout sera fait au fur et à mesure, et le patch sera mis à jour en conséquence !
+
+# Crédits
+Le patcher a pu être rendu possible grâce à l'outil [xdelta3](https://github.com/Moodkiller/xdelta3-gui-2.0) (avec interface graphique)
