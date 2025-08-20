@@ -10648,10 +10648,10 @@
 11612	objBard	Je sais pas!	
 11613	objCaptain	|Ouais...	
 11615	objCaptain	Oublie pas qu'tu peux |{wiggle}appuyer sur n'importe quel bouton{/wiggle}| pour voir la carte!	
-11616	objCaptain	Mais se balader c'est aussi amusant, aye?	
+11616	objCaptain	Mais s'balader c'est amusant aussi, aye?	
 			
 11617	objBard	...	
-11618	objBard	...Euh...|| salut...?	
+11618	objBard	...Euh...|| y'a quelqu'un...?	
 			
 11619	objProfessor	Bonjour...	
 11620	objProfessor	Oui, bonjour...	
@@ -12758,8 +12758,8 @@
 13892	objBard	Ouais!	
 13893	objWhit	...	
 13894	objWhit	Tant pis pour toi.	
-13895	objWhit	Tu sais c'est quoi la différence entre un alligator et un crocodile?	
-13896	objWhit	C'est caïman la même chose	
+13895	objWhit	Tu sais c'est quoi un canif?	
+13896	objWhit	C'est un petit fien
 13897	objBard	Tu me l'a clairement déjà raconté!	
 13898	objWhit	Oh...	
 13899	objWhit	Bah,| elle est toujours drôle.	
@@ -12787,8 +12787,8 @@
 13921	objWhit	Tu veux une blague?	
 13922	objBard	Bien sûr!	
 13923	objBard	Ça i|ra	
-13924	objWhit	Tu sais c'est quoi la différence entre un alligator et un crocodile?	
-13925	objWhit	C'est caïman la même chose	
+13924	objWhit	Tu sais c'est quoi un canif?	
+13925	objWhit	C'est un petit fien	
 13927	objWhit	Ouais,||| personne veut jamais entendre mes blagues.	
 13928	objWhit	Mon pote Manny essaie de monter un groupe pour jouer ici.
 13929	objWhit	Petit gars,|| moustache,|| chemise rouge,|| voix un peu rauque?	
@@ -12801,8 +12801,8 @@
 13936	objWhit	Tu veux une blague?	
 13937	objBard	Ça i|ra.	
 13938	objBard	Ouais!	
-13939	objWhit	Tu sais c'est quoi la différence entre un alligator et un crocodile?	
-13940	objWhit	C'est caïman la même chose	
+13939	objWhit	Tu sais c'est quoi un canif?	
+13940	objWhit	C'est un petit fien	
 13941	objBard	Tu me l'as déjà raconté.	
 13942	objWhit	Oh...	
 13943	objWhit	Mais c'était plus drôle la deuxième fois,| pas vrai?	
