@@ -2014,13 +2014,13 @@
 1654	objCaptain	Euh,| en respectant son espace privé,| et tout ça,| bien sûr.	
 1655	objCaptain	Et,|| sans offense...	
 1656	objCaptain	Mais je préfèrerais revenir sans toi parfois...	
-1657	objCaptain	So...	
-1658	objCaptain	I can hear just a hint o their voices from here...	
-1659	objCaptain	Ah|.|.|.||| they're so lovely.	
-1660	objCaptain	I used t'be a lovestruck fool.	
-1661	objCaptain	Now,|| I'm...	
-1662	objCaptain	{wiggle}(Still lovestuck...){/wiggle}	
-1663	objCaptain	But hopefully|| not so foolish again, aye!	
+1657	objCaptain	Donc...	
+1658	objCaptain	Je peux entendre un léger soupçon d'leurs voix d'ici...	
+1659	objCaptain	Ah|.|.|.||| si merveilleuses.	
+1660	objCaptain	J'étais aut'fois follement et éperduement amoureux.	
+1661	objCaptain	Maintenant,|| je suis...	
+1662	objCaptain	{wiggle}(Toujours éperduement amoureux...){/wiggle}	
+1663	objCaptain	Mais je l'espère|| pas aussi fou, aye!	
 1664	objCaptain	Bah, peu importe,	
 			
 1665	objCaptain	Tu veux retourner dans le navire?	
@@ -2623,7 +2623,7 @@
 			
 2251	objClyde	{shake}OH{shake .3} bonté divine!	
 2252	objClyde	Flûte de {shake}ZUT{shake .3}!!	
-2253	objClyde	Oh la la {shake}MAIS ALORS!!!{/shake}	
+2253	objClyde	Oh là là {shake}MAIS ALORS!!!{/shake}	
 2254	objBard	Qu'est-ce qui se passe??	
 2255	objClyde	{shake .3}Dans ma maison juste-là...	
 2256	objClyde	Il y a un...| authentique,| véritable {shake}FANTÔME!!!{/shake}	
@@ -2668,14 +2668,14 @@
 2297	objCaptain	Comment as-tu pu nous prendre quelque chose d'aussi merveilleux?	
 			
 			
-3107	objManny	{shake .5}Wait{/shake}| just a second there!!!	
-3108	objManny	{shake}ACE!!!{/shake}|| That you?	
-3109	objManny	{shake}ACE!!!{/shake}	
-3110	objManny	Whatta sight for sore eyes!	
-3111	objManny	We ain't got long to chat.	
-3112	objManny	We're about to go up on stage here!	
-3113	objManny	If you ain't got time,| that's okay.	
-3114	objManny	Had to say hey though!	
+3107	objManny	{shake .5}Attends{/shake}| une petite minute!!!	
+3108	objManny	{shake}CHAMPION!!!{/shake}|| C'est toi?	
+3109	objManny	{shake}CHAMPION!!!{/shake}	
+3110	objManny	Quel plaisir de te r'trouver!	
+3111	objManny	On a pas vraiment le temps de discuter.	
+3112	objManny	On s'apprête à monter sur scène!	
+3113	objManny	Si t'as pas le temps,| c'est pas grave.	
+3114	objManny	Fallait bien te dire salut!	
 			
 3115	objDeerfox	{color red}0	
 			
@@ -4015,8 +4015,8 @@
 4499	objFrannie	Va pas faire le malin...	
 4500	objFrannie	C'est la dernière porte du hall à l'étage.	
 			
-4501	objFrannie	Hey,| stranger.	
-4502	objFrannie	What do you think you're doing here?	
+4501	objFrannie	Hey,| étrangé.	
+4502	objFrannie	Qu'est-ce que tu crois faire là?	
 			
 4503	objSue	Oh,| toi!	
 4504	objFrederick	Le chanteur du Crazy Raven,| n'est-ce pas?	
@@ -6332,7 +6332,7 @@
 6930	objLoreman	L'histoire c'est important,	
 6931	objLoreman	Mais je voudrais juste prendre ce moment pour te faire savoir une chose:	
 6932	objLoreman	Votre concert était génial!	
-6933	objLoreman	Un jour je raconterai tout en tant qu'histoire d'un autre récit.	
+6933	objLoreman	Un jour je raconterai tout ça en tant qu'histoire d'un autre récit.	
 6934	objLoreman	Salut,| moi c'est Nate.	
 6935	objLoreman	J'ai quelques bribes d'histoire à te raconter!	
 6936	objBard	Non mer|ci!	
@@ -7304,7 +7304,7 @@
 8309	objMermaid2	Je peux pas changer qui je suis|, {wiggle}les fiiilles{/wiggle}	
 8310	objMermaid1	Non c'est mignon	
 8311	objMermaidtalker	Pourquoi les humains sont tant |{wiggle}{shake .5}obnubilés|{/shake}{/wiggle} par nous,| de toute façon...	
-8312	objMermaid1	As if you even gotta ask	
+8312	objMermaid1	Comme s'il fallait se poser la question	
 8313	objMermaid2	Parce qu'on est|| {wiggle}faaaaaaaaaabuleuses!{wiggle}	
 8314	objMermaid2	Je dois dire que ça me manque ces humains qui venaient parfois se jeter à nos pieds	
 8315	objMermaid3	À nos nageoires tu veux dire	
@@ -8372,13 +8372,13 @@
 			
 9365	objMiriam	Eh beh,| te revoilà,| enfin!	(NORMAL LINES)Talking after act 2 spirit world
 9366	objMiriam	Le Régent t'a aidé cette fois?| Super.	
-9358	objMiriam	Oh |{shake}THERE{/shake}| you are!	(OPTIONAL LINES) if you skipped story things
+9358	objMiriam	Oh | te voilà|{shake}ENFIN{/shake}!	(OPTIONAL LINES) if you skipped story things
 9359	objMiriam	Way to go running off without me.	
-9360	objMiriam	How did you know the Overseer song?!	
-9361	objMiriam	Actually,| on second thought...	
-9362	objMiriam	I don't care.	
-9363	objMiriam	What's important is the Overseer helped you this time.	
-9364	objMiriam	Right?| Good.	
+9360	objMiriam	Comment t'as trouvé l'hymne du Régent?!	
+9361	objMiriam	Tu sais quoi,| en fait...	
+9362	objMiriam	Je m'en moque.	
+9363	objMiriam	Ce qui compte c'est que le Régent t'as aidé cette fois.	
+9364	objMiriam	Pas vrai?| Super.	
 			
 9367	objMiriam	Faut qu'on discute de la suite.	
 9368	objMiriam	T'as bien profité de ta petite aventure,| hein?	
@@ -9642,10 +9642,10 @@
 10624	objDani	Attends,| il y a pas genre,| un {wiggle}concert{/wiggle} ce soir?	
 10625	objMitzi	Oh ouais!| Au CrayRay!	(NORMAL TEXT)
 10626	objMitzi	Ça arrive quasiment jamais.|| On peut pas louper ça!!	
-10627	objMitzi	No,| the band bailed!|| Remember?	(OPTIONAL TEXT) if you skipped story stuff
-10628	objDani	Oh yeah...	
+10627	objMitzi	Nan,| le groupe s'est tiré!|| Tu te souviens?	(OPTIONAL TEXT) if you skipped story stuff
+10628	objDani	Oh ouais...	
 10629	objDani	...	
-10630	objDani	This place blows.	
+10630	objDani	Cet endroit craint.	
 10631	objMitzi	J'ai hâte de me tirer d'ici...	
 10632	objMitzi	J'en peux plus de celle ville nulle où il se passe jamais rien.	
 10633	objDani	Partout où tu iras,| je te suivrais.	
@@ -11004,11 +11004,11 @@
 11991	objRahul	C'est un endroit spécial.	
 11992	objRahul	Est-ce que je vais te voir sur la piste ce soir?	
 			
-11993	objRahul	I love the Crater!	
-11994	objRahul	But...|| it isn't what it used to be.	
-11995	objRahul	The war's made it hard to bring bands into the country.	
-11996	objRahul	Tonight it isn't even open!	
-11997	objRahul	And I was so ready to get my groove on...	
+11993	objRahul	J'adore le Cratère!	
+11994	objRahul	Mais...|| c'est plus ce que c'était.	
+11995	objRahul	La guerre a rendu difficile la venue de groupes d'autres pays.	
+11996	objRahul	Ce soir c'est même pas ouvert!	
+11997	objRahul	Et j'étais tellement prêt à me déhancher...	
 			
 11998	objRenu	Alors comme ça le Héros est en ville...	
 11999	objRenu	On raconte qu'elle est plutôt balèze.	
@@ -13295,7 +13295,7 @@
 14446	objYuu	T'es déjà si mignon tout plein.|| Vraiment.	
 14447	objYuu	Bonne chance dans ton aventure,| {wiggle}mon mignon...{/wiggle}	
 			
-14448	objYuu	Ooh la la!	
+14448	objYuu	Oh là là!	
 14449	objYuu	Tout le monde ne fait que de parler d'un nouveau héros incroyable...	
 14450	objYuu	Qui va ramener les sirènes!	
 14451	objYuu	C'est toi,| pas vrai?	
@@ -14331,7 +14331,7 @@
 1000122	-	PAR DEFAUT	
 1000123	-	Se déplacer vers la gauche	
 1000124	-	Utiliser le D-Pad pour	
-1000125	-	Directional Buttons	
+1000125	-	Boutons Directionnels	
 1000126	-	Se déplacer vers la droite	
 1000127	-	Joystick vers le haut pour Sauter	
 1000128	-	Se déplacer vers le haut	
