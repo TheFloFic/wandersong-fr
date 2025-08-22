@@ -1827,7 +1827,7 @@
 1470	objCandra	Et c'est ce qui a évolué en magie.	
 1471	objCandra	Ça a l'air fou...	
 1472	objCandra	Mais ça fonctionne,| donc j'imagine que c'est vrai.	
-1473	objCandra	J'aurais aimé pouvoir t'amener au palace moi-même.	
+1473	objCandra	J'aurais aimé pouvoir t'emmener au palace moi-même.	
 1474	objCandra	Mais tu dois jeter le sort toi-même pour y accéder...	
 1475	objCandra	Écris-le sur ta carte pour ne pas oublier.	
 1476	objCandra	...	
@@ -1866,7 +1866,7 @@
 			
 1507	objCandyman	Eh bien salut,| patron!	
 1508	objBard	Sa|lut!	
-1509	objCandyman	Whoa attend!|| T'es un genre de musicien?	
+1509	objCandyman	Whoa attends!|| T'es un genre de musicien?	
 1510	objCandyman	Whoa!|| T'es le chanteur du concert du Raven?	
 1511	objCandyman	Les gamins aujourd'hui {shake .5}||A|D|O|R|E|N|T{/shake}||| la musique.	
 1512	objCandyman	Je cherchais un moyen de capter leur attention.
@@ -2905,7 +2905,7 @@
 3332	objDreamfairy	{wiggle}P|e|u|t|-|ê|t|r|e{/wiggle}|| que Mr. Roi des Rêves comprendra...	
 3333	objDreamfairy	...	
 3334	objDreamfairy	Peut-être.	
-3335	objDreamfairy	Mais si tu amènes cette détermination avec toi...	
+3335	objDreamfairy	Mais si tu emportes cette détermination avec toi...	
 3336	objDreamfairy	Mr. Roi des Rêves est |{wiggle}sûr{/wiggle}| de t'aider!	
 3337	objDreamfairy	...Pat-|être.	
 			
@@ -4035,9 +4035,9 @@
 4517	objFrederick	Et je t'apprécis.	
 4518	objFrederick	Je me suis bien débrouillé, non?	
 4519	objFrederick	As-tu entendu le nouveau thème musical de la boutique Holmes Sweets?	
-4520	objFrederick	Il a de nombreuses qualités.	
+4520	objFrederick	Il possède de nombreuses qualités.	
 4521	objFrederick	Mais est-ce qu'il se démarque dans le style "boutique de bonbon"?
-4522	objFrederick	Je pense pas.	
+4522	objFrederick	Je ne pense pas.	
 4523	objFrederick	Blah blah musique blah	
 4524	objFrederick	Blah blah blah|| {wiggle}allegrissimo{/wiggle}| blah	
 4525	objFrederick	Blah blah blah compilation des meilleures musiques| jamais faites| par qui que ce soit	
@@ -4071,7 +4071,7 @@
 4552	objFrederick	Mais tu y as apporté un touche d'originalité!	
 4553	objFrederick	Bien joué.	
 			
-4554	objFrederick	Il y avait de l'effort.	
+4554	objFrederick	C'était un bel effort.	
 4555	objFrederick	Mais je pense que ça avait besoin de plus| d'allegrato sur son| fortissimo.	
 4556	objFrederick	Si tu ne sais pas ce que ça veut dire,	
 4557	objFrederick	Tu ne réussiras jamais en tant que musicien.	
@@ -4080,7 +4080,7 @@
 4560	objFrederick	C'était un |numéro intéressant,| c'est sûr.	
 4561	objFrederick	Mais si tu penses que c'était original,	
 4562	objFrederick	Tu te trompes hélas.	
-4563	objFrederick	J'ai absolument déjà entendu cette mélodie.	
+4563	objFrederick	J'ai absolument déjà entendu cette mélodie auparavant.	
 			
 4564	objFrederick	Cette chanson...!	
 4565	objFrederick	Elle est|| pleine...	
@@ -4089,7 +4089,7 @@
 4568	objFrederick	Tu veux dire,| quelqu'un a écrit une chanson...	
 4569	objFrederick	Juste pour moi?	
 4570	objFrederick	{quake}{shake .3}Pour que je la critique?{/shake}	
-4571	objFrederick	Emmène-moi voir cette personne!	
+4571	objFrederick	Amène-moi de suite à cette personne!	
 4572	objFrederick	Je ne la ferais pas attendre!	
 			
 4573	objGabe	J'ai parcouru le monde entier...	
@@ -4489,7 +4489,7 @@
 4960	objGuppy	Tu dois sûrement penser que je ne suis qu'un humble poisson.	
 4961	objGuppy	Mais je suis|| en réalité|| aussi une clé.	
 4962	objGuppy	Si tu me vois flotter dans les parages...	
-4963	objGuppy	Amène-moi aux porte fermés s'il te plait.	
+4963	objGuppy	Emmène-moi aux porte fermés s'il te plait.	
 4964	objGuppy	Tu remarqueras que je suis bien plus utile qu'un poisson ordinaire.	
 4965	objGuppy	Si je peux me permettre...	
 4966	objGuppy	Est-ce que tu es ici pour rencontrer| la Reine du Chaos?	
@@ -7014,7 +7014,7 @@
 8000	objMatilda	Voilà ce que ça donne pour le moment...	
 8001	objBard	Lai|ssez|-moi re|chan|ter ça.	
 8002	objBard	On re|joue ce que je viens de chan|ter?	
-8003	objBard	Re|place this!	
+8003	objBard	Rem|placez ça!	
 8004	objMatilda	Eh bah dit donc!|| Pas mal!	
 8005	objMatilda	C'est bon alors,| n'est-ce pas?	
 8006	objMatilda	On devrait se produire très bientôt!	
@@ -8373,7 +8373,7 @@
 9365	objMiriam	Eh beh,| te revoilà,| enfin!	(NORMAL LINES)Talking after act 2 spirit world
 9366	objMiriam	Le Régent t'a aidé cette fois?| Super.	
 9358	objMiriam	Oh | te voilà|{shake}ENFIN{/shake}!	(OPTIONAL LINES) if you skipped story things
-9359	objMiriam	Way to go running off without me.	
+9359	objMiriam	Bien joué d'avoir filé sans moi.	
 9360	objMiriam	Comment t'as trouvé l'hymne du Régent?!	
 9361	objMiriam	Tu sais quoi,| en fait...	
 9362	objMiriam	Je m'en moque.	
@@ -9123,7 +9123,7 @@
 10206	objMiriam	Vous pouvez pas nous emmener direct là-bas?	
 10207	objMiriam	Après que vous ayez |{shake}démoli mon balai???{/shake}	
 10208	m2	Hey boss!	
-10209	m2	On a encore des trucs à faire!	
+10209	m2	On a des trucs à faire!	
 10211	m2	Et il reste encore du chemin...	
 10212	objMiriam	Vous y serez ce soir!	
 10213	objMiriam	Bonne chance!!!	
@@ -10960,7 +10960,7 @@
 11932	objHero	On dirait que je t'ai enfin retrouvé,| Roi des Rêves.	
 11933	objHero	Tu pensais pouvoir m'échapper?	
 11934	objHero	Je vais pouvoir faire d'une pierre deux coups.	
-11935	objBard	{shake}GAH ATTEND!!!{/shake}	
+11935	objBard	{shake}GAH ATTENDS!!!{/shake}	
 11936	objBard	Pourquoi...	
 11937	objBard	{shake .7}Pourquoi est-ce que tu fais ça???{/shake}	
 11938	objBard	Laisse les Régents en vie...	
@@ -13195,7 +13195,7 @@
 14349	objHero	C'est parfait,| tu trouves pas?	
 14350	objHero	C'est celle que vous avez récupérée pour moi...	
 14351	objHero	Et maintenant ça va te sauver la vie!	
-14353	objBard	Oh non,| attend...!!!	
+14353	objBard	Oh non,| attends...!!!	
 14354	objHero	Épargne-moi ta comédie!	
 14355	objHero	T'es sérieusement pas encore en train d'essayer...	
 14356	objHero	De m'empêcher de tuer des monstres,| pas vrai?	
@@ -14413,9 +14413,9 @@
 1000216	-	NIVEAU	
 1000217	-	GOT LEVEL	
 			
-1000226	-	This game uses auto-saving!	
-1000227	-	Don't turn off the PlayStation^4 system	
-1000228	-	while this icon is onscreen.	
+1000226	-	Ce jeu utilise la sauvegarde automatique!	
+1000227	-	Ne pas éteindre le système PlayStation^4
+1000228	-	pendant que cette icône est à l'écran.	
 			
 1000002	-	Alice	
 1000003	-	Amaris	
