@@ -70,7 +70,7 @@ L'idée est bien sûre de tout traduire, tout sera fait au fur et à mesure, et 
 
 # Contact
 Si besoin de me contacter pour quelconque raisons (questions, bugs, problèmes, etc.), je suis dispo sur [BlueSky](https://bsky.app/profile/theflofic.bsky.social).
-Tous mes autres réseaux sont dispo sur ma page [Bento](https://bento.me/theflofic).
+Tous mes autres réseaux sont dispo sur ma page [Carrd](https://theflofic.carrd.co/).
 
 # Crédits
 Le patcher a pu être rendu possible grâce à l'outil [xdelta3](https://github.com/Moodkiller/xdelta3-gui-2.0) (avec interface graphique)
