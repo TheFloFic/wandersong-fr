@@ -1364,7 +1364,7 @@
 992	objBernie	Oh,| comme c'est excitant!	
 993	objBernie	Ramène-nous vite les sirènes,| freluquet!	
 994	objBernie	Quand les sirènes ont disparu,	
-995	objBernie	Nous étions tous abatus...	
+995	objBernie	Nous étions tous abattus...	
 996	objBernie	Nous n'avions MÊME PAS pensé à...| faire réellement quelque chose!	
 997	objBernie	Nous avons juste commencé à boire plus.	
 998	objBernie	Du café,| j'entends!	
@@ -3131,13 +3131,13 @@
 3592	objBard	Et tu serais |{wiggle}toujours{/wiggle}| spéciale!	
 3594	objBard	Je le pense sincèrement!	
 3595	objBard	Arrêtons de nous battre.	
-3600	objBard	Si simplement|| tu renonçais à faire les choses à ta manière...	
+3600	objBard	Si simplement|| tu renonçais de faire les choses à ta manière...	
 3601	objBard	Peut-être que tu ne serais plus |{wiggle}Le Héros...{/wiggle}	
 3602	objBard	Mais le Roi des Rêves pourrait m'enseigner le Chant de la Terre!	
 3603	objBard	Et ça pourrait empêcher la fin du monde!	
 3604	objBard	On pourrait| VRAIMENT sauver le monde!	
 3606	objBard	Tout le monde irait bien!	
-3608	objBard	Et tu serais un VRAI héros!	
+3608	objBard	Et tu serais une VÉRITABLE héroïne!	
 3611	objBard	OK?	
 3615	objHero	C'est pas suffisant.	
 			
@@ -5177,7 +5177,7 @@
 5707	objHero	Bah,| c'est ridicule,|| mais...	
 5709	objHero	Elle m'a fait penser que...|| j'étais pas vraiment le Héros.	
 5710	objHero	Avant tout ça,	
-5711	objHero	Je pensais que tu l'étais.	
+5711	objHero	Je me sentais comme toi maintenant.	
 5712	objHero	Petit,|| faible...	
 5713	objHero	|||{wiggle}Normal.{/wiggle}	
 5714	objHero	Être le Héros c'est pas facile!	
@@ -6629,7 +6629,7 @@
 7237	objBard	Est-ce que la ville||| a disparu?	
 7238	objClara	Eh bien...	
 7239	objManny	La ville est toujours présente.	
-7240	objManny	Mais c'est plus que c'était.	
+7240	objManny	Mais c'est plus ce que c'était.	
 7241	objClara	C'est pas un lieu sûr.	
 7242	objClara	Les gens encore là-bas vivent dans la peur.	
 7243	objManny	On a fait tout ce qu'on a pu.	
@@ -9226,7 +9226,7 @@
 10314	objMiriam	Plus qu'un Régent,| hein?	
 10315	objBard	Ouaip!	
 10316	objBard	C'était tellement effrayant sans toi,| Miriam!	
-10317	objBard	J'ai à nouveau fait face Héros...	
+10317	objBard	J'ai de nouveau fait face au Héros...	
 10318	objBard	Et je pensais qu'on aurait pu être amis,| en vrai.	
 10319	objBard	Mais|| c'est pas ce qu'elle voulait...	
 10320	objMiriam	Ouais sans blague!	
@@ -9425,7 +9425,7 @@
 10524	objMiriam	Vu comment l'autre côté a été ravagé.	
 10525	objMiriam	Mais...|| ce côté aussi a été plutôt bien ravagé...	
 10526	objBard	Ils ont dit que c'était l'autre royaume qui l'avait brûlé,| pas vrai?	
-10527	objMiriam	Ça...|| ressemble |{wiggle}clairement{}| pas à des | brûlures...	
+10527	objMiriam	Ça...|| ressemble |{wiggle}clairement{}| pas à des| brûlures...	
 10528	objMiriam	Il y a quelque chose de| {glitch .6}bizarre| qui se passe ici...	
 			
 10552	objMiriam	Hey!	
@@ -9853,7 +9853,7 @@
 10843	objMoonfairy	Les monstres qui ont kidnappé mon amie...	
 10844	objMoonfairy	Oh,|| ma parole...	
 10845	objMoonfairy	J'ai tellement peur!	
-10846	objMoonfairy	Mais mon amie se trouvee un plus loin dans le château...	
+10846	objMoonfairy	Mais mon amie se trouve un plus loin dans le château...	
 10847	objMoonfairy	Donc je vais devoir|| être courageux!!!	
 			
 10810	objMoonfairy	{fade}Euh!...	
@@ -10481,7 +10481,7 @@
 11548	objPhil	C'|pour ça qu'on a besoin de belles chansons autour du feu.
 			
 11364	objPhil	Quelle belle nuit,| hein?	
-11365	objPhil	En l'honeur de nos nouveaux amis vagabonds,| je vais raconter une vieille histoire...	
+11365	objPhil	En l'honneur de nos nouveaux amis vagabonds,| je vais raconter une vieille histoire...	
 11366	objPhil	À propos d'un vagabond| et d'une sorcière.	
 11367	objPhil	On raconte que ça s'est passé dans cette forêt même.	
 11368	objPhil	Et on raconte| que si on écoute attentivement...	
