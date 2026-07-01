@@ -1455,9 +1455,9 @@
 1081	objViola	Mhm.|| C'est mon heure de gloire...	
 1082	objViola	Attendez...| est-ce que quelqu'un est retourné sur scène?	
 1083	objClara	{size .85}{shake .2}Ceci est un morceau...|| dédié à la mémoire de ma mère.	
-1084	objClara	C'est une vieille vieille chanson qu'elle avait l'habitude de jouer,| à propos de la Reine des Vents...	
+1084	objClara	C'est une très vieille mélodie qu'elle avait l'habitude de jouer,| à propos de la Reine des Vents...	
 1085	objClara	{size .6}Eya toute puissante...	
-1086	objClara	{}J'étais tellement ||{shake .5}nerveux!!{}	
+1086	objClara	{}J'ai bien cru que mon coeur allait ||{shake .5}lâcher!!{}	
 1087	objViola	...	
 1088	objViola	Tu as joué avec brio,| Ash.	
 1089	objClara	|||Merci.	
@@ -2434,48 +2434,48 @@
 2063	objFrancisco	Ta nourriture est...||| nickel,| Lou.	
 2064	objFrancisco	Ni||ckel.	
 			
-2065	objClara	J'arrive pas à croire que Delphi soit toujours là.	
+2065	objClara	J'arrive pas à croire que Delphi soit toujours debout.	
 2066	objClara	Quand on est partis...	
 2067	objClara	On aurait vraiment dit que c'en était fini de cet endroit.	
 2068	objClara	||Ça me fait plaisir...	
-2069	objClara	D'avoir pu me rendre sur la tombe de ma mère.	
+2069	objClara	J'ai été me recueillir sur la tombe de ma mère.	
 2070	objClara	J'aurais aimé pouvoir lui parler à nouveau...	
-2071	objClara	J'ai parcouru le monde,| à jouer de mon accordéon.	
+2071	objClara	J'ai parcouru le monde à présent,| à jouer de mon accordéon.	
 2072	objClara	Tout comme elle.	
-2073	objClara	Et je pense que je deviens plutôt doué,| aussi...	
+2073	objClara	Et je pense que je m'améliore,| moi aussi...	
 2074	objClara	J'aurais aimé pouvoir lui montrer.	
 2075	objClara	Je me demande ce qu'elle penserait de tout ça.	
 2076	objClara	Le monde a changé,| d'une certaine manière...	
 2077	objClara	N'est-ce pas?	
 2078	objClara	Il y a un moment où tout était si morne.	
-2079	objClara	Et c'est comme si tous les esprits de ce monde étaient proche.	
-2080	objClara	Mais c'est plus comme ça maintenant.	
+2079	objClara	Et c'était comme si tous les esprits de ce monde étaient proche.	
+2080	objClara	Mais ce n'est plus comme ça à présent.	
 2081	objClara	Ça a l'air plus...| stable,| maintenant.	
 2082	objClara	Paisible,| je dirais même.	
-2083	objClara	Je ressens plus la même peur qu'avant.	
+2083	objClara	Je ne ressens plus la même peur qu'avant.	
 2084	objClara	||Mais ça me manque de ne plus la sentir aussi proche...	
 2085	objClara	Enfin,| je sais qu'elle est toujours là quelque part.	
-2086	objClara	J'espère juste que je la rends fière.	
+2086	objClara	J'espère juste que je l'ai rendue fière.	
 			
 2087	objClara	J'arrive pas à croire que ce soit déjà en train d'arriver.	
-2088	objClara	Je|| me sens pas prêt du tout!	
+2088	objClara	Je|| sais pas si je m'en sens capable!	
 2089	objClara	Peut-être que c'était une erreur...	
 2090	objBard	Je suis sûr que tu vas t'en sortir!	
 2091	objClara	...	
-2092	objClara	{shake .3}Je suis|| vraiment nerveux...	
-2093	objManny	Hey,| moi aussi!	
+2092	objClara	{shake .3}J'ai l'estomac|| complètement noué...	
+2093	objManny	Hey,| moi aussi je suis nerveux!	
 2094	objManny	Mais ça va le faire!!	
-2095	objClara	Et si je vais là-bas et que je ruine absolument tout...	
+2095	objClara	Et si je vais là-bas et que je me plante complètement...	
 2096	objClara	J'aurais gâché ça pour tout le monde...	
-2097	objBard	Euh,| je m'en ferais pas vraiment.	
+2097	objBard	Euh,| je m'en ferais pas trop.	
 2098	objClara	quoi	
-2099	objBard	Fais juste de ton mieux!| C'est pas grave si on est mauvais.	
-2100	objBard	Amusons-nous!	
+2099	objBard	Fais simplement de ton mieux!| C'est pas grave si on est mauvais.	
+2100	objBard	L'important c'est de s'amuser!	
 2101	objViola	Mais| nous|| ne serons pas mauvais.	
 2102	objManny	Ouais, vous devriez quand même essayer de bien jouer.	
-2103	objClara	Je suis quand même toujours nerveux.	
-2104	objClara	Mais on dirait que je n'ai pas le choix maintenant.	
-2105	objClara	Je vais juste me jeter à l'eau|, c'est comme se retirer un pansement.	
+2103	objClara	J'ai toujours l'estomac noué.	
+2104	objClara	Mais on dirait que je n'ai plus trop le choix maintenant.	
+2105	objClara	Il faut juste que je me jette à l'eau|, c'est comme se retirer un pansement.	
 2106	objClara	|||{wiggle}{shake}(E||x||p||i||r||e|||...)	
 			
 2107	objClara	C'est fou,| de penser...	
@@ -2483,24 +2483,24 @@
 2109	objClara	Enfin...|| pas |{wiggle}vraiment{/wiggle} comme elle...	
 2110	objClara	Je pourrais jamais jouer comme ça...	
 2111	objClara	Mais avec un peu de chance...|| juste assez bien.	
-2112	objClara	Pour la rendre fière.	
-2113	objClara	Je suis vraiment pas sûr si je suis prêt pour ça...	
+2112	objClara	Assez pour la rendre fière.	
+2113	objClara	Je sais vraiment pas si je m'en sens véritablement capable...	
 2114	objClara	Mais...| je vais faire de mon mieux.	
 2115	objClara	Tout le monde est si enthousiaste...	
-2116	objClara	J'espère ne pas vous faire chuter avec moi...	
+2116	objClara	J'espère ne pas vous entraîner dans ma chute...	
 			
-2117	objClara	En réalité|| je suis heureux que tu m'aies convaincu de jouer avec vous.	
-2118	objClara	Ça fait longtemps que je ne m'étais pas autant amusé.	
+2117	objClara	Je dois dire|| que j'apprécie que tu m'aies convaincu de jouer avec vous.	
+2118	objClara	Je n'avais pas pris autant de plaisir comme ça depuis si longtemps.	
 2119	objClara	Et...| j'aime à penser que ma mère nous regardait,| elle aussi...	
 2120	objClara	Vous êtes tous si doués...	
-2121	objClara	C'est intimidant,| mais vous me gardez toujours parmi vous.	
+2121	objClara	C'est intimidant,| mais vous me gardez malgré tout à vos côtés.	
 2122	objClara	Merci.	
-2123	objClara	Je suis désolé que tu partes.	
-2124	objClara	Personne ne m'avait jamais donné de chance avant comme tu l'as fais.	
+2123	objClara	C'est dommage que tu t'en ailles.	
+2124	objClara	Personne ne m'avait jamais donné, auparavant, de chance comme tu l'as fait.	
 2125	objClara	|||Merci.	
 2126	objClara	Je pense que je vais continuer de jouer avec Manny et Viola.	
 2127	objClara	S'ils veulent bien...	
-2128	objClara	J'espère que tu chanteras avec nous,| encore.	
+2128	objClara	J'espère que tu rechanteras avec nous,| encore.	
 2129	objClara	J'espère qu'un jour tu rechanteras avec nous,| encore.	
 			
 2130	objClara	Eh bien, bonjour.	
@@ -2516,11 +2516,11 @@
 2140	objClara	...	
 2141	objClara	En vérité...	
 2142	objClara	...	
-2143	objClara	Je suis pas sûr d'en être capable.	
+2143	objClara	Je ne pense pas en être capable.	
 2144	objBard	{shake .8}ET POURQUOI ÇA???{/shake}	
 2145	objClara	...	
-2146	objClara	Je ne suis jamais monté sur scène auparavant...	
-2147	objClara	Et j'ai toujours voulu jouer mon premier concert| avec ma mère...	
+2146	objClara	Je n'ai encore jamais joué sur scène auparavant...	
+2147	objClara	Et j'ai toujours souhaité que mon premier concert se fasse| en compagnie de ma mère...	
 2148	objBard	Oh!|| Alors,| où est-elle?	
 2149	objClara	...	
 2150	objClara	Elle nous a quittés	
@@ -2529,11 +2529,11 @@
 2153	objClara	C'est ma mère qui m'a appris à jouer...	
 2154	objClara	Elle était vraiment célèbre,| tu sais.	
 2155	objClara	Je n'ai jamais pensé être un jour à sa hauteur...	
-2156	objClara	Mais je pensais au moins qu'un jour,|| je reviendrais pour jouer avec elle.	
-2157	objClara	Je pense que tu devrais me laisser tranquille pour l'instant.	
+2156	objClara	Mais je pensais au moins qu'un jour|| je reviendrais pour jouer avec elle.	
+2157	objClara	Je pense que tu devrais me laisser tranquille pour le moment.	
 2158	objClara	J'ai plus envie de parler.	
 2159	objClara	Laisse-moi tranquille.	
-2160	objClara	S'il te plait|, va-t'en.	
+2160	objClara	S'il te plaît|, va-t'en.	
 			
 2161	objClara	Oh,| c'est encore toi.	
 2162	objClara	...	
@@ -2562,11 +2562,11 @@
 2193	objClara	...	
 2194	objClara	Et j'imagine,| qu'en sa mémoire...| c'est le moins que je puisse faire.	
 2195	objBard	C'est super!!!	
-2196	objClara	S'il te plait, n'en fais pas tout un plat.	
-2197	objClara	Ça| me rend nerveux tout ça.	
+2196	objClara	S'il te plaît, n'en fais pas tout un plat.	
+2197	objClara	J'ai l'estomac noué| rien que d'y penser.	
 2198	objClara	Mais je vais faire de mon mieux.	
 			
-2199	objClara	Oh...|| désolé.	
+2199	objClara	Oh...|| excuse-moi.	
 2200	objClara	Est-ce que je jouais trop fort?	
 2201	objBard	Non!!	
 2202	objBard	Est-ce que tu veux rejoindre un groupe?	
@@ -2589,7 +2589,7 @@
 2219	objClaraghostrise	...	
 2220	objClaraghostrise	Je sais pourquoi tu m'as appelée.	
 2221	objClaraghostrise	Mon enfant,| Ash...	
-2222	objClaraghostrise	Je vais lui parler.	
+2222	objClaraghostrise	Je vais aller lui parler.	
 			
 2223	objClyde	{shake .2}Sapristi!!!	
 2224	objClyde	Quel plaisir de te revoir!	
@@ -6592,12 +6592,12 @@
 7189	objManny	Après que tu sois parti,| on est parti en tournée!	
 7190	objManny	On a parcouru le |{wiggle}monde entier{/wiggle}!	
 7191	objViola	C'était une sacrée aventure!	
-7192	objClara	Peut-être| même un peu trop...	
+7192	objClara	Peut-être même| un peu trop...	
 7193	objManny	Ouais||, ça a pas toujours été facile.	
 7194	objBard	Vraiment?	
 7198	objManny	On s'est fait voler nos instruments...	
 7199	objManny	Expulser de Rulle...	
-7200	objClara	Et il y a eu cette fois où on a été jugés pour des crimes maritimes.	
+7200	objClara	Et il y a eu cette fois où l'on a été jugés pour des crimes maritimes.	
 7201	objManny	On s'est vraiment retrouvés dans de beaux draps.	
 7202	objManny	Mais tout a fini par s'arranger!	
 7203	objManny	On est toujours là!	
@@ -6613,11 +6613,11 @@
 7215	objBard	C'est tellement cool de tous vous revoir.	
 7216	objBard	Je pensais pas que vous auriez un jour quitté Delphi!	
 7217	objBard	?	
-7218	objManny	Delphi existe plus vraiment,| champion.	
+7218	objManny	Delphi est plus vraiment d'actualité,| champion.	
 7219	objManny	Delphi| a vraiment changé après que tu sois parti...	
 7225	objViola	Il y avait comme une |sensation| désagréable dans l'air...	
 7226	objClara	Le soleil ne brillait plus autant qu'avant.	
-7227	objClara	Le vent avait arrêté de souffler...	
+7227	objClara	Le vent avait cessé de souffler...	
 7228	objViola	Et des monstres ont commencés à apparaitre!	
 7230	objBard	Des monstres?	
 7231	objClara	Ils étaient horribles.	
@@ -6639,7 +6639,7 @@
 7247	objBard	Oh.	
 7248	objBard	Je suis désolé...	
 7249	objBard	Mais|| je suis content que vous alliez bien!	
-7252	objManny	Notre musique a fait une différence,| champion!	
+7252	objManny	Notre musique a su faire une différence,| champion!	
 7253	objManny	J'y crois vraiment à ça.	
 7254	objManny	On maintient le moral des gens!	
 7255	objManny	On a emporté avec nous cette bonne humeur que tu nous as donnée...	
@@ -6661,7 +6661,7 @@
 7271	objBard	Oh!|| Vous l'avez jamais rencontrée...	
 7272	objBard	Mais elle est géniale.	
 7273	objManny	Si elle est de la même famille que Sapphire,| elle doit l'être.	
-7274	objClara	Sapphire a gardé Delphi à l'abri.	
+7274	objClara	C'est à Sapphire que Delphi doit sa sécurité.	
 7275	objClara	C'est la seule qui est capable de combattre les monstres...	
 7276	objViola	Elle est impressionnante pour une vieille dame!	
 7277	objBard	Je vois...	
@@ -6669,7 +6669,7 @@
 7279	objManny	Champion...||| on a {shake}un concert à donner!{/shake}	
 7280	objViola	C'est vrai!	
 7281	objManny	C'était un bonheur de te revoir.	
-7282	objClara	Nous oublie pas.	
+7282	objClara	Ne nous oublie pas.	
 7283	objManny	On serait ravis de te revoir!	
 			
 7284	objManny	Nom d'une |{quake}{shake}PIPE!{/shake}	
