@@ -163,7 +163,7 @@
 7599	objMask	Montre au monde| la danse qui vit à l'intérieur de toi...	
 7600	objMask_meet	Je peux t'expliquer comment danser,| si tu veux.	
 7601	objBard	Ça i|ra.	
-7602	objBard	Oui s'il te plait!	
+7602	objBard	Oui s'il te plaît!	
 			
 7603	objMask	Hmmm...	
 7604	objMask	Je ne sais pas comment dire ça...	
@@ -477,7 +477,7 @@
 14	objMiles	Ha ha!	
 15	objMiles	Eh bien,| content que tu me le demandes!	
 16	objMiles	Je suis Gamin Bonheur,| le nouveau jouet sensationnel!	
-17	objMiles	La dernière et meilleure création de Mr. Baron...	
+17	objMiles	La dernière et meilleure création de M. Baron...	
 18	objMiles	Produite dans l'usine aux sourires,| l'Usine à Bonheur!	
 19	objMiles	Si t'as un Gamin Bonheur,| t'auras un ami||| tout comme moi!	
 20	objMiles	Tu ne sais pas ce qu'est le bonheur| tant que tu ne connais pas Gamin Bonheur!	
@@ -635,12 +635,12 @@
 201	objMiriam	{size .8}Ouais.	
 202	objMiriam	Toi aussi.	
 208	objMiriam	{shake .5}Aaaaaaaaargh!{/shake}	
-209	objMiriam	Je me sens| tellement inutile...	
+209	objMiriam	J'ai l'impression| d'être une bonne à rien...	
 210	objMiriam	J'ai fait tout ce chemin,	
 211	objMiriam	Pour qu'au final| je ne puisse même pas en venir à bout.	
 212	objMiriam	Cette stupide Héros...	
 213	objMiriam	A probablement raison.	
-214	objMiriam	Je suis vraiment qu'une nulle.	
+214	objMiriam	Je suis vraiment qu'une minable.	
 215	objBard	Miriam!!!	
 216	objBard	|C'est loin d'être vrai.	
 217	objBard	T'es tellement plus que ça!!!	
@@ -891,7 +891,7 @@
 555	objAstronomer	{shake .5}{wiggle}la |d|a|l|l|e...	
 556	objAstronomer	Je dois absolument être au resto...	
 557	objAstronomer	...	
-558	objAstronomer	Excuse-moi s'il te plait...	
+558	objAstronomer	Excuse-moi s'il te plaît...	
 559	objAstronomer	Il faut que j'aille au resto|| immédiatement...	
 			
 560	objAstronomer	Hey, désolée...	
@@ -1214,7 +1214,7 @@
 845	objHala	On ira la voir.	
 846	objBadriyah	J'ai indiqué son bureau sur ta carte si jamais t'as oublié.	
 847	objBadriyah	Je t'aime,| Hala.	
-848	objBadriyah	S'il te plait ne me hante pas pour l'éternité.	
+848	objBadriyah	S'il te plaît ne me hante pas pour l'éternité.	
 849	objHala	Je serais tentée,	
 850	objHala	Mais je suis déjà occupée à hanter ce ménestrel.	
 851	objHala	Je t'aime aussi, Badriyah.	
@@ -1346,7 +1346,7 @@
 975	objBalalaika	Mon amour,|| non-réciproque...| Comment puis-je l'oublier?	
 976	objBalalaika	Je ne peux même pas supporter de lui faire face,	
 977	objBalalaika	Mais j'ai consigné mes sentiments dans cette lettre.	
-978	objBalalaika	S'il te plait,|| va la lui remettre...	
+978	objBalalaika	S'il te plaît,|| va la lui remettre...	
 979	objBalalaika	Elle se tient devant l'usine tous les jours,	
 980	objBalalaika	De 11h30 à 6h30 du soir.	
 981	objBalalaika	Je le sais parce que je ne peux la quitter des yeux.	
@@ -1425,7 +1425,7 @@
 			
 1053	objBeth	...	
 1054	objBeth	{shake .4}Soupir...{/shake}	
-1055	objBeth	{wiggle}S'il te plait|{/wiggle} fait attention avec ça?	
+1055	objBeth	{wiggle}S'il te plaît|{/wiggle} fait attention avec ça?	
 1057	objBeth	Si t'étais pour gâcher de la nourriture...	
 1058	objBeth	T'aurais au moins pu donner ça à quelqu'un qu'en veut,| hein?	
 1059	objBard	Oh...|| Ok.	
@@ -1475,7 +1475,7 @@
 1106	objBlackcat	Désolé...| Tu n'es pas encore prêt.	
 1107	objBlackcat	Mais ne t'en fais pas trop pour l'instant.	
 1108	objBlackcat	Miaou!	
-1109	objBlackcat	Mot de passe,| s'il te plait.	
+1109	objBlackcat	Mot de passe,| s'il te plaît.	
 			
 1110	objBlackcat	Miaou!	
 1111	objBlackcat	|Tu l'as résolu...	
@@ -1990,8 +1990,8 @@
 1629	objCaptain	...	
 1630	objCaptain	Eh bien moussaillon...	
 1631	objCaptain	On a quand même fait un beau bout de chemin,| aye?	
-1633	objCaptain	Même si on est tous les deux des nuls...	
-1634	objCaptain	Au moins on est des nuls ensemble.	
+1633	objCaptain	Même si on est tous les deux des ratés...	
+1634	objCaptain	Au moins on est des ratés ensemble.	
 1635	objBard	Oh ouais!	
 1636	objBard	À vrai dire,| les sirènes ont dit que vous pouviez revenir {wiggle}"quantiv"!{/wiggle}	
 1637	objCaptain	{shake}"QUANTIV||", TU DIS??{/shake}	
@@ -2254,7 +2254,7 @@
 1893	objCaptain	Moussaillon...	
 1894	objCaptain	Pourquoi t'irais gâcher du café comme ça?	
 1895	objCaptain	Quelle tragédie...	
-1896	objCaptain	Apportes-moi-en s'il te plait...	
+1896	objCaptain	Apportes-moi-en s'il te plaît...	
 			
 1897	objCaptain	Ahoy!	
 1898	objCaptain	Je peux t'aider?	
@@ -2391,7 +2391,7 @@
 2023	objCapu	{shake .3}Alors,| enfin réveillé,| hein?	
 2024	objBard	{}Qu'est-ce qui s'est passé??	
 2025	objCapu	{shake .3}C'qui s'est| {quake}{shake}PASSÉ{shake .3}|?	
-2026	objCapu	C'est qu't'as fichu {shake}un vrai boxon{shake .3},| voilà c'qui s'est passé.	
+2026	objCapu	C'est qu't'as fichu {shake}un sacré boxon{shake .3},| voilà c'qui s'est passé.	
 2027	objCapu	Et t'auras	
 2028	objCapu	Plus |{shake}jamais{shake .3}| de café	
 2029	objCapu	De toute ta vie.
@@ -2593,7 +2593,7 @@
 			
 2223	objClyde	{shake .2}Sapristi!!!	
 2224	objClyde	Quel plaisir de te revoir!	
-2225	objClyde	Après que tu sois partie...|| {shake}tout est parti en vrille!{shake .2}	
+2225	objClyde	Après que tu es parti...|| {shake}tout est parti en vrille!{shake .2}	
 2226	objClyde	Des monstres féroces ont attaqué notre pauvre village...	
 2227	objClyde	Ils ont détruit nos arbres et nos maisons!	
 2228	objClyde	Oh,| c'était encore pire que les fantômes!!!	
@@ -2609,7 +2609,7 @@
 2238	objClyde	||Si c'est vraiment la fin,| je...	
 2239	objClyde	J'ai jamais...	
 2240	objClyde	{size .7}Je n'ai jamais dit à madame la maire...|| ce que je ressentais pour elle.	
-2241	objClyde	{size 1}|Je sais toujours pas si j'ai| le courage...	
+2241	objClyde	{size 1}|Je sais toujours pas si j'en ai| le courage...	
 2242	objClyde	Comment pourrait-elle se soucier d'un vieux machin comme moi?	
 2243	objClyde	Peut-être...	
 2244	objClyde	Peut-être que je vais lui dire...	
@@ -2626,27 +2626,27 @@
 2253	objClyde	Oh là là {shake}MAIS ALORS!!!{/shake}	
 2254	objBard	Qu'est-ce qui se passe??	
 2255	objClyde	{shake .3}Dans ma maison juste-là...	
-2256	objClyde	Il y a un...| authentique,| véritable {shake}FANTÔME!!!{/shake}	
+2256	objClyde	Il y a...| un authentique,| véritable {shake}FANTÔME!!!{/shake}	
 2257	objBard	Quoi!!!	
 2258	objBard	Oh.	
 2259	objBard	J'ai un peu envie de voir...	
 2260	objClyde	{shake}Ne joue pas les héros!!!{/shake}	
 2261	objClyde	{shake .3}La maire y est déjà entrée en trombe...	
 2262	objClyde	Il y a {wiggle}un moment...{/wiggle}	
-2263	objClyde	Et elle est {shake}toujours{shake .3} pas ressortie!	
+2263	objClyde	Et elle n'en est {shake}toujours{shake .3} pas ressortie!	
 2264	objClyde	C'est la fin de Langtree tel qu'on le connaît!!!	
 			
 2265	objClyde	{shake .3}Personne d'autre en ville pourrait remplacer la maire!	
 2266	objClyde	Ça pourrait signifier|{shake} la fin de Langtree!!{/shake}	
 2267	objClyde	{shake .2}Merci de grâce! Les esprits sont tous partis!	
 2268	objClyde	La maire sera vraiment ravie!!	
-2269	objClyde	{shake .2}Loué soit notre bonne étoile nous sommes sauf désormais!	
+2269	objClyde	{shake .2}Louée soit notre bonne étoile nous sommes désormais en sécurité!	
 2270	objClyde	Je me demande bien ce qui a pu perturber les esprits?	
 2271	objClyde	{shake .2}Toutes ces histoires de fantôme m'ont épuisé!	
 2272	objClyde	Mais je me sens bien plus en sécurité avec l'aide de la maire.	
 2273	objClyde	{shake .2}Je crois que je vais retourner prendre mes médicaments!	
 2278	objClyde	C'est déjà assez stressant sans tous ces fantômes!!	
-2279	objClyde	{shake .2}Alors un de ces fantômes était notre ancien maire...	
+2279	objClyde	{shake .2}Ainsi un de ces fantômes était notre ancien maire...	
 2280	objClyde	Je l'aimais bien.||| Mais je préfère notre maire bien vivante.	
 2281	objClyde	C'est vraiment |{wiggle}un sacré phénomène...	
 2282	objClyde	{wiggle}{shake .2}Soupir...{/wiggle}	
@@ -2681,7 +2681,7 @@
 			
 3116	objDelia	...	
 3117	objDelia	J'ai de la famille de l'autre côté de la frontière.	
-3118	objDelia	Mais je les ai pas vus depuis si longtemps...	
+3118	objDelia	Mais je ne les ai pas vus depuis si longtemps...	
 3119	objDelia	Je suis venue avec mon mari et mon qin pour essayer de traverser, mais...	
 3120	objDelia	En voyant la forêt morte...	
 3121	objDelia	On a préférés ne pas aller plus loin.	
@@ -2711,7 +2711,7 @@
 3144	objDeva	Pourquoi tu vas à Mohabumi toi?	
 3145	objDeva	Perso,| j'étais en pleine cambrousse pour rendre visite à ma famille.	
 3146	objDeva	J'ai hâte de rentrer chez moi.	
-3147	objDeva	Les meilleurs trucs se trouvent en ville.	
+3147	objDeva	Tous les meilleurs trucs se trouvent en ville.	
 			
 3148	objDeva	Oh heyyy!|| C'est le {wiggle}criminel!{/wiggle}	
 3149	objBard	Shh!| Hey...	
@@ -2792,7 +2792,7 @@
 3223	objBard	{}C'est pas grave!	
 3224	objBard	Je veux pas vraiment votre foulard de toute façon.	
 3225	objDolores	Mère me disait toujours...	
-3226	objDolores	{shake .5}"Soit prête pour l'arrivée du Héros!!!"	
+3226	objDolores	{shake .5}"Soit prête pour l'arrivée d'un Héros!!!"	
 3227	objDolores	{}Je ne pensais pas que ça arriverait de mon vivant...	
 3228	objDolores	{shake .5}Et pourtant!	
 3229	objDolores	{shake}Vous voilà!!	
@@ -2847,10 +2847,10 @@
 3276	objDreamfairy	Miou se doutait que tu reviendrais ici...	
 3277	objBard	À cause de ma |{wiggle}détermination?{/wiggle}	
 3278	objDreamfairy	Quelque chose comme ça...	
-3279	objDreamfairy	L'état de Mr. Roi des Rêves n'a fait qu'empirer.	
+3279	objDreamfairy	L'état de M. Roi des Rêves n'a fait qu'empirer.	
 3280	objDreamfairy	Il a passé beaucoup de temps loin d'ici,	
 3281	objDreamfairy	À éviter le Héros...	
-3282	objDreamfairy	Mais|| il ne peut plus faire ça désormais.	
+3282	objDreamfairy	Mais|| ce n'est plus dans ses capacités.	
 3283	objDreamfairy	Il est vraiment mal en point.	
 3284	objDreamfairy	Miou est inquiète| qu'il n'ait...	
 3285	objDreamfairy	Qu'il n'en ait plus pour longtemps.	
@@ -2858,14 +2858,14 @@
 3287	objBard	Je vais lui chanter quelque chose!!!	
 3288	objBard	J'ai parcouru le monde entier.	
 3289	objBard	J'ai tous les morceaux du Chant de la Terre!	
-3290	objBard	(Hormis la sienne...)	
+3290	objBard	(Hormis le sien...)	
 3291	objBard	Donc c'est complètement différent de la dernière fois.	
 3292	objBard	Cette fois...|| il |{shake .5}DOIT{/shake}| écouter!	
 3293	objDreamfairy	Miou n'en est pas si sûre...	
 3294	objDreamfairy	Mais...| tu te fiche de ce que miou pense, pas vrai?	
 3295	objBard	Ouaip!	
 3296	objDreamfairy	Eh beh.	
-3297	objDreamfairy	Mr. Roi des Rêves est pas un mauvais type.	
+3297	objDreamfairy	M. Roi des Rêves est pas un mauvais type.	
 3298	objDreamfairy	Vraiment vraiment!	
 3299	objDreamfairy	Mais il a vécu tant de choses.	
 3300	objDreamfairy	C'est parfois difficile même pour miou de bien comprendre.	
@@ -2881,15 +2881,15 @@
 3310	objDreamfairy	Ce sera La Fin.	
 3311	objDreamfairy	Miou n'est pas prête pour ça...	
 			
-3312	objDreamfairy	{background #ba1149}{color #ffdb78}Mr. Roi des Rêves est vraiment un chic type...	
-3313	objDreamfairy	Demande lui juste gentiment!	
-3314	objDreamfairy	{background #ba1149}{color #ffdb78}Est-ce que Mr. Roi des Rêves a fait ce que t'as demandé?	
+3312	objDreamfairy	{background #ba1149}{color #ffdb78}M. Roi des Rêves est vraiment un chic type...	
+3313	objDreamfairy	Demande-lui juste gentiment!	
+3314	objDreamfairy	{background #ba1149}{color #ffdb78}Est-ce que M. Roi des Rêves a fait ce que t'as demandé?	
 3315	objBard	{}...	
 3316	objBard	Pas vraiment!	
 3317	objDreamfairy	{background #ba1149}{color #ffdb78}...||Mia|-oh.	
-3318	objDreamfairy	||Mr. Roi des Rêves est vraiment un chic type...	
+3318	objDreamfairy	||M. Roi des Rêves est vraiment un chic type...	
 3319	objDreamfairy	Mais ça fait bien longtemps qu'il n'a pas aidé d'humains...	
-3320	objDreamfairy	{background #ba1149}{color #ffdb78}Mr. Roi des Rêves dort toujours.	
+3320	objDreamfairy	{background #ba1149}{color #ffdb78}M. Roi des Rêves dort toujours.	
 3321	objDreamfairy	Dé|so{wiggle}léééee{/wiggle}	
 3322	objDreamfairy	{background #ba1149}{color #ffdb78}Le château est sympa et calme la plupart du temps.	
 3323	objDreamfairy	Pot-être miaou devrait aussi| faire la sieste...	
@@ -2902,11 +2902,11 @@
 3329	objDreamfairy	{background #ba1149}{color #ffdb78}{wiggle}Mrrrrrrrr...{/wiggle}	
 3330	objDreamfairy	Miaou voit qu'il n'y a pas moyen de t'arrêter.	
 3331	objDreamfairy	Si c'est vraiment si important...	
-3332	objDreamfairy	{wiggle}P|e|u|t|-|ê|t|r|e{/wiggle}|| que Mr. Roi des Rêves comprendra...	
+3332	objDreamfairy	{wiggle}P|e|u|t|-|ê|t|r|e{/wiggle}|| que M. Roi des Rêves comprendra...	
 3333	objDreamfairy	...	
 3334	objDreamfairy	Peut-être.	
 3335	objDreamfairy	Mais si tu emportes cette détermination avec toi...	
-3336	objDreamfairy	Mr. Roi des Rêves est |{wiggle}sûr{/wiggle}| de t'aider!	
+3336	objDreamfairy	M. Roi des Rêves est |{wiggle}sûr{/wiggle}| de t'aider!	
 3337	objDreamfairy	...Pat-|être.	
 			
 3338	objDreamfairy	{background #ba1149}{color #ffdb78}{shake}ET BON DÉBARRAS!!!{/shake}	
@@ -2945,15 +2945,15 @@
 3369	objDreamfairy	Dure depuis au moins quelques {wiggle}siècles!{/wiggle}	
 3370	objBard	{}{shake}J'AI PAS QUELQUES SIÈCLES DEVANT MOI!!!{/shake}	
 3371	objBard	S'il te plaît,| est-ce que tu peux le réveiller??	
-3372	objBard	Je suis dans une quête très importante!!	
+3372	objBard	Je suis dans une quête super importante!!	
 3373	objDreamfairy	{background #ba1149}{color #ffdb78}{shake}Mmmmmmm!{/shake}	
 3374	objDreamfairy	Miaou comprend,| mais...	
-3375	objDreamfairy	Mr. Roi des Rêves n'aime ||{wiggle}PAAAAAAS{/wiggle}| être| réveillé.	
+3375	objDreamfairy	M. Roi des Rêves n'aime ||{wiggle}PAAAAAAS{/wiggle}| être| réveillé.	
 3376	objBard	{}Tu dois vraiment me.....!	
 3377	objBard	...	
 3378	objBard	{shake}CHAT-RIER{/shake}!!!	
 3379	objBard	Je peux le faire si t'as trop peur!!	
-3380	objBard	Je peux chanter {shake}TRÈS| FORT!{/shake}	
+3380	objBard	Je peux chanter {shake}VRAIMENT| FORT!{/shake}	
 3381	objBard	C'est genre||| mon truc!	
 3382	objDreamfairy	{background #ba1149}{color #ffdb78}Ça va pas marcher!!	
 3383	objDreamfairy	Seule la cloche au sommet du château peut le réveiller	
@@ -2963,14 +2963,14 @@
 3387	objBard	{}Je vais carrément faire sonner la cloche!!!	
 3388	objDreamfairy	{background #ba1149}{color #ffdb78}{wiggle}ahhhhh noooooon	
 			
-3389	objBard	Mr. Roi des Rêves!	
+3389	objBard	M. Roi des Rêves!	
 3390	objDreamking	{spirit}{shake .5}Ugh{/shake}||......	
 3391	objBard	{}Comment,| euh...|| comment ça va?	
 3392	objDreamking	{spirit}{wiggle}Niii|i|i|i|i{/wiggle}|||ckel	
-3393	objDreamking	Mon état est absolument|| pas...|| en train de se détériorier à un rythme alarmant...	
+3393	objDreamking	Je suis absolument|| pas...|| en train de me détériorier à un rythme alarmant...	
 3394	objDreamking	J'ai toujours mon charme naturel	
 3395	objDreamking	Tu vois?	
-3396	objBard	{}Mr. Roi des Rêves...	
+3396	objBard	{}M. Roi des Rêves...	
 3397	objBard	Il faut vraiment qu'on parle!!!	
 3398	objDreamking	{spirit}Oh là là.|| Super	
 3399	objBard	{}Le Héros est en route pour venir ici|| {shake .5}au moment où l'on parle!!!{/shake}	
@@ -2986,8 +2986,8 @@
 3409	objBard	{}{shake}VRAIMENT???{/shake}	
 3410	objDreamking	{spirit}Non	
 3411	objDreamking	Tu sais,| ça me rend presque un peu triste...	
-3412	objDreamking	De me dire que vous n'aurez|| {shake}JAMAIS{/shake} rien appris.	
-3413	objBard	{}Parce que vous ne voulez pas nous l'enseigner!	
+3412	objDreamking	De me dire que vous ne l'aurez|| {shake}JAMAIS{/shake} saisi.	
+3413	objBard	{}Parce que vous ne voulez pas nous le donner!	
 3414	objDreamking	{spirit}Je ne parle pas du Chant de la Terre.	
 3415	objDreamking	Je parle de...	
 3416	objDreamking	{size 2}{shake}TOUT ÇA.	
@@ -2998,7 +2998,7 @@
 3421	objDreamking	Ce ne sont pas juste des signes de l'arrivée de |{glitch .6}La Fin...	
 3422	objDreamking	C'est || {shake}ÇA{/shake} |{glitch .6}La Fin	
 3423	objDreamking	C'est inévitable.	
-3425	objDreamking	Rassembler des morceaux de chant|| n'a aucune importance.	
+3425	objDreamking	Rassembler des morceaux d'un chant|| n'a aucune importance.	
 3427	objDreamking	Et s'accrocher au Chant de la Terre...	
 3428	objDreamking	Comme si c'était|| une solution magique...	
 3429	objDreamking	À tous nos problèmes...	
@@ -3015,13 +3015,13 @@
 3455	objDreamking	À s'étendre.|| Se détériorer.	
 3456	objDreamking	Si le monde entier était encore capable d'agir comme un tout...	
 3457	objDreamking	{glitch .6}La Fin| n'aurait jamais eu lieu.	
-3460	objDreamking	Écoutez.|| Je veux pas non plus que ce soit la fin.	
+3460	objDreamking	Écoutez.|| Je veux pas non plus que ça se finisse.	
 3461	objDreamking	J'ai fait tout mon possible pour retarder ça.	
-3464	objDreamking	J'ai brisé les règles.	
+3464	objDreamking	J'ai enfreint les règles.	
 3465	objDreamking	Mais|| ça n'a fait qu'empirer les choses.	
 3466	objDreamking	Le monde n'a cessé de se dégrader pendant que je gagnais du temps.	
 3467	objDreamking	Les gens souffrent.	
-3468	objDreamking	Faire prolonger le monde encore plus longtemps...|| c'est pas naturel.	
+3468	objDreamking	Prolonger l'existence du monde aussi longtemps...|| c'est pas naturel.	
 3469	objDreamking	Il faut savoir| lâcher prise.	
 3470	objHero	{}C'était facile!	
 3471	objHero	Alors c'est la fin du coup,| pas vrai?	
@@ -3029,21 +3029,21 @@
 3473	objHero	Merci d'avoir joué!	
 3474	objMiriam	{shake}TOI!!!!!||.....	
 3476	objBard	{}J'arrive pas à croire que t'aies fait ça,| Audrey...	
-3482	objHero	Arrête de jouer les étonnés!	
-3483	objHero	Vous vous en êtes bien tirés...	
+3482	objHero	Va pas me faire croire que t'es surpris!	
+3483	objHero	Vous vous en êtes bien tirés tous les deux...	
 3484	objHero	À tout le temps me mettre des bâtons dans les roues!	
 3487	objHero	Mais au final| ça n'aura servit à rien!	
 3488	objHero	J'ai gagnée!	
-3489	objHero	Vous autres, bande de nuls, n'aviez aucune chance.	
+3489	objHero	Vous n'aviez aucune chance les minables.	
 3490	objHero	Ça fait du bien,| pour être honnête!	
 3491	objHero	J'aurais presque espérée que ce soit pas aussi simple...	
 3492	objBard	Eyala m'a raconté...	
 3493	objBard	Ce qui s'est passé entre vous.	
-3494	objBard	Elle ne t'as pas menti.||| Pas vrai?	
+3494	objBard	Elle ne t'a pas menti.||| Pas vrai?	
 3495	objBard	Elle croyait en nous!	
 3496	objBard	Si t'avais ne serait-ce qu'attendu...	
 3497	objBard	On aurait pu sauver le Roi des Rêves.	
-3498	objHero	C'est ce qu'elle t'as dit,| hein?	
+3498	objHero	C'est ce qu'elle t'a dit,| hein?	
 3499	objHero	Ouais!|| C'est vrai.	
 3500	objHero	Au final,| même Eyala s'est retournée contre moi.	
 3501	objHero	C'est pour ça que je l'ai larguée.	
@@ -3064,7 +3064,7 @@
 3516	objMiriam	Contre un héros solitaire.	
 3517	objMiriam	On devrait s'en sortir,| pas vrai?	
 			
-3518	objBard	Mr. Roi des Rêves!!!	
+3518	objBard	M. Roi des Rêves!!!	
 3519	objBard	Est-ce que vous...|| avez |{wiggle}vraiment{/wiggle}| renoncé à l'idée de combattre le Héros?	
 3525	objDreamking	{dk_a4}|||Est-ce que j'ai l'air d'en avoir envie?	
 3526	objBard	{}Non!	
@@ -3074,7 +3074,7 @@
 3530	objDreamking	{dk_a4}Oh mon vieux,| t'as vraiment pas compris	
 3531	objDreamking	Quand les Régents cèdent leur chant...	
 3532	objDreamking	Nous cédons la partie "pure" de nous-même...	
-3533	objDreamking	Ce qui accélère le processus de transformation en monstre	
+3533	objDreamking	Accélérant ainsi le processus de transformation en monstre	
 3534	objDreamking	Concrètement,| c'est juste une autre manière pour moi de mourir	
 3535	objBard	{}Mais si vous le faites...| le monde va survivre!	
 3538	objDreamking	{dk_a4}Bien sûr,|| mais il y a un petit problème	
@@ -3104,7 +3104,7 @@
 3565	objMiriam	Plus un geste!	
 3566	objHero	{shake .5}Vous...{/shake}	
 3567	objBard	Audrey...	
-3568	objHero	Bande de|| {shake}{quake}NULS!!!{/shake}	
+3568	objHero	Bande de|| {shake}{quake}MINABLES!!!{/shake}	
 3569	objHero	Vous gâchez| {shake .5}toujours tout!!!{/shake}	
 3570	objHero	Et je dis bien vraiment tout!	
 3571	objHero	C'est| mon| aventure!	
@@ -3196,7 +3196,7 @@
 3692	objDreamking	{size 1.5}{background black}{color white}{spirit}NON	
 3693	objDreamking	{size 1.5}{background black}{color white}{spirit}QUOI...	
 3694	objDreamking	POURQUOI T'ES ENCORE LÀ	
-3695	objBard	{}J'ai|| {shake}vraiment{/shake}| envie que vous m'enseiginez le Chant de la Terre!!!	
+3695	objBard	{}J'ai|| {shake}vraiment{/shake}| envie que vous m'enseigniez le Chant de la Terre!!!	
 3696	objDreamking	{size 1.5}{background black}{color white}{spirit}...	
 3697	objDreamking	TU SAIS QUOI...	
 3698	objDreamking	FACE À UNE TELLE DÉTERMINATION,	
@@ -3218,7 +3218,7 @@
 3716	objBard	On a jamais eu le dernier morceau du Chant de la Terre...	
 3717	objAngel	{angel}|||Je le pensais aussi...	
 3719	objAngel	Mais au final|| ça n'avait pas d'importance!	
-3720	objAngel	Lorsque tu as fait entendre ta voix,	
+3720	objAngel	Lorsque tu as fait résonner ta voix,	
 3721	objAngel	Le monde entier a répondu	
 3722	objAngel	Et...|| Eya vous a entendu!	
 3723	objAngel	Elle vous a vu travailler tous ensemble	
@@ -3250,7 +3250,7 @@
 3752	objEduard	Nous ne les encombrons donc pas avec des endroits qu'ils ne peuvent pas voir...	
 3753	objEduard	{size 1.2}Il y a tant de choses à découvrir à Mohabumi,	
 3754	objEduard	Même si tu n'es pas apte à la magie.	
-3755	objEduard	Le marché principal se trouve juste en face.	
+3755	objEduard	Le marché principal se trouve droit devant.	
 3756	objEduard	Et si ça t'intéresse d'étudier la magie,	
 3757	objEduard	L'Académie se trouve également au rez-de-chaussée...	
 3758	objEduard	{size 1.2}Comme tu l'as sans doute remarqué,| la ville est entièrement souterraine...	
@@ -3267,9 +3267,9 @@
 3768	objEduard	Et ce sont les capitaines qui dirigent.	
 3769	objEduard	C'est aisément la partie la plus importante de la prestation.	
 3770	objEduard	Je dois capter l'attention du public,	
-3771	objEduard	Et mettre en place le reste de la chanson.	
-3772	objEduard	Mais je n'ai pas de musique à jouer...	
-3773	objEduard	Peut-être...|| que tu pourrais composer pour moi?	
+3771	objEduard	Et mettre en place le reste de la musique.	
+3772	objEduard	Mais je n'ai aucune partition à jouer...	
+3773	objEduard	Peut-être...|| que tu pourrais la composer pour moi?	
 3774	objBard	Hors de ques|tion!	
 3775	objBard	Bien sûr!	
 3776	objEduard	Vas-tu composer ma partie?	
@@ -3304,7 +3304,7 @@
 3802	objEduard	Peux-tu réduire sa complexité?	
 3803	objBard	Pas main|tenant...		
 3804	objBard	Je vais e|ssay|er!	
-3805	objEduard	Alors nous sommes dans une impasse.	
+3805	objEduard	Nous sommes donc dans une impasse.	
 3806	objEduard	Je me dois de t'implorer d'améliorer ta proposition.	
 3807	objEduard	Hmm.|| Hmmm!|| Est-ce que c'est la bonne?	
 3808	objBard	Lai|ssez|-moi ré|e|ssay|er.	
@@ -3402,7 +3402,7 @@
 3903	objMiriam	Je veux dire, c'est pas ça qui fait que t'es quelqu'un de|| bien!	
 3904	objMiriam	T'es quelqu'un de bien parce que t'es toujours content à chanter à tout-va.	
 3905	objMiriam	J'aimerais |être| comme ça.	
-3906	objMiriam	Je suis grincheuse et inutile...	
+3906	objMiriam	Je suis grincheuse et bonne à rien...	
 3907	objMiriam	Tu rends tout meilleur rien qu'en étant content.	
 3908	objBard	Ouais bah, je suis pas content là.	
 3909	objBard	Même si on voulait apprendre le Chant de la Terre...	
@@ -3608,14 +3608,14 @@
 4102	objFernando	Je suis la partie dont tout le monde se souvient longtemps après le concert!	
 4103	objFernando	Ça doit être incroyable de me rencontrer,| hey?	
 4104	objFernando	Il y a juste ||un tout petit problème...	
-4105	objFernando	...||notre cheffe d'orchestre a perdu la musique.| Alalalala!	
+4105	objFernando	...||notre cheffe d'orchestre a perdu la partition.| Alalalala!	
 4106	objFernando	Je pourrais sûrement me débrouiller et bricoler un truc moi-même.	
 4107	objFernando	Mais comment le groupe arriverait à me suivre?	
 4108	objBard	C'est pas po|ssible.	
 4109	objBard	Je pou|rrais é|crire une chan|son!	
 4110	objFernando	Ça doit être incroyable de me rencontrer,| hein?	
 4111	objBard	Oui, dit m'en plus!	
-4112	objBard	Je suis là pour é|crire une chan|son.	
+4112	objBard	Je suis là pour é|crire une mus|ique.	
 4113	objFernando	Ola!	
 4114	objFernando	J'attends juste le concert de ce soir.	
 4115	objBard	Je suis im|pa|tient!	
@@ -3627,7 +3627,7 @@
 4119	objFernando	Bah,| je suis né à Mohabumi, une sorcière comme les autres...	
 4120	objFernando	Mais j'ai toujours su que j'étais destiné à de grandes choses!	
 4121	objFernando	Mais bon,| assez parlé de moi.	
-4123	objFernando	Notre cheffe d'orchestre a besoin de musique pour ce soir.	
+4123	objFernando	Notre cheffe d'orchestre a paumée la partition pour ce soir.	
 4124	objFernando	Mais c'est pas bien grave!	
 4125	objFernando	Je vais me débrouiller!	
 4126	objFernando	Souhaite-moi bonne chance pour le concert de ce soir!	
@@ -3768,7 +3768,7 @@
 4256	objFrancine	Je ne pensais pas te revoir un jour!	
 4257	objFrancine	Tu nous as tellement manquées à Marley et à moi.	
 4258	objFrancine	Il s'en est passé des choses,| ici...	
-4259	objFrancine	C'est ce que les esprits avaient annoncés,| je suppose...	
+4259	objFrancine	C'est ce que les esprits avaient annoncés,| on dirait...	
 4260	objFrancine	Je n'arrive pas à croire que ce soit la fin...	
 4261	objFrancine	C'était si difficile pour nous,| avec tout ça...	
 4262	objFrancine	Surtout pour Ruby...	
@@ -3795,7 +3795,7 @@
 4282	objFrancine	C'est tellement une si gentille,| gentille vieille dame!	
 4283	objFrancine	Si quelque chose devait lui arriver,| je...	
 4284	objFrancine	J'ai pensée à demander de l'aide,| mais...	
-4285	objFrancine	Et si quelque chose lui arrivait pendant que j'étais pas là?	
+4285	objFrancine	Et si quelque chose lui arrivait pendant que je n'étais pas là?	
 4286	objFrancine	Je suis terrifiée,|| je peux pas| bouger!	
 4287	objFrancine	J'ai honte...	
 			
@@ -3817,7 +3817,7 @@
 4303	objFrancine	C'était apparemment un rituel pour communier avec le Régent...	
 4304	objFrancine	Mais il ne nous a jamais répondu.	
 4305	objFrancine	Je sais que Ruby peut paraître un peu dure parfois.	
-4306	objFrancine	Mais son coeur est bon...|| juste vieux,| et mis à l'épreuve.	
+4306	objFrancine	Mais son coeur est bon...|| juste usé,| et mis à l'épreuve.	
 4307	objFrancine	Maintenant que Ron est de retour, Ruby a l'air|| plus heureuse.	
 4308	objFrancine	Personnellement,| je le trouve toujours un peu effrayant en fantôme...	
 4309	objFrancine	J'ai tellement été distraite avec Ruby, que j'ai à peine vu Marley...	
@@ -3859,7 +3859,7 @@
 			
 4344	objFrancisco	Wow.|| Eh bien.	
 4345	objFrancisco	Merci de t'être occupé de cet idiot.	
-4346	objFrancisco	Je pensais que tu étais trop farfelu pour vraiment être utile.	
+4346	objFrancisco	Je pensais que tu étais trop farfelu pour vraiment servir à quelque chose.	
 4347	objFrancisco	Je suis ravi que tu m'aies prouvé le contraire.	
 4348	objFrancisco	Maintenant que j'y pense,	
 4349	objFrancisco	Nous rencontrons beaucoup plus de problèmes depuis que nous t'avons rencontré.	
@@ -3871,7 +3871,7 @@
 4355	objFrancisco	Parbleu!	
 4356	objFrancisco	Qu'est-ce qui se passe?|| Tout le monde a perdu la tête...	
 4357	objFrancisco	Est-ce que c'est ta faute?	
-4358	objFrancisco	Le Capitaine Lucas a dit que nous partions à la recherche des sirènes?	
+4358	objFrancisco	Le Capitaine Lucas a dit que nous partions à la recherche de sirènes?	
 4359	objFrancisco	Quoi?	
 4360	objFrancisco	N'avaient-elles pas disparu depuis des années?	
 4361	objFrancisco	Ça m'allait bien de juste vendre des grains...	
@@ -3905,12 +3905,12 @@
 4388	objFrancisco	Tu m'as l'air du genre farfelu.	
 4389	objFrancisco	Évidemment, ils t'ont laissé embarquer sur le navire sans me consulter.	
 4390	objFrancisco	Je veux dire.| Ça va.	
-4391	objFrancisco	Juste,| ne casse rien s'il te plait.	
+4391	objFrancisco	Juste,| ne casse rien s'il te plaît.	
 			
 4392	objFrancisco	{shake}SOUPIR.	
 4393	objFrancisco	{}Encore un mug de perdu.| Fabuleux.	
 4394	objFrancisco	{shake}URGH.	
-4395	objFrancisco	{}S'il te plait, |{wiggle}essaie{/wiggle}| d'être prudent avec ça?	
+4395	objFrancisco	{}S'il te plaît, |{wiggle}essaie{/wiggle}| d'être prudent avec ça?	
 4396	objFrancisco	{shake}Qui continue de donner du café à ce trublion??	
 4397	objFrancisco	{shake}Ces tasses|| sont pas peu chères!!!{/shake}	
 4398	objFrancisco	Enfin je veux dire,| elles le sont,|| relativement parlant...	
@@ -3927,12 +3927,12 @@
 4408	objMiriam	{shake}{quake}JE SUIS RÉVEILLÉE JE SUIS RÉVEILLÉE!!!{}	
 4409	objMiriam	Rhooh...	
 4410	objFrannie	L'esprit...	
-4411	objFrannie	Est-ce qu'il est vraiment parti?	
+4411	objFrannie	Est-il est vraiment parti?	
 4412	objBard	Ouais!	
 4413	objFrannie	On avait peut-être tort à votre sujet.	
 4414	objFrannie	On pensait que vous veniez...|| de l'autre côté de la frontière...	
 4415	objBard	||...Euh?	
-4416	objFrannie	Vous devez |VRAIMENT| vraiment pas être d'ici, hein?	
+4416	objFrannie	Vous devez |VRAIMENT| pas être d'ici, hein?	
 4417	objBard	Ah ça oui!	
 4418	objFrannie	Bon,| laissez-moi vous simplifier tout ça.	
 4419	objFrannie	Par ici, il y a deux grands royaumes.	
@@ -3983,7 +3983,7 @@
 4468	objFrannie	Surtout si vous rejoignez la capitale, Xiatian.	
 4469	objFrannie	Rulle c'est vraiment joli quand c'est pas réduit en cendres.	
 4470	objFrannie	Il y a beaucoup de types dangereux qui passent par ici.	
-4471	objFrannie	J'ai héritée de cet endroit de mes parents, mais la région n'est plus en bon état.	
+4471	objFrannie	J'ai hérité de cet endroit de mes parents, mais la région n'est plus en bon état.	
 4472	objFrannie	Je comprends toujours pas ce qui les a poussés à reconstruire après l'incendie.	
 4473	objFrannie	Mais pour les pauvres âmes qui errent ici,| c'est leur seul refuge.	
 			
@@ -4015,14 +4015,14 @@
 4499	objFrannie	Va pas faire le malin...	
 4500	objFrannie	C'est la dernière porte du hall à l'étage.	
 			
-4501	objFrannie	Hey,| étrangé.	
+4501	objFrannie	Hey,| étranger.	
 4502	objFrannie	Qu'est-ce que tu crois faire là?	
 			
 4503	objSue	Oh,| toi!	
 4504	objFrederick	Le chanteur du Crazy Raven,| n'est-ce pas?	
 4505	objSue	Celui grâce à qui on est ensemble...	
 4506	objSue	C'est cool de te revoir.	
-4507	objSue	On a vécu de véritables montagnes russes.	
+4507	objSue	On a vécu de véritables montagnes russes par ici.	
 4508	objSue	Je crois qu'on est passés à ça de la fin du monde.	
 4509	objSue	Je pense pas que j'aurais pu supporter ça...	
 4510	objSue	Sans Frederick pour me rassurer.	
@@ -4045,33 +4045,33 @@
 4527	objFrederick	Je vais essayer d'être un peu moins critique à partir de maintenant.	
 4528	objFrederick	OK.	
 4529	objFrederick	Votre concert...	
-4530	objFrederick	Était vraiment amusant en réalité.	
+4530	objFrederick	Était en réalité vraiment amusant.	
 4531	objFrederick	Je n'ai rien à redire.	
 4532	objFrederick	Je suis en réalité un talentueux critique, je te ferais savoir.	
 4533	objFrederick	Qu'importe à quel point quelque chose est bien,	
-4534	objFrederick	Je peux toujours trouver quelque chose qui ne va pas.	
+4534	objFrederick	Je peux toujours trouver quelque chose à redire.	
 4535	objFrederick	Je n'ai jamais vraiment entendu de la |"bonne"| musique avant.	
 4536	objFrederick	Rien n'est parfait.	
 4537	objFrederick	{wiggle}Quelqu'un{/wiggle}| doit bien le faire remarquer.	
 4538	objFrederick	Mes goûts raffinés s'étendent à tous les domaines.	
-4539	objFrederick	Jolie tenue,| d'ailleurs.	
-4540	objFrederick	Oui,| j'ai vu votre concert.	
+4539	objFrederick	Jolie tenue,| au passage.	
+4540	objFrederick	Oui,| j'ai assisté à votre concert.	
 4541	objFrederick	Tout le monde en ville semble l'avoir aimé,	
 4542	objFrederick	Mais| je...	
 4543	objFrederick	Eh bien,|| j'ai trouvé que c'était ||{wiggle}plutôt...| bien...{/wiggle}	
-4544	objFrederick	Ça aurait pu bénéficié de quelques améliorations.	
+4544	objFrederick	Ça aurait pu bénéficier de quelques améliorations.	
 4545	objFrederick	Ici et là.	
 4546	objFrederick	Si tu as besoin de |{wiggle}moi{/wiggle} pour te dire ce qui n'allait pas...	
 4547	objFrederick	Je ne pense pas que tu réussiras en tant que musicien.	
 			
-4548	objFrederick	Quel beau chant.	
+4548	objFrederick	Quelle belle mélodie.	
 4549	objFrederick	Hmm.| Je ne sais pas si ce morceau était fait pour moi.	
 4550	objFrederick	Mais la musique n'a pas besoin de plaire à tout le monde.	
 4551	objFrederick	Ce morceau me rappelle quelque chose que j'ai déjà entendu.	
 4552	objFrederick	Mais tu y as apporté un touche d'originalité!	
 4553	objFrederick	Bien joué.	
 			
-4554	objFrederick	C'était un bel effort.	
+4554	objFrederick	Bel effort.	
 4555	objFrederick	Mais je pense que ça avait besoin de plus| d'allegrato sur son| fortissimo.	
 4556	objFrederick	Si tu ne sais pas ce que ça veut dire,	
 4557	objFrederick	Tu ne réussiras jamais en tant que musicien.	
@@ -4099,7 +4099,7 @@
 4577	objGabe	Sans magie,| il est difficile d'accéder à la majeure partie de la ville...	
 4578	objGabe	Mais il y a déjà tant à voir dans les zones touristiques!	
 4579	objGabe	J'ai visité l'Académie et j'ai même assisté à un cours.	
-4580	objGabe	C'était un peu inutile,	
+4580	objGabe	Ça ne m'a pas servi à grand chose,	
 4581	objGabe	Mais c'était intéressant de voir comment apprenaient les sorcières!	
 4582	objGabe	En fait,| je suis en train d'écrire un guide touristique...	
 4583	objGabe	J'ai envie de voir tout ce que le monde a à proposer!	
@@ -4186,7 +4186,7 @@
 4662	objBard	Ra|conte|-moi!	
 4663	objGert	Euh,|| bah	
 4664	objGert	Il y a ces quatre enfants qui décident de jouer à un jeu	
-4665	objGert	Mais le jeu entraîne la fin de l'univers
+4665	objGert	Mais ce jeu entraîne la fin de l'univers
 4666	objGert	Et ils doivent s'embarquer dans une sorte de quête planétaire	
 4667	objGert	Afin de collecter des matériaux pour créer un nouvel univers	
 4668	objGert	Et il y a des aliens et du voyage dans le temps aussi	
@@ -4240,12 +4240,12 @@
 4716	objBard	QUOI???	
 4717	objMatriarch	T'as bien entendu.	
 4718	objMatriarch	Aujourd'hui j'ai pas pu faire mon job. Mais toi oui.	
-4719	objMatriarch	Mes gens méritent quelqu'un qui soit capable de les garder en sécurité.	
+4719	objMatriarch	Mes gens méritent quelqu'un qui soit capable d'assurer leur sécurité.	
 4720	objMatriarch	Aussi simple que ça.	
-4721	objClyde	{shake .2}{size .9}Excusez moi, Mme. la Maire, mais...	
+4721	objClyde	{shake .2}{size .9}Excusez-moi, Mme. la Maire, mais...	
 4722	objClyde	Qu'est-ce que vous racontez??	
 4723	objFrancine	{}Vous êtes une excellente cheffe!	
-4724	objMarley	Rappelez vous la fois où le fils Bronson s'est perdu dans les bois?	
+4724	objMarley	Rappelez-vous la fois où le fils Bronson s'est perdu dans les bois?	
 4725	objBronson	Aye! Ou quand Clyde s'est retrouvé coincé dans un arbre?	
 4726	objClyde	{shake .2}{size .9}Hey...	
 4727	objMarley	{}Nous sommes tous fiers de vous avoir comme maire.	
@@ -4264,21 +4264,21 @@
 			
 4741	objGonzalo	Chaque fois que je me perds dans Mohabumi...	
 4742	objGonzalo	Je me rapelle toujours du B.A-BA!	
-4743	objGonzalo	Bas||| Appuyé||| BAH...|| Ouvre la carte!	
-4744	objGonzalo	Attends,| c'est pas très facile à mémoriser.	
+4743	objGonzalo	Bas||| Appuyé||| BA...|| Ouvre la carte!	
+4744	objGonzalo	Attends,| c'est pas très facile à retenir.	
 4745	objGonzalo	Attends...|| comment j'ouvre la carte,| déjà?	
 4746	objGonzalo	Oh non...	
 4747	objGonzalo	{shake .5}C'est quel bouton qui ouvre la carte?!{/shake}	
 4748	objGonzalo	Est-ce que c'était...|| gauche?|| Haut?|| {shake .5}X???{/shake}	
 4749	objGonzalo	C'est terrible...	
-4750	objGonzalo	J'ai écrit des notes pour tous mes sorts musicaux favoris dessus,| aussi.	
+4750	objGonzalo	J'ai écrit des notes pour tous mes sorts musicaux préférés dessus,| aussi.	
 4751	objGonzalo	J'ai besoin de le trouver!!!	
 4752	objGonzalo	C'est facile de se perdre à Mohabumi...	
 4753	objGonzalo	Surtout si tu marches sur le plafond et les murs...	
 4754	objGonzalo	Parfois j'oublie où est le haut et où est le bas!	
 4755	objGonzalo	Attends...|| Bas!| C'est ça!	
 4756	objGonzalo	Bas Appuyé Bah'|Ouvre la carte!	
-4757	objGonzalo	On dirait que c'était facile à mémoriser après tout.	
+4757	objGonzalo	On dirait que c'était facile à retenir après tout.	
 			
 4758	objGord	Oh hey!	
 4759	objGord	You're here :)	
@@ -4476,7 +4476,7 @@
 4949	objGreg	{color red}{size 2}0	
 			
 4950	objGuppy	Ah.|| Salut.	
-4951	objGuppy	Tu es venu juste à temps...	
+4951	objGuppy	Tu es arrivé juste à temps...	
 4952	objGuppy	Pour La Fin.	
 4953	objGuppy	Nous nous sommes rassemblés ici pour en être témoin.	
 4954	objGuppy	C'est un moment très spécial pour nous les féés.	
@@ -4489,7 +4489,7 @@
 4960	objGuppy	Tu dois sûrement penser que je ne suis qu'un humble poisson.	
 4961	objGuppy	Mais je suis|| en réalité|| aussi une clé.	
 4962	objGuppy	Si tu me vois flotter dans les parages...	
-4963	objGuppy	Emmène-moi aux porte fermés s'il te plait.	
+4963	objGuppy	Emmène-moi aux porte fermés s'il te plaît.	
 4964	objGuppy	Tu remarqueras que je suis bien plus utile qu'un poisson ordinaire.	
 4965	objGuppy	Si je peux me permettre...	
 4966	objGuppy	Est-ce que tu es ici pour rencontrer| la Reine du Chaos?	
@@ -4553,7 +4553,7 @@
 5022	objHala	Oui,| bah,	
 5023	objHala	C'est difficile de pas faire peur	
 5024	objHala	Quand t'es morte...	
-5025	objHala	S'il te plait,| écoute-moi...	
+5025	objHala	S'il te plaît,| écoute-moi...	
 5026	objHala	Je suis piégée dans ton corps	
 5027	objHala	Et|| j'ai encore besoin de ton aide...	
 5028	objHala	Mais,| je peux t'aider,|| aussi.	
@@ -4561,7 +4561,7 @@
 5031	objHala	T'as besoin de lui parler,| pas vrai?	
 5032	objHala	C'est|| ma mère.	
 5033	objHala	J'ai aussi besoin de lui parler.	
-5034	objHala	Avant l'invasion demain...	
+5034	objHala	Avant l'invasion de demain...	
 5037	objHala	Mais| ce sera pas facile d'arriver jusqu'à elle.	
 5038	objHala	Mohabumi est un lieu fait pour ceux qui font de la magie.	
 5039	objHala	Et tu...|| peux pas faire de magie,| pas vrai?	
@@ -4612,7 +4612,7 @@
 5084	objHappyvisor	{wiggle}Nous y voilà!{/wiggle}	
 5085	objHappyvisor	N'est-ce pas merveilleux???	
 5086	objHappyvisor	Une machinerie moderne qui travaille en parfaite harmonie!!!	
-5087	objHappyvisor	Ça me remplit d'une telle joie...	
+5087	objHappyvisor	Ça m'emplit d'une telle joie...	
 5088	objHappyvisor	...	
 5089	objHappyvisor	BIEN!|| Laisse-moi te montrer en quoi consiste ton travail!!!	
 5090	objHappyvisor	{quake}{shake}D'ABORD!{/shake}|| Tu prends un morceau de charbon dans ce tas!	
@@ -4625,11 +4625,11 @@
 5097	objHappyvisor	OK!!!	
 5098	objHappyvisor	Rends-nous fiers!	
 			
-5100	objHappyvisor	Mr. Baron se trouve en haut de ces escaliers!	
+5100	objHappyvisor	M. Baron se trouve en haut de ces escaliers!	
 5101	objHappyvisor	{wiggle}Hee hee!{/wiggle}|| Tu dois être si impatient!	
-5102	objHappyvisor	Nous n'avions encore jamais vu un tel grabuge...	
+5102	objHappyvisor	Nous n'avions encore jamais connu un tel grabuge...	
 5103	objHappyvisor	Mais {shake .4}ne t'en fais pas!!!{/shake}|| Pas trop...	
-5104	objHappyvisor	Mr. Baron peut être très gentil...	
+5104	objHappyvisor	M. Baron peut être très gentil...	
 5105	objHappyvisor	Hee hee!	
 5106	objHappyvisor	Hee|| hee...	
 			
@@ -4653,11 +4653,11 @@
 5123	objHappyvisor	Tu vas avoir de gros problèmes si tu ne m'écoutes pas!!!	
 5124	objHappyvisor	Hee hee...	
 			
-5125	objHappyvisor	{size 1.2}{quake}{shake}EX||CUSE-MOI!!!	
+5125	objHappyvisor	{size 1.2}{quake}{shake}PAR||DON!!!	
 5126	objHappyvisor	{size 1}{shake .6}Petit...	
 5127	objHappyvisor	{size 1.2}{shake}{quake}GA|LAPIAT!!!	
 5128	objHappyvisor	{size 1}{shake .6}Tu as vraiment semé la zizanie...	
-5129	objHappyvisor	Mr. Baron souhaiterait s'entretenir avec toi!!!	
+5129	objHappyvisor	M. Baron souhaiterait s'entretenir avec toi!!!	
 5130	objHappyvisor	Rends-toi dans son bureau sur-le-champ...	
 			
 5131	objHappyvisor	{shake}C'EST FINI!!!	
@@ -4681,7 +4681,7 @@
 5148	objHappyvisor	{shake}{quake}Désires-tu travailler à l'usine?!{/shake}	
 5149	objHappyvisor	||Eheh...| hee hee...	
 5150	objHappyvisor	{shake}Je ne sais pas quoi faire!!!{/shake}	
-5151	objHappyvisor	Pourquoi Mr. Baron aurait-il fermé l'usine?	
+5151	objHappyvisor	Pourquoi M. Baron aurait-il fermé l'usine?	
 5152	objHappyvisor	{quake}{shake}Qu'est-ce que tu lui as dit!!!{/shake}	
 5153	objHappyvisor	...	
 5154	objHappyvisor	{wiggle}Hee hee...{/wiggle}	
@@ -4704,7 +4704,7 @@
 5169	objHappyvisor	...	
 5170	objHappyvisor	Eh bien,|| tu {quake}{shake}NE PEUX PAS!!!{/shake}	
 5171	objHappyvisor	Tu as besoin de mains libres pour travailler ici!!!	
-5172	objHappyvisor	Alors |{shake .5}jette moi ça à la|| {shake}{quake}POUBELLE{/shake}|| avant de revenir ici!!!	
+5172	objHappyvisor	Alors |{shake .5}jette-moi ça à la|| {shake}{quake}POUBELLE{/shake}|| avant de revenir ici!!!	
 			
 5173	objHauntghost	{rainbow}{wiggle}{background black}{data_ghostsongstr}	
 			
@@ -4730,9 +4730,9 @@
 5193	objHeartfairy	Non!!!	
 5194	objHeartfairy	C'est trop bien de rencontrer les autres fées!!!	
 5195	objHeartfairy	J'en connaissais aucune!!!	
-5196	objHeartfairy	On traine jamais ensemble!!!	
+5196	objHeartfairy	On traîne jamais ensemble!!!	
 5198	objBard	Oh!	
-5199	objBard	Tu restes qu'avec ton Régent?	
+5199	objBard	Tu traînes qu'avec ton Régent?	
 5200	objHeartfairy	Oui!!!	
 5201	objHeartfairy	Jusqu'à|| ce qu'ils meurent!!!	
 5202	objBard	Whoa!	
@@ -4744,7 +4744,7 @@
 5208	objHeartfairy	Les Régents font genre...	
 5209	objHeartfairy	Partie de la planète!!!	
 5210	objHeartfairy	Ils existent quand le monde existe!!!	
-5211	objHeartfairy	Et il meurt quand ils meurent!!!	
+5211	objHeartfairy	Et ce dernier meurt quand eux meurent!!!	
 5212	objHeartfairy	L'idée qu'ils soient différentes entités...	
 5213	objHeartfairy	Est...	
 5214	objHeartfairy	Une illusion!!!	
@@ -4787,7 +4787,7 @@
 5250	objHeartfairy	Et il a commencé à agir bizarrement...	
 5251	objHeartfairy	Et il a crée des monstres!!!	
 5252	objHeartfairy	Et maintenant on est dans une grotte???	
-5253	objHeartfairy	Et il est parti!!!	
+5253	objHeartfairy	Et il s'est enfui!!!	
 5254	objHeartfairy	Je sais pas ce que je suis censée faire!!!	
 5255	objHero	T'es pas censée faire quoi que ce soit.	
 5256	objHero	Le Roi des Coeurs peut pas être soigné.	
@@ -4807,7 +4807,7 @@
 5272	objHeartfairy	Enfin...| maintenant c'est le cas!!!	
 5273	objHeartfairy	Mais il était gentil avant!!!	
 5274	objHero	Alors le monstre qu'on a vu tout à l'heure...	
-5275	objBard	{shake .5}C'ÉTAIT{/shake}| le Roi des Coeurs??	
+5275	objBard	C'était {shake .5}LUI{/shake}| le Roi des Coeurs??	
 5277	objHeartfairy	Vous allez???	
 5278	objHeartfairy	Vraiment???	
 5279	objHeartfairy	Le|| {shake}TUER???{/shake}	
@@ -4922,7 +4922,7 @@
 5393	objBard	Tu...| l'as blessée.	
 5394	objBard	Tu te souviens?	
 5395	objHero	Oh.	
-5396	objHero	Bah,| elle et toi avez vraiment commis une grosse erreur la dernière fois.	
+5396	objHero	Bah,| elle et toi aviez vraiment commis une grosse erreur la dernière fois.	
 5397	objHero	Laisser des créatures sortir du monde des esprits.	
 5399	objHero	Et c'était vraiment une peste aussi.	
 5400	objHero	Mais toi|| t'es pas si mal.	
@@ -4948,12 +4948,12 @@
 5420	objBard	ÇA...| c'était juste méchant!	
 5421	objHero	...	
 5422	objHero	...|||Désolée.	
-5423	objHero	D'avoir blessée ton amie.	
+5423	objHero	D'avoir blessé ton amie.	
 5424	objBard	...	
 5425	objBard	T'es désolée?	
 5426	objHero	Je|| fais de mon mieux.	
 5427	objHero	Pour être le héros.	
-5428	objHero	Et faire les bonnes choses.	
+5428	objHero	Et faire les bons choix.	
 5433	objHero	||Peut-être que je suis allée trop loin.	
 5434	objHero	Est-ce qu'elle va bien?	
 5435	objBard	Je sais pas...	
@@ -4983,7 +4983,7 @@
 5459	objHero	{size .7}(Dans quoi je me suis embarquée...)	
 			
 5460	objHero	J'arrive pas à croire qu'on sorte d'ici.	
-5461	objHero	Quand j'ai réalisée que je n'avais plus mon épée...	
+5461	objHero	Quand j'ai réalisé que je n'avais plus mon épée...	
 5462	objHero	||...Je pensais que c'en était fini.	
 5463	objHero	Je me sens nue sans elle.	
 5464	objHero	Même si on sort d'ici...	
@@ -5000,7 +5000,7 @@
 5475	objHero	Je dirais que c'est plutôt chouette.	
 5476	objBard	Comment t'étais...	
 5477	objBard	...|avant de savoir que tu étais le Héros?	
-5478	objHero	Avant que je sois le Héros...	
+5478	objHero	Avant que je ne sois le Héros...	
 5479	objHero	||Tout le monde se fichait de moi.	
 5480	objBard	TOUT| le monde?	
 5481	objHero	Pourquoi ils en auraient eu quoi que ce soit à faire?	
@@ -5303,7 +5303,7 @@
 5868	objMiriam	Pourquoi |{wiggle}toi{}| tu peux rencontrer le Roi?	
 5869	objHero	Eh beh!| Quelle attitude!	
 5870	objHero	Pour ta gouverne,	
-5871	objHero	J'ai sauvée la ville d'une {wiggle}attaque de monstres géants.{/wiggle}	
+5871	objHero	J'ai sauvé la ville d'une {wiggle}attaque de monstres géants.{/wiggle}	
 5872	objHero	{shake}ET...{/shake}	
 5873	objHero	J'ai besoin que le Roi m'apprenne l'hymne du Régent!	
 5874	objHero	Des trucs importants pour sauver le monde,| vous voyez?	
@@ -5363,7 +5363,7 @@
 5929	objMiriam	Mais elle est trop occupée à être {wiggle}trop cool{/wiggle} pour nous remarquer...| Pfft.	
 5930	objMiriam	Tant pis pour elle.	
 5931	objMiriam	Pendant qu'elle est occupée à se faire aduler...	
-5932	objMiriam	{wiggle}On{/wiggle}| peut direct aller voir le Roi...	
+5932	objMiriam	{wiggle}Nous{/wiggle}|, on peut direct filer voir le Roi...	
 5933	objMiriam	remettre ton message ridicule,	
 5934	objMiriam	et prendre de l'avance sur la {wiggle}VRAIE{/wiggle} quête.	
 5935	objMiriam	La Fin du monde?| L'hymne du Régent?| Tu te souviens?	
@@ -5406,9 +5406,9 @@
 5969	objHero	Ok,|| bah...	
 5971	objHero	Tu peux leur dire de bouger?	
 			
-5972	objBard	{shake}DES INSECTES!!!{/shake}	
+5972	objBard	{shake}LES INSECTES!!!{/shake}	
 5973	objHero	Des insectes?	
-5974	objBard	{shake}DES INSECTES||,| Audrey!!!{/shake}	
+5974	objBard	{shake}LES INSECTES||,| Audrey!!!{/shake}	
 5975	objBard	{shake}LES INSECTES|{/shake} sont là!!!	
 5976	objHero	Est-ce qu'ils ont...	
 5977	objHero	Bougés...|| ces| rochers...?	
@@ -5446,7 +5446,7 @@
 6017	objBard	{wiggle}"Je| promet|| de ne pas mettre fin| au monde|!"{/wiggle}	
 6018	objHero	{quake}{shake}C'EST PAS AUSSI SIMPLE!!!	
 6019	objHero	{/shake}La |{shake .5}CRÉATRICE{/shake}...	
-6020	objHero	De tout notre |||{shake}UNIVERS{/shake}	
+6020	objHero	De l'entièreté de notre |||{shake}UNIVERS{/shake}	
 6021	objHero	M'a {shake}CHOISIE{/shake}| pour faire ça!	
 6022	objHero	Je peux pas simplement...||| {shake}PROMETTRE{/shake}|| de pas le faire!	
 6023	objHero	C'est pas comme ça que ça marche!	
@@ -5493,8 +5493,8 @@
 6070	objHipster	||Et je les ai brûlées.	
 6071	objHipster	Dans un grand feu.	
 6072	objHipster	|Ça m'a fait tellement du bien.	
-6073	objHipster	Peut-êre que je vais enfin pouvoir bouger d'ici comme j'ai toujours voulue...	
-6074	objHipster	J'ai entendue parler d'un coin cool qui s'appelle Delphi, à l'autre bout de l'océan...	
+6073	objHipster	Peut-être que je vais enfin pouvoir bouger d'ici comme j'ai toujours voulue...	
+6074	objHipster	J'ai entendu parler d'un coin sympa qui s'appelle Delphi, à l'autre bout de l'océan...	
 			
 6078	objBard	Est-ce que vous voulez renverser l'usine?	
 6079	objHipster	||Whoah...	
@@ -5892,7 +5892,7 @@
 6506	objKenneth	Toi...	
 6507	objKenneth	Qu'est-ce qui t'amène ici,| pèlerin?	
 6508	objKenneth	Ce lieu n'est pas sûr...	
-6509	objKenneth	S'il te plait,|| viens à l'intérieur.	
+6509	objKenneth	S'il te plaît,|| viens à l'intérieur.	
 			
 6510	objKing	Ça fait tellement bizarre,	
 6511	objKing	De me tenir là et de parler à la reine-sorcière...	
@@ -5997,7 +5997,7 @@
 			
 6608	objLan	Wow!|| T'es genre...| un maitre des papillons...	
 6609	objLan	Est-ce que tu peux aussi leur parler?	
-6610	objLan	S'il te plait, dit leur que Lan leur dit coucou!	
+6610	objLan	S'il te plaît, dit leur que Lan leur dit coucou!	
 6611	objLan	J'aime bien chanter aux papillons...	
 6612	objLan	Quand je suis seule la nuit,	
 6613	objLan	Je chante à la fenêtre pour qu'elles viennent...	
@@ -6259,7 +6259,7 @@
 6865	objLena	L'économie?	
 			
 6866	objLena	{wiggle}Ugh...{/wiggle}	
-6867	objLena	S'il te plait ne me parle pas du concert au Raven.	
+6867	objLena	S'il te plaît ne me parle pas du concert au Raven.	
 6868	objLena	J'arrête pas d'entendre à quel point c'était trop bien et blah blah blah.	
 6869	objLena	Mais |{wiggle}je{}| l'ai ||{shake}ratée{/shake}!	
 6870	objLena	Parce que je travaillais dans ce trou à rat.	
@@ -6399,14 +6399,14 @@
 6999	objPing	{font 1}Ils disent avoir|| un message pour le Roi...	
 7000	objPing	{font 2}Huh,| vraiment?	
 7001	objPing	{font 2}Ils m'ont l'air ok...	
-7004	objPing	{font 1}{size .8}Phil!!| Ce sont clairement |||des espions!{/shake}	
+7004	objPing	{font 1}{size .8}Phil!!| Ce sont de toute évidence |||des espions!{/shake}	
 7005	objPing	{font 2}J'sais pas,| mec	
 7006	objPing	{font 2}Ils m'ont plutôt l'air de réfugiés	
 7008	objPing	{font 2}On peut pas les laisser dehors avec les monstres,| pas vrai?	
 7009	objPing	{font 1}Je me dis|| qu'on peut...	
-7010	objPing	{font 2}{wiggle}Paaaaas| questiooooon!{/wiggle}	
+7010	objPing	{font 2}{wiggle}Mais tu| débloooooques!{/wiggle}	
 7011	objPing	{font 2}Fais-les rentrer,| mec.	
-7012	objPing	{font 2}C'est pas l'moment d'être rustre.	
+7012	objPing	{font 2}C'est pas l'moment d'être grossier.	
 7013	objPing	{font 1}...	
 7014	objPing	{}{size 1.5}Très bien.|| Je vais| vous laisser entrer.	
 7015	objPing	Mais venez vite!!!	
@@ -6786,7 +6786,7 @@
 7394	objMarkus	{/shake}Parce qu'ainsi je peux exprimer mes insécurités masculines!	
 7395	objMarkus	Grâce à ma supériorité physique!	
 7397	objMiriam	Crétin...	
-7398	objMarkus	Ce que tu fais est inutile!	
+7398	objMarkus	Tes actes sont futiles!	
 7399	objMarkus	Je lâcherais rien tant que j'aurais pas le joyau.	
 7400	objMarkus	{shake .8}Donne||-moi|| {quake}le joyau!{/shake}	
 7401	objBard	J'essaie d'être gentil!!	
@@ -7364,7 +7364,7 @@
 8365	objMiles	J'adore me promener dans Chismest,	
 8366	objMiles	À répandre ma joie & mon bonheur à tout le monde!	
 8367	objMiles	Chismest est là où a débuté Gamin Bonheur,| après tout!	
-8368	objMiles	Gamin Bonheur c'est le cadeau de Mr. Baron au monde entier!	
+8368	objMiles	Gamin Bonheur c'est le cadeau de M. Baron au monde entier!	
 8369	objMiles	Ha ha!	
 8370	objMiles	Joie & bonheur!	
 8371	objMiles	Gamin Bonheur!	
@@ -8122,7 +8122,7 @@
 9122	objMiriam	Je |{shake .3}t'aurais{/shake}| juste...||| après...|| que je retrouve mon souffle!!!	
 9123	objHero	||Hrrrrnnngghh...	
 9124	objHero	Laissez |{quake}{shake}TOMBER{/shake}!	
-9125	objHero	Vous m'avez déjà fait perdre assez de temps comme ça!	
+9125	objHero	Vous m'avez déjà fait perdre assez de temps comme ça, les minables!	
 9126	objHero	Le Roi des Rêves est déjà parti!	
 9127	objHero	J'espère que vous êtes fièrs de vous!	
 9128	objHero	Mais quand il deviendra tout sombre et commencera à causer des problèmes...	
@@ -8298,7 +8298,7 @@
 9293	objMiriam	Bleh.|| Il fait chaud.	
 9294	objMiriam	Je saurais pas dire si c'est pire ici ou à l'intérieur du navire.	
 9295	objMiriam	...	
-9296	objMiriam	Trouve cet hymne rapidement s'il te plait.	
+9296	objMiriam	Trouve cet hymne rapidement s'il te plaît.	
 			
 9297	objMiriam	Ouais ouais,| bien joué avec le {wiggle}chant{} aujourd'hui.	
 9298	objMiriam	Comme si ces pirates pouvaient pas être encore plus insupportables.	
@@ -8451,7 +8451,7 @@
 			
 9467	objMiriam	Hey.	
 			
-9474	objMiriam	S'il te plait, pas maintenant...	
+9474	objMiriam	S'il te plaît, pas maintenant...	
 9475	objMiriam	Je suis pas d'humeur.	
 			
 9476	objMiriam	...Oh.| Euh...	
@@ -8631,7 +8631,7 @@
 9649	objMiriam	Je me retrouve à ne plus rien faire du tout.	
 9650	objMiriam	Alors que pourtant |{wiggle}je{/wiggle}| suis celle avec des pouvoirs magiques.	
 9651	objMiriam	Qu'est-ce que tu penses que ça fait?
-9652	objMiriam	|||Elle doit sûrement penser que je suis inutile.
+9652	objMiriam	|||Elle doit sûrement penser que je suis une bonne à rien.
 9653	objMiriam	Elle avait {shake .8}si peu{}| confiance en moi qu'elle t'a demandé de m'aider.	
 9654	objMiriam	{quake}{shake .3}Et puis!!!	
 9655	objMiriam	Tu lui as tout bonnement donné raison!!!{}	
@@ -9159,7 +9159,7 @@
 10244	objMiriam	{shake}Et{/shake}| de passer du temps en prison!	
 10245	objBard	Je m'en souviens même pas de la prison...	
 10246	objMiriam	{shake .5}Et| bah| moi||| si!!!{/shake}	
-10247	objMiriam	Tu penses pouvoir faire en sorte de| rester sage, s'il te plait?	
+10247	objMiriam	Tu penses pouvoir faire en sorte de| rester sage, s'il te plaît?	
 10248	objBard	Oui!	
 10249	objBard	Sage...|| comme une image!	
 			
@@ -9296,7 +9296,7 @@
 10388	objMiriam	...||Ok.| Super!	
 10389	objMiriam	Maintenant on peut trouver le Régent!	
 10390	objHero	{size 1}{shake .7}Bande...	
-10391	objHero	{shake 1}DE NULS!!!	
+10391	objHero	{shake 1}DE MINABLES!!!	
 10392	objBard	{shake}MIRIAM!!!{/shake}	
 10393	objHero	Est-ce que vous avez la |{shake}MOINDRE{/shake}| idée de ce que vous venez de faire?!	
 10394	objHero	À laisser d'autres créatures sortir du monde des esprits...	
@@ -9865,7 +9865,7 @@
 10816	objMoonfairy	comme par exemple,	
 10817	objMoonfairy	porter des clés pour mes amis,	
 10818	objMoonfairy	et des trucs comme ça...	
-10819	objMoonfairy	Soit patient avec moi s'il te plait...	
+10819	objMoonfairy	Soit patient avec moi s'il te plaît...	
 			
 10851	objMoonfairy	{fade}Eep!!!	
 10852	objMoonfairy	C'est mon amie!!!	
@@ -9928,7 +9928,7 @@
 10775	objMoonfairy	C'est très...|| solide,| et consistant.	
 10776	objMoonfairy	J'aime vraiment bien ici...	
 			
-10888	objBard	Mr. Monstre!	
+10888	objBard	M. Monstre!	
 10889	objBard	Wow,| j'arrive pas à croire que c'est toi!	
 10890	objBard	Tu vis dans cette grotte maintenant?	
 10891	objBard	Est-ce que je peux passer?	
@@ -10245,7 +10245,7 @@
 11310	objBard	Ouais!	
 11311	objPenny	Hey salut.	
 11312	objBard	Bonne journée!	
-11313	objBard	J'aimerais plus de grains, s'il te plait.	
+11313	objBard	J'aimerais plus de grains, s'il te plaît.	
 11314	objPenny	Bah, |{wiggle}peu{/wiggle}| m'importe.	
 11315	objPenny	Ça c'est sûr.	
 11316	objPenny	Formidable.| Sauf que...	
@@ -10328,7 +10328,7 @@
 11255	objBard	Pas vrai?	
 11256	objPenny	...||J'imagine.	
 11257	objPenny	Normalement c'est moi qui gère la vente de grains,| mais j'ai mis Francis sur le coup aujourd'hui.	
-11258	objFrancisco	S'il te plait, ne m'appelle pas Francis.	
+11258	objFrancisco	S'il te plaît, ne m'appelle pas Francis.	
 11259	objFrancisco	Tout le monde m'appelle Francisco, excepté Penny ici présente.	
 11260	objFrancisco	Car c'est une personne grossière qui n'a de respect pour personne.	
 11261	objPenny	C'est comme ça que je lui fais faire ce que je veux.	
@@ -10365,7 +10365,7 @@
 			
 11226	objPenny	T'as vraiment fait forte impression sur notre équipage...	
 11227	objPenny	Je crois que même ce vieux grincheux de Francis s'est attaché à toi!	
-11228	objFrancisco	S'il te plait,| arrête de m'appeler Francis.||| Et de dire que je suis vieux.	
+11228	objFrancisco	S'il te plaît,| arrête de m'appeler Francis.||| Et de dire que je suis vieux.	
 11229	objPenny	Tu vois!| Il m'aime toujours pas |{wiggle}moi{/wiggle}|!	
 11230	objPenny	Et je suis très charmante!	
 11231	objPenny	Adieu pour toujours!	
@@ -12165,7 +12165,7 @@
 			
 13287	objTroll	{size 1.2}Par ici,| humains!	
 			
-13289	objTroll	{size 1.2}Essaie de chanter s'il te plait!	
+13289	objTroll	{size 1.2}Essaie de chanter s'il te plaît!	
 13290	objTroll	{size 1.2}Les cristaux respirants?	
 13291	objTroll	Ils sont juste là d'où tu viens.	
 13292	objTroll	Suis les cristaux en bas...	
@@ -12179,7 +12179,7 @@
 13299	objTroll	{size 1.2}{shake}HUMAIN!	
 13300	objTroll	{size 1.2}{/shake}Oh,| ce n'est que toi.	
 13301	objTroll_friend	{}Tiens,| et si c'était pas...	
-13302	objBard	Mr. Mon|stre!	
+13302	objBard	M. Mon|stre!	
 13303	objBard	Mon vieux pote!	
 13304	objBard	Mon a|do|rable a|mi des ca|vernes!	
 13305	objTroll	{size 1.2}!	
@@ -12209,7 +12209,7 @@
 13341	objTroll	{size 1.2}||{shake}{wiggle}s|o|u|p|i|r{/shake}{/wiggle}	
 13342	objTroll	J'étais bête de penser que des ||{wiggle}humains{/wiggle}| pourraient aider.	
 13343	objBard	{size 1}...	
-13344	objBard	Je suis désolé que ce soit arrivé,| Mr. Monstre!	
+13344	objBard	Je suis désolé que ce soit arrivé,| M. Monstre!	
 13345	objTroll	{size 1.2}Juste, allez-vous-en...	
 13346	objTroll	{size 1.2}Quittez notre foyer	
 			
@@ -12496,7 +12496,7 @@
 13633	objViola	Excuse-moi.	
 13634	objViola	Je suis en train de jouer.	
 13635	objViola	Si tu veux chanter en même temps...	
-13636	objViola	Suis |{wiggle}mes{/wiggle}| indications s'il te plait,| ok?	
+13636	objViola	Suis |{wiggle}mes{/wiggle}| indications s'il te plaît,| ok?	
 			
 13638	objSandra	{size .8}Oh mince.	
 13639	objSandra	Viv...	
@@ -12672,10 +12672,10 @@
 13802	objWhiner	{shake .5}COMMENT T'AS FAIS ÇA!!!{/shake}	
 13803	objWhiner	Elle jamais attention à moi...	
 13804	objWhiner	Apporte ton secret au Pub Clocktower à 9h30 du soir.	
-13805	objWhiner	S'il te plait...	
+13805	objWhiner	S'il te plaît...	
 13806	objWhiner	J'essaie de caresser ce chien tous les soirs, à 9h30.	
 13807	objWhiner	Juste devant le Pub Clocktower.	
-13808	objWhiner	S'il te plait apporte ton secret pour qu'elle m'aime aussi...	
+13808	objWhiner	S'il te plaît apporte ton secret pour qu'elle m'aime aussi...	
 13809	objWhiner	Tout le monde dans cette ville me hait.	
 13810	objWhiner	Tout ce que je veux c'est un ami...	
 			
@@ -12717,12 +12717,12 @@
 13855	objWhiner	{shake .2}Hey...	
 13856	objWhiner	{quake}{shake .4}T'es vraiment venu!!!{/shake}	
 13857	objWhiner	Est-ce que...|| je peux avoir ce plat?	
-13858	objWhiner	|||{size .7}...s'il te plait?	
+13858	objWhiner	|||{size .7}...s'il te plaît?	
 13859	objWhiner	Hey...!	
 13860	objWhiner	Ce plat!!	
 13861	objWhiner	Je crois que le chien l'aime bien!	
 13862	objWhiner	Donne-le-moi!!!	
-13863	objWhiner	|||(S'il te plait...)	
+13863	objWhiner	|||(S'il te plaît...)	
 			
 13864	objStray	{color red}0	
 13865	objWhiner	{}{shake .4}On...	
@@ -13012,7 +13012,7 @@
 14156	objWindfairy	{windqueen}Je vais te renvoyer à l'extérieur du château.	
 14157	objWindfairy	Pour que tu puisses rentrer chez toi.	
 14158	objWindfairy	Mais| si jamais tu croises mon petit écuyer...	
-14159	objWindfairy	S'il te plait, demande lui de revenir à la maison,| d'accord?	
+14159	objWindfairy	S'il te plaît, demande lui de revenir à la maison,| d'accord?	
 			
 14160	objWindfairy	{windfairy}{shake}Ugh||, bonjour!{/shake}	
 14161	objWindfairy	Est-ce que je peux |{quake}{shake}t'aider?{/shake}
@@ -13178,7 +13178,7 @@
 14333	objBard	{shake}D'ACCORD!{/shake}	
 14334	objBard	Mais...	
 14335	objBard	Seulement parce que||| je veux l'aider!	
-14336	objBard	Ne le blesse pas plus que nécessaire s'il te plait...	
+14336	objBard	Ne le blesse pas plus que nécessaire s'il te plaît...	
 			
 14337	objHero	Plutôt bonne entrée,| tu trouves pas?	
 14338	objHero	T'en pense quoi?||| J'en fais pas un peu trop?	
