@@ -62,7 +62,6 @@ Steam permet de vérifier l'intégrité des fichiers du jeu, en cas de différen
 
 # Contenu manquant
 Si vous êtes bien curieux, vous remarquerez peut-être que certains dialogues ne sont pas encore traduits. Le premier objectif était de traduire l'essentiel du jeu, ce qu'un joueur lambda rencontrera. Par la suite il reste :
-* Dialogues alternatifs
 * Dialogues secrets
 * Commentaire de développeur
 
