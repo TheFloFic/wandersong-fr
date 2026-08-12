@@ -20,7 +20,7 @@
 6248	objAngel	Je t'apprécie vraiment beaucoup	
 6249	objAngel	Désolée que ta planète soit condamnée
 			
-7821	objMask	Hey salut, voyageur	
+7821	objMask	Hey salut, vagabond	
 7822	objMask	T'as fait de beaux rêves?	
 7823	objBard	|Je...| m'en souviens pas!	
 7825	objMask	Ça s'oublie facilement,| pas vrai...	
@@ -33,7 +33,7 @@
 7841	objMask	Une foule d'esprit a envahi la ville	
 7842	objMask	Tout le monde est en train de flipper...|| C'est plutôt drôle	
 7843	objMask	Bref,| à plus tard	
-7844	objMask	Voyageur,| si ton esprit est ouvert...	
+7844	objMask	Vagabond,| si ton esprit est ouvert...	
 7845	objMask	Je peux t'enseigner un pouvoir secret	
 7846	objMask_meet	Appelé ||LA DANSE.	
 7847	objBard	Non merc|i!	
@@ -58,13 +58,13 @@
 7866	objMask	Tu dois appuyer sur quelque chose appelé {data_dancebutton}" pour |DANSER.	
 7867	objMask	Sur cette "{data_controllername}"...	
 7868	objMask	Tu dois maintenir quelque chose appelé le "bouton {data_dancebutton}" pour |DANSER.	
-7869	objMask	Appuie sur ce bouton,| voyageur.	
+7869	objMask	Appuie sur ce bouton,| vagabond.	
 7870	objMask	J'aimerais que tu fermes les yeux,	
 7871	objMask	Et que tu imagines quelque chose appelé|| un "Clavier"	
 7872	objMask	...Tu le vois?	
 7873	objMask	Sur ce "Clavier"...	
 7874	objMask	Tu dois maintenir quelque chose appelé la "touche {data_dancebutton}" pour |DANSER.	
-7875	objMask	Maintient cette touche,| voyageur.	
+7875	objMask	Maintient cette touche,| vagabond.	
 7876	objMask	Et ressens la danse te traverser...	
 7877	objMask	N'importe quand,| n'importe où.	
 7878	objMask	Avec tous ces fantômes dans les parages...	
@@ -74,7 +74,7 @@
 7882	objMask	Alors...	
 7883	objMask	Quelque chose de spécial se produira.	
 			
-7901	objMask	Eh bien salut, voyageur...	
+7901	objMask	Eh bien salut, vagabond...	
 7902	objMask	Tu connais cet endroit?	
 7903	objMask	On appelle ce lieu l'Arbre du Sommeil.	
 7904	objMask	Un petit coin plutôt magique...	
@@ -82,7 +82,7 @@
 7906	objMask	{wiggle}{shake}{speed .2}baille{/shake}	
 7907	objMask	{wiggle}{shake}{speed .2}baille{/shake}	
 			
-7522	objMask	Hey salut,| voyageur.	
+7522	objMask	Hey salut,| vagabond.	
 7523	objMask	J'adore les bonbons...	
 7524	objMask	Mais je suis venu à cause de la super musique jouée ici...	
 7525	objMask	C'est toi qui l'a composé,| pas vrai?	
@@ -97,42 +97,42 @@
 7534	objMask	Je veux t'apprendre quelques pas.	
 7535	objMask	Attends,| non...	
 7536	objMask	Je veux débloquer ces connaissances|| qui résident déjà en toi...	
-7537	objMask	Car tu as un esprit dansant,| voyageur.	
+7537	objMask	Car tu as un esprit dansant,| vagabond.	
 7538	objMask	Je vais juste t'aider à le trouver.	
 7539	objMask	Je t'attendais...	
 7540	objMask	Pour t'accompagner...|| au prochain niveau de |DANSE.	
 7541	objMask	C'est ça...	
 7542	objMask	Il est temps| de découvrir une nouvelle |DANSE.	
-7543	objMask	Tu la connais déjà,| voyageur.	
+7543	objMask	Tu la connais déjà,| vagabond.	
 7544	objMask	Je vais juste t'aider à la trouver.	
 7545	objMask	Je sens quelque chose...	
 7546	objMask	Qui sommeille en toi...|| juste sous la surface.	
-7547	objMask	C'est une autre |DANSE,| voyageur.	
+7547	objMask	C'est une autre |DANSE,| vagabond.	
 7548	objMask	Je pense qu'il est temps de l'éveiller.	
 7549	objMask	Est-ce que tu le ressens?	
 7550	objMask	Cet endroit...|| il dégage une vraie atmosphère.	
 7551	objMask	Il essaie de nous dire quelque chose...	
 7552	objMask	Il nous dit...|| qu'il est l'heure de |DANSER.	
-7553	objMask	Relax,| voyageur. |Laisse place à la danse.	
+7553	objMask	Relax,| vagabond. |Laisse place à la danse.	
 7554	objMask	Nous avons parcouru un sacré chemin vers la DANSE tous les deux.	
 7555	objMask	Et plus nous sommes allés loin...	
 7556	objMask	Plus nous avons appris sur nous,| également.	
 7557	objMask	Car la |DANSE| vient du plus profond de nous-mêmes...	
 7558	objMask	Et quand on la laisse surgir,| on laisse aussi surgir notre nous profond.	
-7559	objMask	Alors qu'est-ce que t'en dis,| voyageur?	
+7559	objMask	Alors qu'est-ce que t'en dis,| vagabond?	
 7560	objMask	Laissons en surgir une nouvelle.	
 7561	objMask	Je suis là...	
 7562	objMask	À ressentir toute la DANSE autour de moi...	
 7563	objMask	La canaliser...	
 7564	objMask	Et la laisser éveiller la DANSE qui sommeille en moi.	
-7565	objMask	Je sais que tu le ressens aussi,| voyageur.	
+7565	objMask	Je sais que tu le ressens aussi,| vagabond.	
 7566	objMask	Le pouvoir| de la DANSE.	
 7567	objMask	Puisons au fond de nous même,	
 7568	objMask	Et voyons quel trouvaille tu feras...	
 7569	objMask	Je le ressens.	
 7570	objMask	Ton âme...	
 7571	objMask	Ton pouvoir de la |DANSE...	
-7572	objMask	Il n'a cessé de grandir,| voyageur.	
+7572	objMask	Il n'a cessé de grandir,| vagabond.	
 7573	objMask	Tu as parcouru un long chemin,| et tu as trouvé les danses qui sommeillaient en toi.	
 7574	objMask	Je suis fier de t'avoir guidé durant ce voyage.	
 7575	objMask	Maintenant,| une dernière fois.	
@@ -142,13 +142,13 @@
 7579	objMask	{shake}DERNIÈRE{/shake}	
 7580	objMask	danse	
 			
-7581	objMask	Jolie danse,| voyageur.	
+7581	objMask	Jolie danse,| vagabond.	
 7582	objMask	...	
 7583	objMask	T'en as fait du chemin...	
 7584	objMask	Durant ce voyage vers la |DANSE.	
 7585	objMask	Je n'ai plus rien à te montrer.	
 7586	objMask	À partir de maintenant,| tu dois continuer à tracer ton propre chemin.	
-7587	objMask	Mais ne t'arrêtes pas en route,| voyageur.	
+7587	objMask	Mais ne t'arrêtes pas en route,| vagabond.	
 7588	objMask	N'oublie pas|| la DANSE.	
 7589	objMask	Sur le chemin que tu traceras...	
 7590	objMask	Les trouvailles seront vraiment spéciales.	
@@ -194,12 +194,12 @@
 7628	objMask	Utilise E,| R,| X| ou C|| pour changer de danse.	
 7629	objMask	Tu peux également chanter en même temps.	
 7630	objMask	Il y a même des danses que tu peux faire pendant que tu te déplaces.	
-7631	objMask	N'aie pas peur de t'exprimer,| voyageur.	
+7631	objMask	N'aie pas peur de t'exprimer,| vagabond.	
 			
 7632	objMask	Très bien.	
 7633	objMask	Ce savoir vit déjà au fond de toi.	
 			
-7886	objMask	Hey salut,| voyageur	
+7886	objMask	Hey salut,| vagabond	
 7887	objMask	Marrant de te voir ici	
 7888	objBard	Oh!...|| Hey!	
 7889	objMask	Tu te prépares pour chanter au concert ici en ville?	
@@ -207,15 +207,15 @@
 7891	objMask	C'est cool.	
 7892	objMask	J'ai hâte de t'y voir.	
 7893	objMask	Mmm...	
-7894	objMask	J'ai une grosse envie de bonbons,| voyageur.	
+7894	objMask	J'ai une grosse envie de bonbons,| vagabond.	
 7895	objMask	Parfois,| faire un p'tit truc sympa pour soi...	
 7896	objMask	Est une des choses les plus enrichissantes qu'on puisse faire.	
 7897	objMask	Je me demande si on vend des bonbons dans cette ville.	
 7898	objMask	Je vais continuer d'aller là où le vent me porte...	
-7899	objMask	Ça fait du bien,| de vagabonder aussi librement.	
+7899	objMask	Ça fait du bien,| de se laisser planer aussi librement.	
 7900	objMask	Je me demande où j'atterrirai la prochaine fois.	
 			
-7808	objMask	Hey hey hey salut,| voyageur.	
+7808	objMask	Hey hey hey salut,| vagabond.	
 7809	objMask	Tu bouges bien.	
 			
 7810	objMask_meet	Tu veux r'monter en haut?	
@@ -239,7 +239,7 @@
 7806	objMask	Certaines choses sont meilleures découvertes par soi-même.
 7807	objMask	Bref...	
 			
-7763	objMask	Eh bien hey salut, voyageur	
+7763	objMask	Eh bien hey salut, vagabond	
 7764	objMask	Ça faisait longtemps...	
 7765	objBard	Qu'est-ce que tu fais là?	
 7766	objMask	...|||Hmm...	
@@ -250,7 +250,7 @@
 7773	objMask	|||Heh...|||#t'as compris?	
 7774	objMask	Frais?	
 7775	objMask	...|c'est parce qu'il fait froid.	
-7776	objMask	Ça doit vraiment pas aller,| voyageur	
+7776	objMask	Ça doit vraiment pas aller,| vagabond	
 7777	objBard	Ouais,| c'est plutôt drôle.	
 7778	objMask	Le temps c'est fou, pas vrai?	
 7779	objMask	Parfois ça avance super vite...	
@@ -261,7 +261,7 @@
 7784	objMask	J'espère que tu trouveras la paix intérieure,| d'ici la prochaine fois qu'on se croise	
 7785	objMask	Peut-être que je te retrouverais plus loin sur la route.	
 7786	objMask	Je trouve que c'est vivifiant de bouger tôt dans la journée.	
-7787	objMask	Qu'est-ce que t'en penses,| voyageur?	
+7787	objMask	Qu'est-ce que t'en penses,| vagabond?	
 7788	objMask	Je connais un endroit spécial,| dans la forêt, après le télescope...	
 7789	objMask	Et si tu y es pile quand le soleil se lève à 7H du mat'...	
 7790	objMask	Eh bien...|| peut-être que je ne devrais rien dire.	
@@ -274,11 +274,11 @@
 7796	objMask	C'est pas mon truc	
 7797	objMask	Mais merci d'avoir pensé à moi,| heh...	
 			
-7739	objMask	Oh hey salut,| voyageur.	
+7739	objMask	Oh hey salut,| vagabond.	
 7740	objBard	Encore toi!	
 7741	objBard	Qu'est-ce que tu fais ici?	
 7742	objMask	Moi?|| Je prends le soleil...	
-7743	objMask	Le soleil c'est bon pour la santé,| voyageur.	
+7743	objMask	Le soleil c'est bon pour la santé,| vagabond.	
 7744	objMask	C'est si chaud, si agréable...	
 7745	objMask	Ça te fait sentir |bien,| t'sais?	
 7746	objMask	Il y a des millions de milliards de milliards de soleils comme le nôtre.	
@@ -297,12 +297,12 @@
 7761	objMask	Si tu le trouves...|| eh bien,| je ne devrais rien dire.	
 7762	objMask	C'est mieux que tu découvres par toi même.	
 			
-7712	objMask	Whoa...|| hey salut,| voyageur.	
+7712	objMask	Whoa...|| hey salut,| vagabond.	
 7713	objMask	Je m'attendais pas à te voir ici.	
 7714	objBard	Euh...	
 7715	objMask	Il n'y a aucun autre endroit comme Mohabumi,| pas vrai?	
 7716	objMask	C'est rempli de secrets...	
-7717	objMask	Je pense que c'est important,| voyageur.	
+7717	objMask	Je pense que c'est important,| vagabond.	
 7718	objMask	Le monde a besoin de mystères.	
 7719	objBard	Comment|| t'es arrivé là??	
 7720	objMask	La vérité c'est que...	
@@ -312,7 +312,7 @@
 7724	objMask	Tu trouves pas?	
 7725	objMask	Un vrai mystère peut nous y faire penser.	
 7726	objMask	Même un truc mondain.	
-7727	objMask	Ne cherche pas les réponses,| voyageur.	
+7727	objMask	Ne cherche pas les réponses,| vagabond.	
 7728	objMask	Les réponses ne valent pas grand-chose.	
 7729	objMask	Les réponses changent tout le temps.	
 7730	objMask	Ce qui est vrai aujourd'hui ne le sera sans doute pas demain.	
@@ -325,7 +325,7 @@
 7737	objMask	Et si tu le trouves...|| eh bien,| je ne vais rien dire.	
 7738	objMask	Certaines choses sont meilleures découvertes par soi-même.	
 			
-7666	objMask	Hey salut,| voyageur.	
+7666	objMask	Hey salut,| vagabond.	
 7667	objMask	Tu vas gravir cette montagne?	
 7668	objMask	J'aime bien trainer avec ces moines...	
 7669	objMask	Mais...|| je vais peut-être essayer de grimper,| moi aussi.	
@@ -340,14 +340,14 @@
 7678	objMask	Ça sert à rien d'avoir peur,| pas vrai?	
 7679	objMask	Mais le truc effrayant c'est,	
 7680	objMask	Et si t'avais le contrôle,| et que tu ne faisais rien du tout?	
-7681	objMask	Je pense qu'on est connectés,| voyageur.	
+7681	objMask	Je pense qu'on est connectés,| vagabond.	
 7682	objMask	Partout où je vais,| je te retrouve.	
 7683	objMask	C'est pas rien.	
 7684	objMask	T'as jamais remarqué comment parfois,	
 7685	objMask	Plusieurs personnes vont avoir la même idée au même moment?	
 7687	objMask	Est-ce que t'as déjà ressenti ça quand quelqu'un partage ses pensées?	
 7688	objMask	Genre,| "Oh,| je pensais aussi à ça!"	
-7689	objMask	C'est comme ça,| voyageur.	
+7689	objMask	C'est comme ça,| vagabond.	
 7690	objMask	On est tous connectés par des liens visibles et invisibles.	
 7691	objMask	Et je pense que le monde entier pense ensemble,	
 7692	objMask	Même quand on ne le sait pas.	
@@ -366,14 +366,14 @@
 7710	objMask	Comme le sentiment quand quelqu'un te dit "Je t'aime",	
 7711	objMask	Peut en dire beaucoup sur tout l'univers.	
 			
-7634	objMask	Hey salut,| voyageur...	
+7634	objMask	Hey salut,| vagabond...	
 7635	objMask	Je ne suis pas surpris de te voir ici.	
 7636	objMask	On a parcouru le monde entier ensemble.	
 7637	objMask	Ce fut une grande aventure pour moi.	
 7638	objMask	Je pari que c'est le cas pour toi aussi.	
 7639	objMask	Mais un jour l'aventure doit prendre fin,| pas vrai...	
 7640	objMask	Tout fini par prendre fin| un jour.	
-7641	objMask	Je suis ravi de partager cette connexion avec toi,| voyageur.	
+7641	objMask	Je suis ravi de partager cette connexion avec toi,| vagabond.	
 7642	objMask	Nous nous sommes croisés que brièvement,	
 7643	objMask	Ici et là...	
 7644	objMask	Mais je pense que ça a fait toute la différence.	
@@ -3940,7 +3940,7 @@
 4421	objFrannie	Et Chaandesh|, à l'ouest.	
 4422	objFrannie	Ça fait des générations que nous sommes en guerre...	
 4423	objBard	...|Pourquoi?	
-4424	objOlaf	Pour de |NOMBREUSES| raisons, voyageur!	
+4424	objOlaf	Pour de |NOMBREUSES| raisons, vagabond!	
 4425	objOlaf	Leurs attaques à notre égard sont interminables!	
 4426	objOlaf	Même jusque dans cette forêt...	
 4427	objOlaf	Elle était autrefois luxuriante, remplie d'arbres et de fleurs.	
@@ -10429,7 +10429,7 @@
 11575	objPhil	Mais vous avez vraiment pas l'air d'être dangereux.	
 11576	objPhil	On va |tous| se calmer maintenant,| ok?	
 			
-11498	objPhil	Hey salut,| vagabond.	
+11498	objPhil	Hey salut,| vadrouilleur.	
 11499	objPhil	Désolé de ne pas m'être présenté.|| Moi c'est Phil.	
 11500	objPhil	C'est un peu moi le chef par ici.	
 11501	objPhil	|||Désolé pour Ping.	
@@ -10444,7 +10444,7 @@
 11510	objPhil	Vous vous sentirez comme chez vous.	
 11511	objPhil	On joue de la musique ici tous les soirs.	
 11512	objPhil	Ça aide à garder le moral.	
-11514	objPhil	Tu devrais nous rejoindre ce soir,| vagabond.	
+11514	objPhil	Tu devrais nous rejoindre ce soir,| vadrouilleur.	
 11515	objPhil	On peut laisser cette mauvaise journée derrière nous.	
 11516	objPhil	On va bientôt allumer le feu.	
 11517	objPhil	Fais-moi signe quand t'es prêt.	
@@ -10477,19 +10477,19 @@
 11544	objPhil	Des gens qui pourraient pas faire un voyage aussi intense avec elle.	
 11545	objPhil	Alors certains d'entre nous sommes restés ici pour les garder à l'abri.	
 11546	objPhil	On espère que le Roi enverra bientôt de l'aide...	
-11547	objPhil	Ça nous préoccupe beaucoup,| vagabond.	
+11547	objPhil	Ça nous préoccupe beaucoup,| vadrouilleur.	
 11548	objPhil	C'|pour ça qu'on a besoin de belles chansons autour du feu.
 			
 11364	objPhil	Quelle belle nuit,| hein?	
-11365	objPhil	En l'honneur de nos nouveaux amis vagabonds,| je vais raconter une vieille histoire...	
-11366	objPhil	À propos d'un vagabond| et d'une sorcière.	
+11365	objPhil	En l'honneur de nos nouveaux amis vadrouilleurs,| je vais raconter une vieille histoire...	
+11366	objPhil	À propos d'une vadrouilleuse| et d'une sorcière.	
 11367	objPhil	On raconte que ça s'est passé dans cette forêt même.	
 11368	objPhil	Et on raconte| que si on écoute attentivement...	
 11369	objPhil	On peut entendre leurs vieux esprits chanter en choeur.	
-11370	objPhil	Pourquoi tu débuterais pas avec un Sol, vagabond?	
+11370	objPhil	Pourquoi tu débuterais pas avec un Sol, vadrouilleur?	
 11371	objPhil	{wiggle -1}À la veille de ses voyages	
 11372	objPhil	Sous l'éclat scintillant de la pleine lune	
-11373	objPhil	Une vagabonde au coeur pur	
+11373	objPhil	Une vadrouilleuse au coeur pur	
 11374	objPhil	Fut attirée vers une prairie	
 11375	objPhil	Où les arbres étaient immobiles et silencieux 	
 11376	objPhil	En observant une jeune fille faire virevolter l'air	
@@ -10504,7 +10504,7 @@
 11385	objPhil	Le sort fut jeté	
 11386	objPhil	Alors que son amour se développait lentement	
 11387	objPhil	Au fil des nuits	
-11388	objPhil	L'âme de la vagabonde devint fragile	
+11388	objPhil	L'âme de la vadrouilleuse devint fragile	
 11389	objPhil	Son corps s'éteignit doucement	
 11390	objPhil	Tandis que le sort l'emportait	
 11391	objPhil	{size 2.5}Elles dansèrent à l'unisson	
@@ -10512,24 +10512,24 @@
 11393	objPhil	Ne laissant rien d'autre que	
 11394	objPhil	Deux coeurs entrelacés	
 11395	objBard	{}{size 1}Belle chanson!	
-11396	objPhil	Merci beaucoup,| vagabond.	
+11396	objPhil	Merci beaucoup,| vadrouilleur.	
 11397	objPhil	Nous chantons cette histoire depuis des générations.	
 11398	objBard	Mais...||| c'est un peu triste,| aussi...	
-11399	objBard	Pourquoi la sorcière a maudit la vagabonde?	
+11399	objBard	Pourquoi la sorcière a maudit la vadrouilleuse?	
 11400	objBard	Si elles étaient amoureuses...	
 11401	objPhil	Hmmm...	
 11402	objPhil	Tu sais...	
 11403	objPhil	J'y avais jamais vraiment pensé!|| Heh...	
 11404	objPhil	J'imagine que je me suis toujours dit...	
 11405	objPhil	Que la sorcière était une sorte d'escroc.	
-11406	objPhil	Qui s'est emparée de l'âme de la vagabonde...	
+11406	objPhil	Qui s'est emparée de l'âme de la vadrouilleuse...	
 11407	objBard	{shake .5}NOOOOON!!!{/shake}	
 11408	objBard	Mais pourquoiiiii?	
 11409	objMiriam	Peut-être que c'est qu'une stupide,| chanson inventée de toute pièce!	
 11410	objMiriam	Qui ça intéresse de savoir pourquoi?	
 11411	objPhil	Eh bah,|| pas complètement inventée.	
 11412	objPhil	Comme je l'ai dis,| ça s'est passé dans ces bois.	
-11413	objPhil	Et la vagabonde était une fille de Rulle...	
+11413	objPhil	Et la vadrouilleuse était une fille de Rulle...	
 11414	objMiriam	Et ensuite elle s'est fait |{wiggle}arracher{}|| son |{wiggle}âme?{}	
 11415	objPhil	Bah,| c'est ce que dit l'histoire.	
 11416	objMiriam	Ça m'a l'air plutôt inventé cette histoire.	
@@ -10560,7 +10560,7 @@
 11447	objBard	C'est...||| un secret!	
 11448	objBard	Mais c'est quelque chose qui pourrait mettre fin à la guerre!	
 11449	objPing	Hmm.	
-11450	objPhil	Tu le penses vraiment,| vagabond?	
+11450	objPhil	Tu le penses vraiment,| vadrouilleur?	
 11451	objBard	Mhm!	
 11452	objPing	Je suis désolé...	
 11453	objPing	Mais ||c'est tout bonnement| impossible...	
@@ -10577,7 +10577,7 @@
 11486	objPhil	Dis au Roi qu'on dit bonjour.	
 11487	objPhil	Et...|| si tu trouves quelqu'un qui vient d'ici...	
 11488	objPhil	Dis-leur qu'on va bien aussi,| ouais?	
-11489	objPhil	Est-ce que t'aimes nos arbres-en-ciel,| vagabond?	
+11489	objPhil	Est-ce que t'aimes nos arbres-en-ciel,| vadrouilleur?	
 11490	objPhil	On les a ramenés de Xiatian...	
 11491	objPhil	Si tu vas là-bas,| t'en verra pleins d'autres.	
 11492	objPhil	Ça nous rappelle qu'il faut prendre soin de la nature.	
@@ -10587,7 +10587,7 @@
 11496	objPhil	Tout comme nos qin.	
 11497	objPhil	C'est quelque chose qui compte beaucoup pour nous à Rulle.	
 			
-11460	objPhil	Vagabond!	
+11460	objPhil	Vadrouilleur!	
 11461	objPhil	||Ça fait une paye,| pas vrai?	
 11462	objPhil	Je suis juste heureux d'être en vie...	
 11463	objPhil	Après tout ce que le monde et moi avons traversé.	
@@ -10597,12 +10597,12 @@
 11467	objPhil	Mais après tant de guerre,| c'est une bonne chose.	
 11468	objPhil	Je pense que je suis également prêt à voyager un peu de mon côté.	
 11469	objPhil	Je vais prendre mon banjo et parcourir le monde!	
-11470	objPhil	Par tous les moyens possibles,| vagabond.	
+11470	objPhil	Par tous les moyens possibles,| vadrouilleur.	
 11471	objPhil	Parce qu'il y a tant à faire,| et tant à voir.	
 11472	objPhil	Alors autant emprunter de nouveaux chemins!	
 11473	objPhil	Le monde nous réserve tant de beauté.	
 11474	objPhil	Ce serait dommage de passer à côté!	
-11475	objPhil	Je veux être comme toi,| vagabond.	
+11475	objPhil	Je veux être comme toi,| vadrouilleur.	
 11476	objPhil	Parcourir le monde avec un chant en mon coeur...	
 11477	objPhil	Rendre les gens heureux partout là où je vais...|| Ouais!	
 11478	objPhil	Tout le monde saura quand j'arrive grâce au son de mon banjo.	
